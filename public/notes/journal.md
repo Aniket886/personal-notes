@@ -7,3 +7,6 @@
 - 03:35 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. and the way I think about web security fundamentals
 - 02:35 AM IST: Revisited hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. after thinking about Digital Forensics Essentials (DFE). The strongest thread is still making security tooling practical for real users. A good reference point is Stay close to the actual user problem..
 - 12:35 AM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is secure-by-design engineering, and A clean notes habit makes project decisions easier to revisit.
+
+## 2026-04-14
+- 11:35 PM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. and the way I think about OSINT workflows
