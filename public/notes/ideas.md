@@ -28,3 +28,4 @@
 - 11:35 PM IST: Building tools like GitReverse helps bridge the gap between web development and digital security, simplifying security insights to make the web a more trustworthy space.
 - 07:35 PM IST: Building terralens with a secure by design mindset helps capture the essence of OSINT workflows before implementation complexities set in.
 - 03:35 PM IST: Building tools like the Data Wiping Tool helps bridge web development with digital security, making the web harder to break one practical solution at a time.
+- 11:35 AM IST: Simplifying security tooling is key to making the web harder to break, as seen in the Tech Carnival 2K26 Website project where intuitive design reduced user confusion.
