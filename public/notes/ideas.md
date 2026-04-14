@@ -32,3 +32,4 @@
 - 04:35 AM IST: Simplifying OSINT workflows starts with tools like MetaClean that prioritize clear privacy defaults and transparent metadata removal.
 - 12:35 AM IST: Simplifying OSINT workflows through clear explanations and repetition informs my approach to designing intuitive spatial interaction tools like hand-gestures in ArcMotion.
 - 08:35 PM IST: Incorporating intuitive hand-gestures into ArcMotion can make privacy features feel seamless and essential, rather than add-ons, for a more secure spatial interaction experience.
+- 04:35 PM IST: Simplifying security tooling is key to making digital forensics more accessible, a principle guiding my work on india-cyber-guard.
