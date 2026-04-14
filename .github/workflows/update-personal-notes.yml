@@ -34,7 +34,8 @@ jobs:
       - name: Update Personal Notes
         shell: bash
         env:
-          FILE_PATH: public/notes/data.txt
+          NOTE_FILE: public/notes/journal.md
+          IDEA_FILE: public/notes/ideas.md
           MIN_COMMITS: 10
           AUTO_MAX_COMMITS: 50
           MANUAL_MAX_COMMITS: 800
@@ -54,15 +55,14 @@ jobs:
             commit_count=$(( RANDOM % (AUTO_MAX_COMMITS - MIN_COMMITS + 1) + MIN_COMMITS ))
           fi
 
-          mkdir -p "$(dirname "$FILE_PATH")"
-          touch "$FILE_PATH"
           commit_day=$(TZ="$COMMIT_TIMEZONE" date +%F)
+          run_seed=$RANDOM
 
           for ((i=1; i<=commit_count; i++)); do
             commit_time=$(TZ="$COMMIT_TIMEZONE" date -d "$commit_day 00:05:00 +$((i - 1)) seconds" '+%Y-%m-%dT%H:%M:%S%z')
-            printf '%s commit-%02d of %02d\n' "$commit_time" "$i" "$commit_count" >> "$FILE_PATH"
-            git add "$FILE_PATH"
-            GIT_AUTHOR_DATE="$commit_time" GIT_COMMITTER_DATE="$commit_time" git commit -m "Daily streak maintenance"
+            commit_message="$(NOTE_FILE="$NOTE_FILE" IDEA_FILE="$IDEA_FILE" COMMIT_TIME="$commit_time" COMMIT_TIMEZONE="$COMMIT_TIMEZONE" COMMIT_INDEX="$i" RUN_SEED="$run_seed" bash scripts/update_personal_notes.sh)"
+            git add "$NOTE_FILE" "$IDEA_FILE"
+            GIT_AUTHOR_DATE="$commit_time" GIT_COMMITTER_DATE="$commit_time" git commit -m "$commit_message"
           done
 
           git push origin "$BRANCH_NAME"

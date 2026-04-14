@@ -1,6 +1,6 @@
 # personal-notes
 
-Personal notes repository for `@Aniket886` with an automated daily update workflow.
+Personal notes repository for `@Aniket886` with an automated daily update workflow built around factual project reflections, learning logs, and ideas.
 
 ## What It Does
 - Creates a random number of commits each day between `10` and `50`
@@ -8,6 +8,8 @@ Personal notes repository for `@Aniket886` with an automated daily update workfl
 - Uses only repo-local shell logic plus first-party GitHub Actions
 - Supports manual runs from the Actions tab
 - Supports an optional manual `commit_count` override from `10` to `800`
+- Writes believable notes to a rolling journal and ideas file instead of generic counter lines
+- Uses only approved factual details about projects, learning themes, roles, and achievements
 
 ## Schedule
 - Local time: `00:05 IST` every day
@@ -18,7 +20,10 @@ Commit timestamps are explicitly authored in `Asia/Kolkata` so the contribution 
 
 ## Files
 - Workflow: `.github/workflows/update-personal-notes.yml`
-- Update target file: `public/notes/data.txt`
+- Facts source: `.github/personal-notes-facts.sh`
+- Generator script: `scripts/update_personal_notes.sh`
+- Journal: `public/notes/journal.md`
+- Ideas: `public/notes/ideas.md`
 
 ## GitHub Setup
 
@@ -62,7 +67,7 @@ Use the same email address that should appear in your GitHub commit history.
 
 ## Expected Result
 After a successful run:
-- The workflow appends new lines to `public/notes/data.txt`
+- The workflow appends a factual reflection to `public/notes/journal.md` or `public/notes/ideas.md`
 - GitHub creates multiple commits on `main`
 - The commit author is `Aniket886` with the email from `COMMIT_USER_EMAIL`
 - Future scheduled runs happen automatically every day at `00:05 IST` with a random count from `10` to `50`
@@ -72,4 +77,5 @@ After a successful run:
 - The workflow stays self-contained and does not depend on third-party marketplace actions for the commit logic.
 - Manual runs can use higher counts up to `800`, but automatic runs will never exceed `50`.
 - The workflow sets explicit IST commit timestamps, so new runs should count toward the intended India date instead of the previous UTC day.
+- Generated content is limited to approved facts and avoids sensitive details such as email, direct contact info, and raw analytics.
 - If a manual run fails immediately, check that `COMMIT_USER_EMAIL` exists and workflow permissions are set to `Read and write`.
