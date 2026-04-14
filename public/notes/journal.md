@@ -18,3 +18,4 @@
 - 01:35 AM IST: BCA student at GM University, Davanagere. The current learning thread is digital forensics, and AI tooling is most useful when it reduces noise instead of adding it.
 - 12:35 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. and the way I think about investigation workflow design
 - 11:35 PM IST: Revisited Data Wiping Tool: a public data privacy utility published as a live project. after thinking about Innovating with Google Cloud Artificial Intelligence. The work feels best when the technical detail supports a clear outcome. A good reference point is Stay close to the actual user problem..
+- 09:35 PM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is secure-by-design engineering, and Frontend polish still matters even in security-heavy products.
