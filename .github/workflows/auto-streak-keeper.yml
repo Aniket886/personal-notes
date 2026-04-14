@@ -1,0 +1,48 @@
+name: Maintain GitHub Streak
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  auto-streak:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "20"
+
+      - name: Configure Git
+        run: |
+          git config user.name "Aniket886"
+          git config user.email "${{ secrets.GITHUB_USER_EMAIL }}"
+
+      - name: Run Auto-Streak Keeper
+        shell: bash
+        env:
+          FILE_PATH: public/auto-streak/data.txt
+          MIN_COMMITS: 10
+          MAX_COMMITS: 50
+          BRANCH_NAME: main
+        run: |
+          set -euo pipefail
+
+          commit_count=$(( RANDOM % (MAX_COMMITS - MIN_COMMITS + 1) + MIN_COMMITS ))
+          mkdir -p "$(dirname "$FILE_PATH")"
+          touch "$FILE_PATH"
+
+          for ((i=1; i<=commit_count; i++)); do
+            printf '%s commit-%02d\n' "$(date -u +'%Y-%m-%dT%H:%M:%SZ')" "$i" >> "$FILE_PATH"
+            git add "$FILE_PATH"
+            git commit -m "Daily streak maintenance"
+          done
+
+          git push origin "$BRANCH_NAME"
