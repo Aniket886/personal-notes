@@ -49,3 +49,4 @@
 - 05:35 PM IST: Building tools like the Data Wiping Tool helps bridge web development with digital security, reinforcing that good investigation notes are crucial to creating a more secure web.
 - 01:35 PM IST: Building on MetaClean's success, I'm exploring how to turn my investigative habits into developer-facing checklists to further bridge web development and digital security.
 - 09:35 AM IST: Turning investigation habits into developer-facing checklists is key to making tools like GitReverse effective in bridging web development with digital security.
+- 05:35 AM IST: Capturing the build logic of terralens upfront ensures a secure by design approach, setting a strong foundation for our privacy-focused product.
