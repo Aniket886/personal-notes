@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       commit_count:
-        description: "Optional fixed commit count for this run (10-69)"
+        description: "Optional fixed commit count for this run (10-800)"
         required: false
 
 jobs:
@@ -36,20 +36,21 @@ jobs:
         env:
           FILE_PATH: public/auto-streak/data.txt
           MIN_COMMITS: 10
-          MAX_COMMITS: 69
+          AUTO_MAX_COMMITS: 200
+          MANUAL_MAX_COMMITS: 800
           BRANCH_NAME: main
           INPUT_COMMIT_COUNT: ${{ github.event.inputs.commit_count }}
         run: |
           set -euo pipefail
 
           if [ -n "${INPUT_COMMIT_COUNT:-}" ]; then
-            if ! [[ "$INPUT_COMMIT_COUNT" =~ ^[0-9]+$ ]] || [ "$INPUT_COMMIT_COUNT" -lt "$MIN_COMMITS" ] || [ "$INPUT_COMMIT_COUNT" -gt "$MAX_COMMITS" ]; then
-              echo "commit_count must be an integer between $MIN_COMMITS and $MAX_COMMITS"
+            if ! [[ "$INPUT_COMMIT_COUNT" =~ ^[0-9]+$ ]] || [ "$INPUT_COMMIT_COUNT" -lt "$MIN_COMMITS" ] || [ "$INPUT_COMMIT_COUNT" -gt "$MANUAL_MAX_COMMITS" ]; then
+              echo "manual commit_count must be an integer between $MIN_COMMITS and $MANUAL_MAX_COMMITS"
               exit 1
             fi
             commit_count="$INPUT_COMMIT_COUNT"
           else
-            commit_count=$(( RANDOM % (MAX_COMMITS - MIN_COMMITS + 1) + MIN_COMMITS ))
+            commit_count=$(( RANDOM % (AUTO_MAX_COMMITS - MIN_COMMITS + 1) + MIN_COMMITS ))
           fi
 
           mkdir -p "$(dirname "$FILE_PATH")"
