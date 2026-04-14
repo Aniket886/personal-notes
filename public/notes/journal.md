@@ -11,3 +11,4 @@
 ## 2026-04-14
 - 11:35 PM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. and the way I think about OSINT workflows
 - 10:35 PM IST: Revisited MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. after thinking about Google AI Essentials. I keep coming back to simplicity, speed, and trust. A good reference point is Turn the rough idea into something testable..
+- 08:35 PM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is investigation workflow design, and OSINT and forensics work get stronger when the workflow is repeatable.
