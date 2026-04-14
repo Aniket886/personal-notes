@@ -36,7 +36,7 @@ jobs:
         env:
           FILE_PATH: public/auto-streak/data.txt
           MIN_COMMITS: 10
-          AUTO_MAX_COMMITS: 200
+          AUTO_MAX_COMMITS: 50
           MANUAL_MAX_COMMITS: 800
           BRANCH_NAME: main
           INPUT_COMMIT_COUNT: ${{ github.event.inputs.commit_count }}

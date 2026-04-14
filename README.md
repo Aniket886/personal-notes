@@ -3,7 +3,7 @@
 This repository uses a GitHub Actions workflow to create automated daily commits on `main` and keep contribution activity moving.
 
 ## What It Does
-- Creates a random number of commits each day between `10` and `200`
+- Creates a random number of commits each day between `10` and `50`
 - Runs automatically every day at `00:05 IST`
 - Uses only repo-local shell logic plus first-party GitHub Actions
 - Supports manual runs from the Actions tab
@@ -67,11 +67,11 @@ After a successful run:
 - The workflow appends new lines to `public/auto-streak/data.txt`
 - GitHub creates multiple commits on `main`
 - The commit author is `Aniket886` with the email from `COMMIT_USER_EMAIL`
-- Future scheduled runs happen automatically every day at `00:05 IST` with a random count from `10` to `200`
+- Future scheduled runs happen automatically every day at `00:05 IST` with a random count from `10` to `50`
 
 ## Notes
 - GitHub may delay scheduled workflows slightly during heavy load.
 - The workflow stays self-contained and does not depend on third-party marketplace actions for the commit logic.
-- Manual runs can use higher counts up to `800`, but automatic runs will never exceed `200`.
+- Manual runs can use higher counts up to `800`, but automatic runs will never exceed `50`.
 - The workflow sets explicit IST commit timestamps, so new runs should count toward the intended India date instead of the previous UTC day.
 - If a manual run fails immediately, check that `COMMIT_USER_EMAIL` exists and workflow permissions are set to `Read and write`.
