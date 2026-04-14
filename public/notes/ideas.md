@@ -11,3 +11,4 @@
 - 02:35 AM IST: Privacy features should feel normal, not optional.
 - 10:35 PM IST: Idea to revisit: Capture the build logic before the implementation gets noisy. Related thread: investigation workflow design
 - 05:35 AM IST: Security tooling should reduce confusion, not create more of it.
+- 01:35 AM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: OSINT workflows
