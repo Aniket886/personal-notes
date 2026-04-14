@@ -39,3 +39,4 @@
 - 02:35 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is secure-by-design engineering, and Frontend polish still matters even in security-heavy products.
 - 01:35 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. and the way I think about privacy-focused product design
 - 12:35 AM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about Advent of Cyber. I keep coming back to simplicity, speed, and trust. A good reference point is Keep the scope practical and focus on real-world use..
+- 10:35 PM IST: Founder at CYBER DRAVIDA. The current learning thread is web security fundamentals, and Developer tools become credible when the defaults are safe.
