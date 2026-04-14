@@ -43,7 +43,7 @@ This is required because the workflow commits and pushes back to `main`.
 
 | Secret | Value |
 |--------|-------|
-| `GITHUB_USER_EMAIL` | The email address you want on the automated commits |
+| `COMMIT_USER_EMAIL` | The email address you want on the automated commits |
 
 Use the same email address that should appear in your GitHub commit history.
 
@@ -65,10 +65,10 @@ Before relying on the daily schedule, run it once manually.
 After a successful run:
 - The workflow appends new lines to `public/auto-streak/data.txt`
 - GitHub creates multiple commits on `main`
-- The commit author is `Aniket886` with the email from `GITHUB_USER_EMAIL`
+- The commit author is `Aniket886` with the email from `COMMIT_USER_EMAIL`
 - Future runs happen automatically every day at `00:05 IST`
 
 ## Notes
 - GitHub may delay scheduled workflows slightly during heavy load.
 - The workflow stays self-contained and does not depend on third-party marketplace actions for the commit logic.
-- If a manual run fails immediately, check that `GITHUB_USER_EMAIL` exists and workflow permissions are set to `Read and write`.
+- If a manual run fails immediately, check that `COMMIT_USER_EMAIL` exists and workflow permissions are set to `Read and write`.

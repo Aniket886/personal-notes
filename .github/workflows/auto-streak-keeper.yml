@@ -21,10 +21,10 @@ jobs:
 
       - name: Configure Git
         env:
-          GIT_USER_EMAIL: ${{ secrets.GITHUB_USER_EMAIL }}
+          GIT_USER_EMAIL: ${{ secrets.COMMIT_USER_EMAIL }}
         run: |
           if [ -z "$GIT_USER_EMAIL" ]; then
-            echo "Missing GITHUB_USER_EMAIL secret"
+            echo "Missing COMMIT_USER_EMAIL secret"
             exit 1
           fi
 
