@@ -36,3 +36,4 @@
 - 08:35 PM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is digital forensics, and Frontend polish still matters even in security-heavy products.
 - 05:35 AM IST: TryHackMe Top 1% with a 500-day learning streak. keeps standing out. It connects well with terralens: an active TypeScript product iteration from April 2026. and the way I think about OSINT workflows
 - 04:35 AM IST: Revisited Data Wiping Tool: a public data privacy utility published as a live project. after thinking about OSINT Cyber Crime Investigation (CCI). The build side matters as much as the investigation side. A good reference point is Document the thinking clearly enough that it can be reused..
+- 02:35 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is secure-by-design engineering, and Frontend polish still matters even in security-heavy products.
