@@ -15,3 +15,4 @@
 - 09:35 PM IST: Working line: Good investigation notes are part of the product. Project anchor: Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT.
 - 05:35 AM IST: Secure by design beats secure by patch.
 - 01:35 AM IST: Idea to revisit: Map one lesson from cybersecurity mentoring into a product UX decision. Related thread: privacy-focused product design
+- 09:35 PM IST: Working line: Build practical tools that make the web harder to break. Project anchor: GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths.
