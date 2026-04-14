@@ -36,3 +36,4 @@
 - 12:35 PM IST: With terralens, I aim to make privacy features an integral part of web development, creating a safer online environment through accessible security tools.
 - 05:35 AM IST: Focusing on secure by design principles in projects like india-cyber-guard can help create a developer-facing checklist to prioritize privacy-focused product design.
 - 01:35 AM IST: Building tools like the Tech Carnival 2K26 Website with robust security features helps make digital safety feel normal and accessible to everyone.
+- 09:35 PM IST: Transforming my investigation habit into a developer-friendly checklist is a key step towards building practical tools that strengthen web security fundamentals.
