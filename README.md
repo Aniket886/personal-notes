@@ -1,40 +1,74 @@
 # GitHub Streak Maintainer for @Aniket886
 
-Automated daily commits to maintain your GitHub contribution streak.
+This repository uses a GitHub Actions workflow to create automated daily commits on `main` and keep contribution activity moving.
 
-## Features
-- **10-50 random commits per day** - Ensures consistent activity
-- **Runs daily at midnight UTC** - Automated via GitHub Actions
-- **Manual trigger available** - Use `workflow_dispatch` for testing
+## What It Does
+- Creates a random number of commits each day between `10` and `69`
+- Runs automatically every day at `00:05 IST`
+- Uses only repo-local shell logic plus first-party GitHub Actions
+- Supports manual runs from the Actions tab
+- Supports an optional manual `commit_count` override for testing
 
-## Setup Instructions
+## Schedule
+- Local time: `00:05 IST` every day
+- GitHub Actions cron time: `18:35 UTC` on the previous UTC day
 
-### 1. Fork this repository to your account
-Click the Fork button on GitHub to create your own copy.
+The workflow uses UTC internally because GitHub Actions cron expressions always run in UTC.
+
+## Files
+- Workflow: `.github/workflows/auto-streak-keeper.yml`
+- Commit target file: `public/auto-streak/data.txt`
+
+## GitHub Setup
+
+### 1. Push the repository to your GitHub account
+Make sure this repository exists under your account and the default branch is `main`.
 
 ### 2. Enable GitHub Actions
-- Go to your fork's **Settings** → **Actions** → **General**
-- Ensure "Allow all actions" is selected
+1. Open the repository on GitHub.
+2. Go to `Settings` -> `Actions` -> `General`.
+3. Make sure Actions are allowed for the repository.
 
-### 3. Add Repository Secret
-- Go to **Settings** → **Secrets and variables** → **Actions**
-- Click **New repository secret**
-- Name: `GITHUB_USER_EMAIL`
-- Value: Your GitHub email address
+### 3. Enable workflow write permissions
+1. In `Settings` -> `Actions` -> `General`, scroll to **Workflow permissions**.
+2. Select `Read and write permissions`.
+3. Save the change.
 
-### 4. Enable Workflow
-- Go to **Actions** tab
-- Click on the workflow
-- Click **Enable workflow**
+This is required because the workflow commits and pushes back to `main`.
 
-## Configuration
+### 4. Add the required repository secret
+1. Go to `Settings` -> `Secrets and variables` -> `Actions`.
+2. Click `New repository secret`.
+3. Create this secret:
 
-| Setting | Value |
-|---------|-------|
-| Min commits | 10 |
-| Max commits | 50 |
-| Schedule | Daily at 00:00 UTC |
-| Branch | main |
+| Secret | Value |
+|--------|-------|
+| `GITHUB_USER_EMAIL` | The email address you want on the automated commits |
 
-## Manual Trigger
-You can manually run the workflow from the Actions tab using "Run workflow" button.
+Use the same email address that should appear in your GitHub commit history.
+
+### 5. Enable the workflow
+1. Open the `Actions` tab.
+2. Open the `Maintain GitHub Streak` workflow.
+3. If GitHub shows the workflow as disabled, enable it.
+
+## Manual Test Run
+Before relying on the daily schedule, run it once manually.
+
+1. Open the `Actions` tab.
+2. Select `Maintain GitHub Streak`.
+3. Click `Run workflow`.
+4. Optionally enter `commit_count` with a value from `10` to `69`.
+5. Run the workflow on branch `main`.
+
+## Expected Result
+After a successful run:
+- The workflow appends new lines to `public/auto-streak/data.txt`
+- GitHub creates multiple commits on `main`
+- The commit author is `Aniket886` with the email from `GITHUB_USER_EMAIL`
+- Future runs happen automatically every day at `00:05 IST`
+
+## Notes
+- GitHub may delay scheduled workflows slightly during heavy load.
+- The workflow stays self-contained and does not depend on third-party marketplace actions for the commit logic.
+- If a manual run fails immediately, check that `GITHUB_USER_EMAIL` exists and workflow permissions are set to `Read and write`.
