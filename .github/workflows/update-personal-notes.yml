@@ -1,4 +1,4 @@
-name: Maintain GitHub Streak
+name: Update Personal Notes
 
 on:
   schedule:
@@ -10,7 +10,7 @@ on:
         required: false
 
 jobs:
-  auto-streak:
+  update-notes:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -31,10 +31,10 @@ jobs:
           git config user.name "Aniket886"
           git config user.email "$GIT_USER_EMAIL"
 
-      - name: Run Auto-Streak Keeper
+      - name: Update Personal Notes
         shell: bash
         env:
-          FILE_PATH: public/auto-streak/data.txt
+          FILE_PATH: public/notes/data.txt
           MIN_COMMITS: 10
           AUTO_MAX_COMMITS: 50
           MANUAL_MAX_COMMITS: 800

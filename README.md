@@ -1,6 +1,6 @@
-# GitHub Streak Maintainer for @Aniket886
+# personal-notes
 
-This repository uses a GitHub Actions workflow to create automated daily commits on `main` and keep contribution activity moving.
+Personal notes repository for `@Aniket886` with an automated daily update workflow.
 
 ## What It Does
 - Creates a random number of commits each day between `10` and `50`
@@ -13,17 +13,17 @@ This repository uses a GitHub Actions workflow to create automated daily commits
 - Local time: `00:05 IST` every day
 - GitHub Actions cron time: `18:35 UTC` on the previous UTC day
 
-The workflow uses UTC internally because GitHub Actions cron expressions always run in UTC.
+GitHub Actions cron always runs in UTC.
 Commit timestamps are explicitly authored in `Asia/Kolkata` so the contribution graph lines up with the IST calendar day.
 
 ## Files
-- Workflow: `.github/workflows/auto-streak-keeper.yml`
-- Commit target file: `public/auto-streak/data.txt`
+- Workflow: `.github/workflows/update-personal-notes.yml`
+- Update target file: `public/notes/data.txt`
 
 ## GitHub Setup
 
 ### 1. Push the repository to your GitHub account
-Make sure this repository exists under your account and the default branch is `main`.
+Make sure this repository exists under your account as `personal-notes` and the default branch is `main`.
 
 ### 2. Enable GitHub Actions
 1. Open the repository on GitHub.
@@ -50,21 +50,19 @@ Use the same email address that should appear in your GitHub commit history.
 
 ### 5. Enable the workflow
 1. Open the `Actions` tab.
-2. Open the `Maintain GitHub Streak` workflow.
+2. Open the `Update Personal Notes` workflow.
 3. If GitHub shows the workflow as disabled, enable it.
 
 ## Manual Test Run
-Before relying on the daily schedule, run it once manually.
-
 1. Open the `Actions` tab.
-2. Select `Maintain GitHub Streak`.
+2. Select `Update Personal Notes`.
 3. Click `Run workflow`.
 4. Optionally enter `commit_count` with a value from `10` to `800`.
 5. Run the workflow on branch `main`.
 
 ## Expected Result
 After a successful run:
-- The workflow appends new lines to `public/auto-streak/data.txt`
+- The workflow appends new lines to `public/notes/data.txt`
 - GitHub creates multiple commits on `main`
 - The commit author is `Aniket886` with the email from `COMMIT_USER_EMAIL`
 - Future scheduled runs happen automatically every day at `00:05 IST` with a random count from `10` to `50`
