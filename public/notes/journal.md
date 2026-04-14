@@ -27,3 +27,4 @@
 - 11:35 PM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about OSINT workflows
 - 10:35 PM IST: Revisited GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. after thinking about MongoDB AI and Innovation. I keep coming back to simplicity, speed, and trust. A good reference point is Tighten the flow and keep the implementation honest..
 - 08:35 PM IST: BCA student at GM University, Davanagere. The current learning thread is OSINT workflows, and Developer tools become credible when the defaults are safe.
+- 04:35 AM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is privacy-focused product design, and Frontend polish still matters even in security-heavy products.
