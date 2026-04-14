@@ -29,7 +29,7 @@ This repository does four things:
 | 3 | Generates note content for each commit |
 | 4 | Commits those note updates back to `main` |
 
-The goal is to keep the repository activity looking like a believable personal workspace instead of a mechanical streak bot.
+This repository is automated to update daily on behalf of me — using AI to write personal journal entries and idea notes about myself, my projects, and my learning journey.
 
 ---
 
