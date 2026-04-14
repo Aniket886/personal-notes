@@ -8,3 +8,4 @@
 
 ## 2026-04-14
 - 09:35 PM IST: Security tooling should reduce confusion, not create more of it.
+- 02:35 AM IST: Privacy features should feel normal, not optional.
