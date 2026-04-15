@@ -68,3 +68,4 @@
 - 02:35 PM IST: My goal with india-cyber-guard is to turn complex security concepts into intuitive tools that simplify the process of securing the web.
 - 04:35 AM IST: Privacy features should feel normal, not optional.
 - 12:35 AM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: OSINT workflows
+- 08:35 PM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths.
