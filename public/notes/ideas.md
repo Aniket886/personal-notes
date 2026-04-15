@@ -65,3 +65,4 @@
 - 02:35 AM IST: Building a secure Tech Carnival 2K26 Website with robust investigation notes at its core helps bridge web development and digital security.
 - 10:35 PM IST: Building practical tools like india-cyber-guard helps bridge web development with digital security, making the web harder to break through privacy-focused product design.
 - 06:35 PM IST: Building practical security tools like india-cyber-guard helps bridge web development with digital security, making the web harder to break.
+- 02:35 PM IST: My goal with india-cyber-guard is to turn complex security concepts into intuitive tools that simplify the process of securing the web.
