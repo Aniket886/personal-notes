@@ -58,11 +58,19 @@ jobs:
             commit_count=$(( RANDOM % (AUTO_MAX_COMMITS - MIN_COMMITS + 1) + MIN_COMMITS ))
           fi
 
-          commit_day=$(TZ="$COMMIT_TIMEZONE" date +%F)
           run_seed=$RANDOM
+          last_commit_epoch=0
 
           for ((i=1; i<=commit_count; i++)); do
-            commit_time=$(TZ="$COMMIT_TIMEZONE" date -d "$commit_day 00:05:00 +$((i - 1)) seconds" '+%Y-%m-%dT%H:%M:%S%z')
+            current_epoch="$(date +%s)"
+            if [ "$current_epoch" -le "$last_commit_epoch" ]; then
+              commit_epoch=$((last_commit_epoch + 1))
+            else
+              commit_epoch="$current_epoch"
+            fi
+            last_commit_epoch="$commit_epoch"
+
+            commit_time=$(TZ="$COMMIT_TIMEZONE" date -d "@$commit_epoch" '+%Y-%m-%dT%H:%M:%S%z')
             commit_message="$(NOTE_FILE="$NOTE_FILE" IDEA_FILE="$IDEA_FILE" COMMIT_TIME="$commit_time" COMMIT_TIMEZONE="$COMMIT_TIMEZONE" COMMIT_INDEX="$i" RUN_SEED="$run_seed" bash scripts/update_personal_notes.sh)"
             git add "$NOTE_FILE" "$IDEA_FILE"
             GIT_AUTHOR_DATE="$commit_time" GIT_COMMITTER_DATE="$commit_time" git commit -m "$commit_message"
