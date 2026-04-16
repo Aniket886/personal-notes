@@ -75,3 +75,6 @@
 - 08:27 PM IST: Secure by design beats secure by patch.
 - 08:28 PM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: ethical hacking
 - 08:28 PM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT.
+
+## 2026-04-17
+- 01:15 AM IST: With GitReverse, I aim to make privacy defaults clearer in every project by integrating good investigation notes as a core part of the product, bridging web development with digital security through AI-assisted tooling.
