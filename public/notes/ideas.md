@@ -81,3 +81,4 @@
 - 01:16 AM IST: With terralens, I'm focusing on designing a clear and explainable workflow that captures the build logic, making it easier to bridge web development with digital security.
 - 01:16 AM IST: Building practical tools like FakeBusters to detect social media deception brings me closer to my goal of making the web harder to break.
 - 01:16 AM IST: Simplifying security tooling is key to making the web more secure, as seen in the india-cyber-guard project.
+- 01:16 AM IST: Simplifying workflows and making privacy defaults clearer is key to building secure and reliable platforms like the Tech Carnival 2K26 Website.
