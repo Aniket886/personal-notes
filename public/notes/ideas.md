@@ -88,3 +88,4 @@
 
 ## 2026-04-19
 - 12:54 AM IST: Building FakeBusters for HACKANOVA 2026 taught me that good investigation notes are crucial in ethical hacking projects, helping capture the logic before implementation complexities arise.
+- 12:54 AM IST: Streamlining the Tech Carnival 2K26 Website's admin dashboard with clear and repeatable workflows helps ensure a secure and intuitive user experience, aligning with the goal of building practical tools that strengthen digital security.
