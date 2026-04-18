@@ -85,3 +85,6 @@
 
 ## 2026-04-18
 - 01:09 AM IST: Simplifying security tools is key to making the web a safer place, a goal I'm working towards by creating intuitive platforms like the Tech Carnival 2K26 Website.
+
+## 2026-04-19
+- 12:54 AM IST: Building FakeBusters for HACKANOVA 2026 taught me that good investigation notes are crucial in ethical hacking projects, helping capture the logic before implementation complexities arise.
