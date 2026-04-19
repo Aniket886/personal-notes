@@ -136,3 +136,4 @@
 - 01:19 PM IST: Working line: Secure by design beats secure by patch. Project anchor: Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT.
 - 01:19 PM IST: The best workflow is the one I can explain clearly and repeat.
 - 01:19 PM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: web security fundamentals
+- 01:19 PM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: india-cyber-guard: an active TypeScript security-oriented repository.
