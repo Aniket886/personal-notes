@@ -508,3 +508,4 @@
 - 01:22 PM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is digital forensics, and Frontend polish still matters even in security-heavy products.
 - 01:22 PM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. and the way I think about privacy-focused product design
 - 01:22 PM IST: Revisited hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. after thinking about MongoDB AI and Innovation. The build side matters as much as the investigation side. A good reference point is Keep the scope practical and focus on real-world use..
+- 01:22 PM IST: Founder at CYBER DRAVIDA. The current learning thread is ethical hacking, and Security learning becomes more durable when it is connected to a working product.
