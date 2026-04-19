@@ -154,3 +154,4 @@
 - 01:20 PM IST: Working line: Privacy features should feel normal, not optional. Project anchor: Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT.
 - 01:20 PM IST: Build practical tools that make the web harder to break.
 - 01:20 PM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: digital forensics
+- 01:20 PM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT.
