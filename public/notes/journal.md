@@ -511,3 +511,4 @@
 - 01:22 PM IST: Founder at CYBER DRAVIDA. The current learning thread is ethical hacking, and Security learning becomes more durable when it is connected to a working product.
 - 01:22 PM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. and the way I think about secure-by-design engineering
 - 01:22 PM IST: Revisited hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. after thinking about MongoDB AI and Innovation. Good product framing keeps security work from becoming noise. A good reference point is Document the thinking clearly enough that it can be reused..
+- 01:22 PM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is ethical hacking, and Developer tools become credible when the defaults are safe.
