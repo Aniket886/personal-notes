@@ -210,3 +210,4 @@
 - 01:24 PM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: investigation workflow design
 - 01:24 PM IST: Working line: Privacy features should feel normal, not optional. Project anchor: hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls.
 - 01:24 PM IST: Secure by design beats secure by patch.
+- 01:24 PM IST: Idea to revisit: Capture the build logic before the implementation gets noisy. Related thread: web security fundamentals
