@@ -130,3 +130,4 @@
 - 01:18 PM IST: Working line: Secure by design beats secure by patch. Project anchor: Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT.
 - 01:19 PM IST: Secure by design beats secure by patch.
 - 01:19 PM IST: Idea to revisit: Map one lesson from cybersecurity mentoring into a product UX decision. Related thread: investigation workflow design
+- 01:19 PM IST: Working line: Good investigation notes are part of the product. Project anchor: MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack.
