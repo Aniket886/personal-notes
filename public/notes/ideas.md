@@ -191,3 +191,4 @@
 - 01:23 PM IST: Privacy features should feel normal, not optional.
 - 01:23 PM IST: Idea to revisit: Capture the build logic before the implementation gets noisy. Related thread: digital forensics
 - 01:23 PM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face.
+- 01:23 PM IST: Build practical tools that make the web harder to break.
