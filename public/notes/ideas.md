@@ -121,3 +121,4 @@
 - 01:18 PM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT.
 - 01:18 PM IST: Security tooling should reduce confusion, not create more of it.
 - 01:18 PM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: privacy-focused product design
+- 01:18 PM IST: Working line: Build practical tools that make the web harder to break. Project anchor: terralens: an active TypeScript product iteration from April 2026.
