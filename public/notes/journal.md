@@ -259,3 +259,4 @@
 - 01:17 PM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is secure-by-design engineering, and Developer tools become credible when the defaults are safe.
 - 01:17 PM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about digital forensics
 - 01:17 PM IST: Revisited Data Wiping Tool: a public data privacy utility published as a live project. after thinking about Innovating with Google Cloud Artificial Intelligence. Good product framing keeps security work from becoming noise. A good reference point is Stay close to the actual user problem..
+- 01:17 PM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is web security fundamentals, and AI tooling is most useful when it reduces noise instead of adding it.
