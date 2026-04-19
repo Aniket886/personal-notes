@@ -605,3 +605,4 @@
 - 01:24 PM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about privacy-focused product design
 - 01:24 PM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about OSINT Cyber Crime Investigation (CCI). The build side matters as much as the investigation side. A good reference point is Keep the scope practical and focus on real-world use..
 - 01:24 PM IST: BCA student at GM University, Davanagere. The current learning thread is investigation workflow design, and AI tooling is most useful when it reduces noise instead of adding it.
+- 01:24 PM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about OSINT workflows
