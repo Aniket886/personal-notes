@@ -601,3 +601,4 @@
 - 01:24 PM IST: BCA student at GM University, Davanagere. The current learning thread is OSINT workflows, and AI tooling is most useful when it reduces noise instead of adding it.
 - 01:24 PM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. and the way I think about OSINT workflows
 - 01:24 PM IST: Revisited hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. after thinking about Google AI Essentials. The most useful tools are the ones people can adopt without friction. A good reference point is Turn the rough idea into something testable..
+- 01:24 PM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is OSINT workflows, and Frontend polish still matters even in security-heavy products.
