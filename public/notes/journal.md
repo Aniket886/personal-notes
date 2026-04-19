@@ -289,3 +289,4 @@
 - 01:17 PM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is secure-by-design engineering, and A clean notes habit makes project decisions easier to revisit.
 - 01:17 PM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. and the way I think about privacy-focused product design
 - 01:17 PM IST: Revisited Data Wiping Tool: a public data privacy utility published as a live project. after thinking about Advent of Cyber. The build side matters as much as the investigation side. A good reference point is Turn the rough idea into something testable..
+- 01:17 PM IST: BCA student at GM University, Davanagere. The current learning thread is web security fundamentals, and A clean notes habit makes project decisions easier to revisit.
