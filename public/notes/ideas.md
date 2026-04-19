@@ -185,3 +185,4 @@
 - 01:22 PM IST: Privacy features should feel normal, not optional.
 - 01:22 PM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: ethical hacking
 - 01:22 PM IST: Working line: Privacy features should feel normal, not optional. Project anchor: FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face.
+- 01:22 PM IST: Good investigation notes are part of the product.
