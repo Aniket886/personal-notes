@@ -179,3 +179,4 @@
 - 01:22 PM IST: Security tooling should reduce confusion, not create more of it.
 - 01:22 PM IST: Idea to revisit: Keep translating security knowledge into tools that are easier to use. Related thread: OSINT workflows
 - 01:22 PM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: india-cyber-guard: an active TypeScript security-oriented repository.
+- 01:22 PM IST: The best workflow is the one I can explain clearly and repeat.
