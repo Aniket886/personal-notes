@@ -574,3 +574,4 @@
 - 01:24 PM IST: Founder at CYBER DRAVIDA. The current learning thread is digital forensics, and A clean notes habit makes project decisions easier to revisit.
 - 01:24 PM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with terralens: an active TypeScript product iteration from April 2026. and the way I think about OSINT workflows
 - 01:24 PM IST: Revisited Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT. after thinking about Advent of Cyber. Good product framing keeps security work from becoming noise. A good reference point is Write the next small improvement before adding new surface area..
+- 01:24 PM IST: Founder at CYBER DRAVIDA. The current learning thread is OSINT workflows, and AI tooling is most useful when it reduces noise instead of adding it.
