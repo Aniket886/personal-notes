@@ -337,3 +337,4 @@
 - 01:18 PM IST: BCA student at GM University, Davanagere. The current learning thread is secure-by-design engineering, and A clean notes habit makes project decisions easier to revisit.
 - 01:18 PM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about digital forensics
 - 01:18 PM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about Advent of Cyber. I keep coming back to simplicity, speed, and trust. A good reference point is Stay close to the actual user problem..
+- 01:18 PM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is ethical hacking, and A clean notes habit makes project decisions easier to revisit.
