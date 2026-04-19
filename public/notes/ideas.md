@@ -167,3 +167,4 @@
 - 01:21 PM IST: Build practical tools that make the web harder to break.
 - 01:21 PM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: OSINT workflows
 - 01:21 PM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths.
+- 01:21 PM IST: Good investigation notes are part of the product.
