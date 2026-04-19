@@ -99,3 +99,4 @@
 - 01:16 PM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: investigation workflow design
 - 01:16 PM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: terralens: an active TypeScript product iteration from April 2026.
 - 01:17 PM IST: Secure by design beats secure by patch.
+- 01:17 PM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: privacy-focused product design
