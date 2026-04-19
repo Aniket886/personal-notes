@@ -199,3 +199,4 @@
 - 01:23 PM IST: Working line: Privacy features should feel normal, not optional. Project anchor: terralens: an active TypeScript product iteration from April 2026.
 - 01:23 PM IST: The best workflow is the one I can explain clearly and repeat.
 - 01:23 PM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: OSINT workflows
+- 01:23 PM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: india-cyber-guard: an active TypeScript security-oriented repository.
