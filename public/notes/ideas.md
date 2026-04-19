@@ -114,3 +114,4 @@
 - 01:17 PM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: secure-by-design engineering
 - 01:17 PM IST: Working line: Privacy features should feel normal, not optional. Project anchor: GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths.
 - 01:18 PM IST: Security tooling should reduce confusion, not create more of it.
+- 01:18 PM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: investigation workflow design
