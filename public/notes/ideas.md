@@ -183,3 +183,4 @@
 - 01:22 PM IST: Idea to revisit: Keep translating security knowledge into tools that are easier to use. Related thread: AI-assisted developer tooling
 - 01:22 PM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: india-cyber-guard: an active TypeScript security-oriented repository.
 - 01:22 PM IST: Privacy features should feel normal, not optional.
+- 01:22 PM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: ethical hacking
