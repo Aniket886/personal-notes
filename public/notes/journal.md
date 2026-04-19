@@ -274,3 +274,4 @@
 - 01:17 PM IST: BCA student at GM University, Davanagere. The current learning thread is AI-assisted developer tooling, and Frontend polish still matters even in security-heavy products.
 - 01:17 PM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT. and the way I think about OSINT workflows
 - 01:17 PM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about MongoDB AI and Innovation. The most useful tools are the ones people can adopt without friction. A good reference point is Stay close to the actual user problem..
+- 01:17 PM IST: Founder at CYBER DRAVIDA. The current learning thread is web security fundamentals, and Developer tools become credible when the defaults are safe.
