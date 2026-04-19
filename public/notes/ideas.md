@@ -204,3 +204,4 @@
 - 01:23 PM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: ethical hacking
 - 01:23 PM IST: Working line: Build practical tools that make the web harder to break. Project anchor: terralens: an active TypeScript product iteration from April 2026.
 - 01:24 PM IST: Privacy features should feel normal, not optional.
+- 01:24 PM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: secure-by-design engineering
