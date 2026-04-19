@@ -553,3 +553,4 @@
 - 01:23 PM IST: Founder at CYBER DRAVIDA. The current learning thread is OSINT workflows, and AI tooling is most useful when it reduces noise instead of adding it.
 - 01:23 PM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about ethical hacking
 - 01:23 PM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about Innovating with Google Cloud Artificial Intelligence. The work feels best when the technical detail supports a clear outcome. A good reference point is Write the next small improvement before adding new surface area..
+- 01:23 PM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is digital forensics, and OSINT and forensics work get stronger when the workflow is repeatable.
