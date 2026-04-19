@@ -608,3 +608,6 @@
 - 01:24 PM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about OSINT workflows
 - 01:24 PM IST: Revisited Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT. after thinking about Advent of Cyber. The strongest thread is still making security tooling practical for real users. A good reference point is Tighten the flow and keep the implementation honest..
 - 01:24 PM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is ethical hacking, and Frontend polish still matters even in security-heavy products.
+
+## 2026-04-20
+- 12:55 AM IST: Wrote down a few notes about my progress on GitReverse, and I keep coming back to simplicity, speed, and trust as key factors in bridging web development with digital security, which I aim to turn into something testable next.
