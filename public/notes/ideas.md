@@ -161,3 +161,4 @@
 - 01:21 PM IST: Good investigation notes are part of the product.
 - 01:21 PM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: investigation workflow design
 - 01:21 PM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: india-cyber-guard: an active TypeScript security-oriented repository.
+- 01:21 PM IST: Good investigation notes are part of the product.
