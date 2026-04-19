@@ -215,3 +215,4 @@
 - 01:24 PM IST: Security tooling should reduce confusion, not create more of it.
 - 01:24 PM IST: Idea to revisit: Map one lesson from cybersecurity mentoring into a product UX decision. Related thread: digital forensics
 - 01:24 PM IST: Working line: Secure by design beats secure by patch. Project anchor: india-cyber-guard: an active TypeScript security-oriented repository.
+- 01:24 PM IST: Privacy features should feel normal, not optional.
