@@ -391,3 +391,4 @@
 - 01:20 PM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is secure-by-design engineering, and AI tooling is most useful when it reduces noise instead of adding it.
 - 01:20 PM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about investigation workflow design
 - 01:20 PM IST: Revisited Data Wiping Tool: a public data privacy utility published as a live project. after thinking about Innovating with Google Cloud Artificial Intelligence. Good product framing keeps security work from becoming noise. A good reference point is Stay close to the actual user problem..
+- 01:20 PM IST: Founder at CYBER DRAVIDA. The current learning thread is ethical hacking, and OSINT and forensics work get stronger when the workflow is repeatable.
