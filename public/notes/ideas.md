@@ -127,3 +127,4 @@
 - 01:18 PM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: Data Wiping Tool: a public data privacy utility published as a live project.
 - 01:18 PM IST: Security tooling should reduce confusion, not create more of it.
 - 01:18 PM IST: Idea to revisit: Map one lesson from cybersecurity mentoring into a product UX decision. Related thread: secure-by-design engineering
+- 01:18 PM IST: Working line: Secure by design beats secure by patch. Project anchor: Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT.
