@@ -622,3 +622,4 @@
 
 ## 2026-04-21
 - 01:10 AM IST: Revisited the direction for terralens and realized that the most useful tools are the ones people can adopt without friction, which is why I'm keeping the scope practical and focusing on real-world use as I continue to learn about investigation workflow design.
+- 01:10 AM IST: Captured progress around GitReverse, where I applied digital forensics learnings as a BCA student, and realized the most useful tools are the ones people can adopt without friction, which informs my next step to document the thinking clearly enough that it can be reused.
