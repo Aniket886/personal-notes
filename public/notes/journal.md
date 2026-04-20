@@ -619,3 +619,6 @@
 - 12:55 AM IST: Revisited the direction for CYBER DRAVIDA and felt a sense of fulfillment knowing that my work on india-cyber-guard and training students in cybersecurity fundamentals is moving towards the mission of making the web harder to break.
 - 12:55 AM IST: Checked back in on my work with the india-cyber-guard project and I'm reminded that the strongest thread is still making security tooling practical for real users, so I'll keep the scope practical and focus on real-world use.
 - 12:55 AM IST: Wrote down a few notes about my experience with FakeBusters and HACKANOVA 2026, realizing the strongest thread is still making security tooling practical for real users, which reinforces my focus on secure-by-design engineering as a BCA student.
+
+## 2026-04-21
+- 01:10 AM IST: Revisited the direction for terralens and realized that the most useful tools are the ones people can adopt without friction, which is why I'm keeping the scope practical and focusing on real-world use as I continue to learn about investigation workflow design.
