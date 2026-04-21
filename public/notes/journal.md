@@ -633,3 +633,4 @@
 
 ## 2026-04-22
 - 01:16 AM IST: Made room to think through my work on the india-cyber-guard project and I'm finding that the technical details feel most satisfying when they support a clear outcome, like making the web more secure through AI-assisted developer tooling.
+- 01:16 AM IST: Spent time reflecting on my work in building practical security tools, and I'm convinced that making security tooling practical for real users is still the strongest thread, so next I'll tighten the flow and keep the implementation honest.
