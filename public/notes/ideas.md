@@ -256,3 +256,4 @@
 - 12:59 AM IST: Building practical tools like FakeBusters helps make the web harder to break by clarifying privacy defaults in OSINT workflows.
 - 12:59 AM IST: By integrating FakeBusters' deception detection capabilities into a developer-facing checklist, we can make digital security a standard consideration in web development, not an afterthought.
 - 12:59 AM IST: Building tools like GitReverse helps me stay focused on the mission to make the web more secure by providing clarity and actionable insights to developers.
+- 12:59 AM IST: Building practical tools like india-cyber-guard requires thorough investigation notes to bridge web development and digital security effectively.
