@@ -784,3 +784,4 @@
 - 09:30 PM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is digital forensics, and Security learning becomes more durable when it is connected to a working product.
 - 09:30 PM IST: TryHackMe Top 1% with a 500-day learning streak. keeps standing out. It connects well with hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. and the way I think about privacy-focused product design
 - 09:31 PM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about Google AI Essentials. The work feels best when the technical detail supports a clear outcome. A good reference point is Document the thinking clearly enough that it can be reused..
+- 09:31 PM IST: BCA student at GM University, Davanagere. The current learning thread is secure-by-design engineering, and OSINT and forensics work get stronger when the workflow is repeatable.
