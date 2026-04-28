@@ -265,3 +265,4 @@
 - 08:52 PM IST: Secure by design beats secure by patch.
 - 08:52 PM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: web security fundamentals
 - 08:52 PM IST: The best workflow is the one I can explain clearly and repeat.
+- 08:52 PM IST: Idea to revisit: Keep translating security knowledge into tools that are easier to use. Related thread: secure-by-design engineering
