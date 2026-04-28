@@ -719,3 +719,4 @@
 - 08:52 PM IST: Revisited Data Wiping Tool: a public data privacy utility published as a live project. after thinking about Google AI Essentials. I keep coming back to simplicity, speed, and trust. A good reference point is Keep the scope practical and focus on real-world use..
 - 08:52 PM IST: BCA student at GM University, Davanagere. The current learning thread is privacy-focused product design, and A clean notes habit makes project decisions easier to revisit.
 - 08:52 PM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. and the way I think about secure-by-design engineering
+- 08:52 PM IST: Founder at CYBER DRAVIDA. The current learning thread is privacy-focused product design, and Frontend polish still matters even in security-heavy products.
