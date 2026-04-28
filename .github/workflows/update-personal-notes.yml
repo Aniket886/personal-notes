@@ -96,6 +96,7 @@ jobs:
           git push origin "$BRANCH_NAME"
 
       - name: Trigger streak SVG refresh in profile repo
+        continue-on-error: true   # notes are already pushed — don't fail the job if trigger errors
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
