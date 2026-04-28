@@ -738,3 +738,4 @@
 - 08:58 PM IST: Founder at CYBER DRAVIDA. The current learning thread is privacy-focused product design, and Developer tools become credible when the defaults are safe.
 - 08:58 PM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about privacy-focused product design
 - 08:59 PM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about Google AI Essentials. Good product framing keeps security work from becoming noise. A good reference point is Tighten the flow and keep the implementation honest..
+- 08:59 PM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is investigation workflow design, and Developer tools become credible when the defaults are safe.
