@@ -288,3 +288,6 @@
 - 09:31 PM IST: Build practical tools that make the web harder to break.
 - 09:34 PM IST: Idea to revisit: Keep translating security knowledge into tools that are easier to use. Related thread: ethical hacking
 - 09:34 PM IST: Working line: Secure by design beats secure by patch. Project anchor: hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls.
+
+## 2026-04-29
+- 01:33 AM IST: Creating intuitive security tools like hand-gestures, which simplify investigation with spatial interaction and gesture tracking, is a step towards making digital forensics more accessible to developers.
