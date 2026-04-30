@@ -816,3 +816,4 @@
 ## 2026-05-01
 - 01:27 AM IST: Captured progress around my projects like the Data Wiping Tool and learning experiences with digital forensics, I keep coming back to simplicity, speed, and trust, and my next goal is to stay close to the actual user problem.
 - 01:27 AM IST: Spent time reflecting on my work on the Data Wiping Tool and I realized that the most useful tools are the ones people can adopt without friction, so I'll write the next small improvement before adding new surface area, keeping in mind that frontend polish still matters even in security-heavy products.
+- 01:27 AM IST: Revisited the direction for my work in bridging web development with digital security, and I've come to realize that the most useful tools are the ones people can adopt without friction, which is guiding my next steps in building practical tools like the Tech Carnival 2K26 Website.
