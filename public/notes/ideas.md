@@ -300,3 +300,4 @@
 
 ## 2026-05-01
 - 01:27 AM IST: With every project, including india-cyber-guard, I aim to make privacy defaults clearer, believing good investigation notes are essential to building robust digital security tools.
+- 01:27 AM IST: Making privacy defaults clearer in projects like hand-gestures is key to integrating security into everyday interactions, not just an afterthought.
