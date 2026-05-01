@@ -301,3 +301,6 @@
 ## 2026-05-01
 - 01:27 AM IST: With every project, including india-cyber-guard, I aim to make privacy defaults clearer, believing good investigation notes are essential to building robust digital security tools.
 - 01:27 AM IST: Making privacy defaults clearer in projects like hand-gestures is key to integrating security into everyday interactions, not just an afterthought.
+
+## 2026-05-02
+- 01:18 AM IST: Building the Tech Carnival 2K26 Website taught me that seamless privacy features are key to a secure web experience, and this mindset should guide every stage of development.
