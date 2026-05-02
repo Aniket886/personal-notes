@@ -829,3 +829,4 @@
 
 ## 2026-05-03
 - 01:05 AM IST: Spent time reflecting on my cybersecurity intern experience and projects like the Data Wiping Tool, and I feel that the work feels best when the technical detail supports a clear outcome, so next I will tighten the flow and keep the implementation honest.
+- 01:05 AM IST: Wrote down a few notes about my work on hand-gestures and realized that the build side matters as much as the investigation side, so I'll write the next small improvement before adding new surface area to this ArcMotion project.
