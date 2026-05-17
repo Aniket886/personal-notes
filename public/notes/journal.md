@@ -975,3 +975,4 @@
 
 ## 2026-05-18
 - 01:15 AM IST: Captured progress around building MetaClean, a metadata removal tool, and I've come to realize that the build side matters as much as the investigation side, so next I'll focus on staying close to the actual user problem.
+- 01:15 AM IST: Wrote down a few notes about my experience building the Tech Carnival 2K26 Website, and I keep coming back to simplicity, speed, and trust, realizing that AI-assisted developer tooling, like what I've learned from Google AI Essentials, is most useful when it reduces noise, which I'll document clearly to reuse in future projects.
