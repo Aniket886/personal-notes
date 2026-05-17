@@ -972,3 +972,6 @@
 - 01:10 AM IST: Revisited the direction for GitReverse and realized that the build side matters as much as the investigation side, so I'll keep the scope practical and focus on real-world use, applying OSINT workflows and lessons from my OSINT Cyber Crime Investigation certification to make a meaningful impact.
 - 01:10 AM IST: Made room to think through my work on FakeBusters and I'm reminded that good product framing keeps security work from becoming noise, so next I'll stay close to the actual user problem and focus on making my OSINT and forensics workflow more repeatable.
 - 01:10 AM IST: Spent time reflecting on my work with FakeBusters and I keep coming back to simplicity, speed, and trust as key elements in building secure tools, and I plan to document my thinking clearly so it can be reused, especially after applying web security fundamentals and learning from my experience as an Ethical Hacking Mentor.
+
+## 2026-05-18
+- 01:15 AM IST: Captured progress around building MetaClean, a metadata removal tool, and I've come to realize that the build side matters as much as the investigation side, so next I'll focus on staying close to the actual user problem.
