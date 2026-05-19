@@ -381,3 +381,4 @@
 - 01:37 PM IST: Idea to revisit: Keep translating security knowledge into tools that are easier to use. Related thread: AI-assisted developer tooling
 - 01:37 PM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack.
 - 01:37 PM IST: Secure by design beats secure by patch.
+- 01:37 PM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: ethical hacking
