@@ -387,3 +387,4 @@
 - 01:37 PM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: investigation workflow design
 - 01:37 PM IST: Working line: Build practical tools that make the web harder to break. Project anchor: Data Wiping Tool: a public data privacy utility published as a live project.
 - 01:37 PM IST: Privacy features should feel normal, not optional.
+- 01:37 PM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: ethical hacking
