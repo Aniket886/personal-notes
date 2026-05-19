@@ -1011,3 +1011,4 @@
 - 01:37 PM IST: Founder at CYBER DRAVIDA. The current learning thread is ethical hacking, and Developer tools become credible when the defaults are safe.
 - 01:37 PM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. and the way I think about digital forensics
 - 01:37 PM IST: Revisited Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT. after thinking about Innovating with Google Cloud Artificial Intelligence. I keep coming back to simplicity, speed, and trust. A good reference point is Keep the scope practical and focus on real-world use..
+- 01:37 PM IST: BCA student at GM University, Davanagere. The current learning thread is digital forensics, and A clean notes habit makes project decisions easier to revisit.
