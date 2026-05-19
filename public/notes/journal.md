@@ -994,3 +994,4 @@
 - 01:37 PM IST: TryHackMe Top 1% with a 500-day learning streak. keeps standing out. It connects well with terralens: an active TypeScript product iteration from April 2026. and the way I think about ethical hacking
 - 01:37 PM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about Advent of Cyber. The strongest thread is still making security tooling practical for real users. A good reference point is Keep the scope practical and focus on real-world use..
 - 01:37 PM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is AI-assisted developer tooling, and OSINT and forensics work get stronger when the workflow is repeatable.
+- 01:37 PM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about digital forensics
