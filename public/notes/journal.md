@@ -996,3 +996,4 @@
 - 01:37 PM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is AI-assisted developer tooling, and OSINT and forensics work get stronger when the workflow is repeatable.
 - 01:37 PM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about digital forensics
 - 01:37 PM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about Digital Forensics Essentials (DFE). Good product framing keeps security work from becoming noise. A good reference point is Tighten the flow and keep the implementation honest..
+- 01:37 PM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is OSINT workflows, and AI tooling is most useful when it reduces noise instead of adding it.
