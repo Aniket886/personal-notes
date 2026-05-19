@@ -1014,3 +1014,4 @@
 - 01:37 PM IST: BCA student at GM University, Davanagere. The current learning thread is digital forensics, and A clean notes habit makes project decisions easier to revisit.
 - 01:37 PM IST: TryHackMe Top 1% with a 500-day learning streak. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about web security fundamentals
 - 01:37 PM IST: Revisited Data Wiping Tool: a public data privacy utility published as a live project. after thinking about OSINT Cyber Crime Investigation (CCI). I keep coming back to simplicity, speed, and trust. A good reference point is Document the thinking clearly enough that it can be reused..
+- 01:37 PM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is secure-by-design engineering, and Developer tools become credible when the defaults are safe.
