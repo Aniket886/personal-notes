@@ -388,3 +388,4 @@
 - 01:37 PM IST: Working line: Build practical tools that make the web harder to break. Project anchor: Data Wiping Tool: a public data privacy utility published as a live project.
 - 01:37 PM IST: Privacy features should feel normal, not optional.
 - 01:37 PM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: ethical hacking
+- 01:37 PM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT.
