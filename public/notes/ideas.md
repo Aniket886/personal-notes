@@ -384,3 +384,4 @@
 - 01:37 PM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: ethical hacking
 - 01:37 PM IST: Working line: Privacy features should feel normal, not optional. Project anchor: Data Wiping Tool: a public data privacy utility published as a live project.
 - 01:37 PM IST: Security tooling should reduce confusion, not create more of it.
+- 01:37 PM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: investigation workflow design
