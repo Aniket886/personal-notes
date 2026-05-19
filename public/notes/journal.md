@@ -1028,3 +1028,4 @@
 
 ## 2026-05-20
 - 01:45 AM IST: Wrote down a few notes about my recent work on GitReverse, where I applied my experience as a former Ethical Hacking Mentor to build a practical tool that aligns with my mission to bridge web development with digital security, and I'm looking forward to writing the next small improvement, focusing on frontend polish, as I continue to learn about OSINT workflows and innovate with skills like those I gained from Innovating with Google Cloud Artificial Intelligence, after a great experience participating in HACKANOVA 2026.
+- 01:45 AM IST: Wrote down a few notes about my work on FakeBusters and I keep coming back to simplicity, speed, and trust, realizing that security learning becomes more durable when it is connected to a working product, so my next step is to tighten the flow and keep the implementation honest.
