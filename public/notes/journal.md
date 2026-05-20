@@ -1035,3 +1035,4 @@
 
 ## 2026-05-21
 - 02:04 AM IST: Checked back in on my work at CYBER DRAVIDA and I'm reminded that the strongest thread is still making security tooling practical for real users, which is why I'll keep the scope of projects like GitReverse practical and focused on real-world use.
+- 02:04 AM IST: Revisited the direction for my hand-gestures project and realized the work feels best when the technical detail supports a clear outcome, so I will write the next small improvement before adding new surface area.
