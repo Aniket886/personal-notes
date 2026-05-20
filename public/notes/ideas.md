@@ -393,3 +393,6 @@
 
 ## 2026-05-20
 - 01:45 AM IST: Simplifying security tooling is key to making the web more secure, as seen in the india-cyber-guard project where intuitive design reduces user confusion.
+
+## 2026-05-21
+- 02:05 AM IST: Simplifying investigation workflows is key to building trust in security tooling, as seen in india-cyber-guard.
