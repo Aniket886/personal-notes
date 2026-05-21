@@ -1043,3 +1043,4 @@
 
 ## 2026-05-22
 - 01:51 AM IST: Revisited the direction for terralens, realizing that good product framing is key to keeping security work from becoming noise, and I will stay close to the actual user problem as I continue to learn about digital forensics and apply my Google AI Essentials knowledge.
+- 01:51 AM IST: Captured progress around building MetaClean, a tool that simplifies metadata removal, and realized the most useful tools are the ones people can adopt without friction, which guides my next steps in keeping the scope practical and focused on real-world use.
