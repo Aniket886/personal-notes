@@ -411,3 +411,4 @@
 ## 2026-05-24
 - 01:14 AM IST: Incorporating good investigation notes into our Data Wiping Tool enhances its overall security and transparency as a public data privacy utility.
 - 01:14 AM IST: Building tools like the Data Wiping Tool helps turn secure by design into a reality, making it easier for developers to prioritize security from the start.
+- 01:15 AM IST: Making security intuitive is key, as seen in our Tech Carnival 2K26 Website project, where accessibility and privacy features helped create a seamless experience for over 310 participants.
