@@ -1068,3 +1068,4 @@
 
 ## 2026-05-24
 - 01:14 AM IST: Revisited the direction for my projects and realized that building practical tools like the Data Wiping Tool is just as important as investigating security gaps, so I'll tighten the flow and keep the implementation honest.
+- 01:14 AM IST: Checked back in on my india-cyber-guard project and realized that good product framing keeps security work from becoming noise, a valuable lesson learned through my experience with ethical hacking and Innovating with Google Cloud Artificial Intelligence certification, which I'll carry forward to keep the scope practical and focus on real-world use, building on insights gained from HACKANOVA 2026.
