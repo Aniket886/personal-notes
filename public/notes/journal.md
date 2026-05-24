@@ -1081,3 +1081,4 @@
 
 ## 2026-05-25
 - 01:17 AM IST: Wrote down a few notes about my cybersecurity internship experience and working on GitReverse, realizing that the most useful tools are the ones people can adopt without friction, which is guiding my next steps to write small improvements before adding new features.
+- 01:17 AM IST: Spent time reflecting on my work and realized that building practical tools like terralens, which combines web development with digital security, feels most fulfilling when technical details support a clear outcome, and I'm looking forward to tightening the flow and keeping the implementation honest in future projects.
