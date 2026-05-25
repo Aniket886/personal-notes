@@ -418,3 +418,4 @@
 
 ## 2026-05-26
 - 01:40 AM IST: With terralens, I'm learning that thorough investigation notes are just as essential as the code itself in making digital forensics more accessible and secure.
+- 01:40 AM IST: Simplifying OSINT workflows with MetaClean has taught me that a clear build logic is key to creating reliable tools that bridge web development and digital security.
