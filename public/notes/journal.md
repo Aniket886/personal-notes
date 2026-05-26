@@ -1097,3 +1097,4 @@
 
 ## 2026-05-27
 - 02:00 AM IST: Wrote down a few notes about my recent work on FakeBusters and I'm reminded that the strongest thread is still making security tooling practical for real users, so my next step is to stay close to the actual user problem and keep in mind that frontend polish still matters even in security-heavy products.
+- 02:00 AM IST: Revisited the direction for my secure-by-design engineering work, feeling most effective when technical details clearly support an outcome, now looking to document my thinking on projects like hand-gestures for reuse and stronger OSINT workflows.
