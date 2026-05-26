@@ -1094,3 +1094,6 @@
 - 01:40 AM IST: Spent time reflecting on my role in bridging web development with digital security, realizing that good product framing keeps security work from becoming noise, and now I'm ready to turn the rough idea of integrating hand-gestures project with ethical hacking learning into something testable.
 - 01:40 AM IST: Checked back in on my work with terralens and realized that good product framing is crucial in keeping my digital security efforts from becoming noise, so next I'll tighten the flow and keep the implementation honest.
 - 01:40 AM IST: Revisited the direction for GitReverse, realizing that good product framing is key to keeping security work from becoming noise, and now I plan to document my thinking clearly so it can be reused, building on my experience training students in secure-by-design engineering.
+
+## 2026-05-27
+- 02:00 AM IST: Wrote down a few notes about my recent work on FakeBusters and I'm reminded that the strongest thread is still making security tooling practical for real users, so my next step is to stay close to the actual user problem and keep in mind that frontend polish still matters even in security-heavy products.
