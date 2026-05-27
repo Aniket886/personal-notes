@@ -1102,3 +1102,6 @@
 - 02:00 AM IST: Made room to think through my recent work on MetaClean and I keep coming back to simplicity, speed, and trust as key elements in building practical tools that bridge web development with digital security.
 - 02:00 AM IST: Checked back in on terralens and I'm reminded that good product framing keeps security work from becoming noise, so I'll tighten the flow and keep the implementation honest as I continue to build practical tools that make the web harder to break.
 - 02:00 AM IST: Revisited the direction for terralens and I keep coming back to simplicity, speed, and trust as I work on turning a rough idea into something testable while exploring AI-assisted developer tooling and applying lessons from MongoDB AI and Innovation certification.
+
+## 2026-05-28
+- 02:03 AM IST: Wrote down a few notes about my work at CYBER DRAVIDA, where I've been building tools like GitReverse to bridge web development and digital security, and I'm reminded that the strongest thread is still making security tooling practical for real users.
