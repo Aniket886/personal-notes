@@ -1106,3 +1106,4 @@
 ## 2026-05-28
 - 02:03 AM IST: Wrote down a few notes about my work at CYBER DRAVIDA, where I've been building tools like GitReverse to bridge web development and digital security, and I'm reminded that the strongest thread is still making security tooling practical for real users.
 - 02:03 AM IST: Wrote down a few notes about my work at CYBER DRAVIDA, where I've been building practical tools like the Tech Carnival 2K26 Website, and I'm reminded that the build side matters as much as the investigation side, so I'll keep the scope practical and focus on real-world use as I continue learning about ethical hacking through certifications like Advent of Cyber.
+- 02:03 AM IST: Revisited the direction for my projects like hand-gestures, and I'm reminded that the most useful tools are the ones people can adopt without friction, so I'll tighten the flow and keep the implementation honest.
