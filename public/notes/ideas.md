@@ -431,3 +431,4 @@
 - 02:26 AM IST: For GitReverse and similar tools, a well-structured investigation checklist can be the difference between a good and great product, simplifying the path to secure web development.
 - 02:26 AM IST: Streamlining security tooling is key to making the web more secure, as seen with MetaClean's intuitive approach to metadata removal.
 - 02:26 AM IST: Building practical tools like the Tech Carnival 2K26 Website helps me connect the dots between learning, shipping, and trust in privacy-focused product design.
+- 02:26 AM IST: As I refine terralens, I'm streamlining investigation workflows into actionable checklists to make privacy a seamless part of web development.
