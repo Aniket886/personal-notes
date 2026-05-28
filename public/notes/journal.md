@@ -1113,3 +1113,4 @@
 - 02:26 AM IST: Spent time reflecting on my work with hand-gestures and realized the build side matters as much as the investigation side, so next I'll document my thinking clearly enough that it can be reused, especially considering how frontend polish still matters even in security-heavy products.
 - 02:26 AM IST: Made room to think through my work on the india-cyber-guard project and I keep coming back to simplicity, speed, and trust as key elements in building practical tools that make the web harder to break.
 - 02:26 AM IST: Wrote down a few notes about my work on india-cyber-guard and I'm reminded that the build side matters as much as the investigation side, so I'll write the next small improvement before adding new surface area.
+- 02:26 AM IST: Checked back in on my work with terralens and realized good product framing keeps security work from becoming noise, now I'm looking to turn the rough idea into something testable.
