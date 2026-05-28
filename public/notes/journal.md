@@ -1108,3 +1108,6 @@
 - 02:03 AM IST: Wrote down a few notes about my work at CYBER DRAVIDA, where I've been building practical tools like the Tech Carnival 2K26 Website, and I'm reminded that the build side matters as much as the investigation side, so I'll keep the scope practical and focus on real-world use as I continue learning about ethical hacking through certifications like Advent of Cyber.
 - 02:03 AM IST: Revisited the direction for my projects like hand-gestures, and I'm reminded that the most useful tools are the ones people can adopt without friction, so I'll tighten the flow and keep the implementation honest.
 - 02:03 AM IST: Captured progress around building practical tools like the Data Wiping Tool, I keep coming back to simplicity, speed, and trust as I apply my knowledge of ethical hacking and OSINT Cyber Crime Investigation to drive CYBER DRAVIDA forward, with a next step to turn a rough idea into something testable, reminded that frontend polish still matters.
+
+## 2026-05-29
+- 02:26 AM IST: Spent time reflecting on my work with hand-gestures and realized the build side matters as much as the investigation side, so next I'll document my thinking clearly enough that it can be reused, especially considering how frontend polish still matters even in security-heavy products.
