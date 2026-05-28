@@ -1111,3 +1111,4 @@
 
 ## 2026-05-29
 - 02:26 AM IST: Spent time reflecting on my work with hand-gestures and realized the build side matters as much as the investigation side, so next I'll document my thinking clearly enough that it can be reused, especially considering how frontend polish still matters even in security-heavy products.
+- 02:26 AM IST: Made room to think through my work on the india-cyber-guard project and I keep coming back to simplicity, speed, and trust as key elements in building practical tools that make the web harder to break.
