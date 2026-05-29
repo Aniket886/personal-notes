@@ -1126,3 +1126,4 @@
 ## 2026-05-30
 - 02:28 AM IST: Captured progress around building the Tech Carnival 2K26 Website, where I applied my experience as a former Ethical Hacking Mentor to create a secure full-stack event platform, and I realized that good product framing keeps security work from becoming noise, so my next step is to document the thinking clearly enough that it can be reused.
 - 02:28 AM IST: Wrote down a few notes about my recent projects, including india-cyber-guard, and I'm reminded that the work feels best when the technical detail supports a clear outcome, so next I'll tighten the flow and keep the implementation honest.
+- 02:28 AM IST: Checked back in on my work with GitReverse and realized that the build side matters as much as the investigation side, so I'll keep the scope practical and focus on real-world use, while also remembering that frontend polish still matters even in security-heavy products.
