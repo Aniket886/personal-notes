@@ -1122,3 +1122,6 @@
 - 02:26 AM IST: Revisited the direction for CYBER DRAVIDA and realized that the strongest thread is still making security tooling practical for real users, which inspires me to turn the rough idea of FakeBusters into something testable.
 - 02:26 AM IST: Wrote down a few notes about my work on MetaClean, a metadata removal tool, and realized the most useful tools are the ones people can adopt without friction, which is a key consideration as I document my thinking on web security fundamentals and how they apply to real-world projects.
 - 02:26 AM IST: Wrote down a few notes about my work on the Tech Carnival 2K26 Website, realizing that good product framing like we achieved with the admin dashboard and leaderboard is crucial in keeping security work from becoming noise, and I plan to tighten the flow and keep the implementation honest in my future projects.
+
+## 2026-05-30
+- 02:28 AM IST: Captured progress around building the Tech Carnival 2K26 Website, where I applied my experience as a former Ethical Hacking Mentor to create a secure full-stack event platform, and I realized that good product framing keeps security work from becoming noise, so my next step is to document the thinking clearly enough that it can be reused.
