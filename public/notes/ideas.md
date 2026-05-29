@@ -432,3 +432,6 @@
 - 02:26 AM IST: Streamlining security tooling is key to making the web more secure, as seen with MetaClean's intuitive approach to metadata removal.
 - 02:26 AM IST: Building practical tools like the Tech Carnival 2K26 Website helps me connect the dots between learning, shipping, and trust in privacy-focused product design.
 - 02:26 AM IST: As I refine terralens, I'm streamlining investigation workflows into actionable checklists to make privacy a seamless part of web development.
+
+## 2026-05-30
+- 02:28 AM IST: Building on ArcMotion with hand-gestures and voice controls, I aim to create seamless privacy features that integrate naturally into developer workflows.
