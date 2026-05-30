@@ -438,3 +438,6 @@
 - 02:28 AM IST: Building Tech Carnival 2K26 Website as a secure by design project reinforced the importance of integrating web security fundamentals from the start, rather than relying on patches later.
 - 02:28 AM IST: As I apply digital forensics lessons to terralens, I'm focusing on simplicity and clarity in our TypeScript product iteration to ensure our web security tools are intuitive and effective.
 - 02:28 AM IST: Building practical tools that make the web harder to break starts with capturing the core logic of a project like Tech Carnival 2K26 Website before implementation complexities set in.
+
+## 2026-05-31
+- 01:19 AM IST: Simplifying complex workflows like FakeBusters helps me build more transparent and repeatable digital forensics tools.
