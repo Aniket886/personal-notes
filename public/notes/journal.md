@@ -1148,3 +1148,4 @@
 
 ## 2026-06-01
 - 01:19 AM IST: Checked back in on my work with terralens and realized that good product framing keeps security work from becoming noise, so my next step is to document the thinking clearly enough that it can be reused.
+- 01:20 AM IST: Wrote down a few notes about my work on FakeBusters and I'm reminded that the strongest thread is still making security tooling practical for real users, so my next step is to document the thinking clearly enough that it can be reused.
