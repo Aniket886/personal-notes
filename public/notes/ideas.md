@@ -442,3 +442,6 @@
 ## 2026-05-31
 - 01:19 AM IST: Simplifying complex workflows like FakeBusters helps me build more transparent and repeatable digital forensics tools.
 - 01:19 AM IST: Simplifying security workflows with terralens is key to making the web more secure and easier to develop.
+
+## 2026-06-01
+- 01:20 AM IST: Building tools like MetaClean has taught me that good investigation notes are just as crucial as the digital forensics tools themselves, as they help bridge the gap between learning, shipping, and trust in our mission to secure the web.
