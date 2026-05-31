@@ -445,3 +445,4 @@
 
 ## 2026-06-01
 - 01:20 AM IST: Building tools like MetaClean has taught me that good investigation notes are just as crucial as the digital forensics tools themselves, as they help bridge the gap between learning, shipping, and trust in our mission to secure the web.
+- 01:20 AM IST: Incorporating detailed investigation notes into MetaClean's audit reports can significantly enhance its value as a privacy-first metadata removal tool.
