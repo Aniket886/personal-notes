@@ -452,3 +452,4 @@
 - 03:19 AM IST: Simplifying the build process is key to secure-by-design engineering, and for me, clarity is what makes a workflow truly effective.
 - 03:19 AM IST: Simplifying security tooling is key to making the web more secure, which is why I'm focused on capturing essential build logic through projects like india-cyber-guard.
 - 03:19 AM IST: As I reflect on my cybersecurity mentoring experience, I realized that incorporating good investigation notes into GitReverse can enhance its ability to provide valuable security observations and promote secure-by-design engineering.
+- 03:20 AM IST: Building terralens has shown me that security tooling should simplify the development process, not add to its complexity, and that's what I aim to achieve with secure-by-design engineering.
