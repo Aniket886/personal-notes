@@ -447,3 +447,6 @@
 - 01:20 AM IST: Building tools like MetaClean has taught me that good investigation notes are just as crucial as the digital forensics tools themselves, as they help bridge the gap between learning, shipping, and trust in our mission to secure the web.
 - 01:20 AM IST: Incorporating detailed investigation notes into MetaClean's audit reports can significantly enhance its value as a privacy-first metadata removal tool.
 - 01:20 AM IST: Building Tech Carnival 2K26 Website as a secure-by-design event platform reinforces my belief that integrating privacy and security from the start is key to creating a stronger web.
+
+## 2026-06-02
+- 03:19 AM IST: Simplifying the build process is key to secure-by-design engineering, and for me, clarity is what makes a workflow truly effective.
