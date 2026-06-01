@@ -450,3 +450,4 @@
 
 ## 2026-06-02
 - 03:19 AM IST: Simplifying the build process is key to secure-by-design engineering, and for me, clarity is what makes a workflow truly effective.
+- 03:19 AM IST: Simplifying security tooling is key to making the web more secure, which is why I'm focused on capturing essential build logic through projects like india-cyber-guard.
