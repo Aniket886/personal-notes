@@ -458,3 +458,4 @@
 ## 2026-06-03
 - 03:03 AM IST: Streamlining security tools is crucial to avoid adding complexity, as seen in the india-cyber-guard project, where simplicity is key to effective digital forensics.
 - 03:03 AM IST: Making privacy defaults more intuitive is key to our mission, as seen in the Data Wiping Tool, where everyday privacy features become the norm in web development.
+- 03:03 AM IST: Streamlining investigation workflows with tools like FakeBusters is key to making good investigation notes a seamless part of the product.
