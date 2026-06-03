@@ -1192,3 +1192,4 @@
 ## 2026-06-04
 - 03:05 AM IST: Wrote down a few notes about my work on GitReverse, where I've learned that good product framing is key to keeping security work from becoming noise, and I'm looking to document my thinking clearly enough that it can be reused, building on my experience as a former Technical Secretary and participant in HACKANOVA 2026.
 - 03:05 AM IST: Made room to think through my recent work on hand-gestures and I've come to realize that the build side matters as much as the investigation side, so I'll keep the scope practical and focus on real-world use, especially after learning about digital forensics and achieving Top 1% on TryHackMe.
+- 03:05 AM IST: Checked back in on my work with hand-gestures and realized that the build side matters as much as the investigation side, so I'll stay close to the actual user problem to create more secure-by-design solutions.
