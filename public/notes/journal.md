@@ -1201,3 +1201,4 @@
 ## 2026-06-05
 - 02:03 AM IST: Checked back in on my work with GitReverse and realized the strongest thread is still making security tooling practical for real users, so I'll keep the scope practical and focus on real-world use, remembering that frontend polish matters even in security-heavy products.
 - 02:03 AM IST: Revisited the direction for my cybersecurity work and realized the strongest thread is still making security tooling practical for real users, so I'll tighten the flow and keep the implementation honest in projects like GitReverse.
+- 02:03 AM IST: Wrote down a few notes about my experience with MetaClean and how good product framing has helped keep security work from becoming noise, now I'm thinking of turning a rough idea into something testable.
