@@ -476,3 +476,4 @@
 - 01:57 AM IST: Investigation notes are key to a secure product, so I'm turning one of my best habits into a checklist for fellow developers to bridge web development with digital security.
 - 01:57 AM IST: Building tools like GitReverse helps turn security knowledge into actionable insights, making it easier to weave secure by design principles into the fabric of web development.
 - 01:57 AM IST: Designing the Data Wiping Tool with security in mind from the start reinforces the idea that building secure by design is more effective than relying on patches later on.
+- 01:57 AM IST: Building intuitive tools like ArcMotion's hand-gestures is crucial to making security feel normal and seamless in our daily interactions with technology.
