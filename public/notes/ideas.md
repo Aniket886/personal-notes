@@ -471,3 +471,6 @@
 - 02:03 AM IST: Building practical tools like CarniBOT that make the web harder to break is the next step in turning investigation habits into developer-facing checklists for a more secure digital landscape.
 - 02:03 AM IST: Building practical security tools like india-cyber-guard helps bridge web development with digital security, making good investigation notes an essential part of the product.
 - 02:03 AM IST: Building tools like FakeBusters reinforces my belief that secure by design is the key to a safer web, and AI-assisted developer tooling can significantly accelerate this mission.
+
+## 2026-06-06
+- 01:57 AM IST: Investigation notes are key to a secure product, so I'm turning one of my best habits into a checklist for fellow developers to bridge web development with digital security.
