@@ -1231,3 +1231,4 @@
 ## 2026-06-07
 - 01:24 AM IST: Spent time reflecting on my work and I'm convinced the strongest thread is still making security tooling practical for real users, so my next step is to document my thinking clearly enough that it can be reused.
 - 01:24 AM IST: Spent time reflecting on my work at CYBER DRAVIDA, and I'm reminded that balancing the build side with the investigation side is crucial, so I'll focus on writing the next small improvement for our hand-gestures project before adding new features.
+- 01:24 AM IST: Wrote down a few notes about my experience with FakeBusters and I realize the strongest thread is still making security tooling practical for real users, so I'll keep the scope practical and focus on real-world use, learning that AI tooling is most useful when it reduces noise.
