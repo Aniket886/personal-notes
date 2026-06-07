@@ -1233,3 +1233,6 @@
 - 01:24 AM IST: Spent time reflecting on my work at CYBER DRAVIDA, and I'm reminded that balancing the build side with the investigation side is crucial, so I'll focus on writing the next small improvement for our hand-gestures project before adding new features.
 - 01:24 AM IST: Wrote down a few notes about my experience with FakeBusters and I realize the strongest thread is still making security tooling practical for real users, so I'll keep the scope practical and focus on real-world use, learning that AI tooling is most useful when it reduces noise.
 - 01:24 AM IST: Wrote down a few notes about my work on GitReverse, realizing that good product framing is key to keeping security work from becoming noise, and I'm excited to turn my rough idea into something testable as I continue learning digital forensics.
+
+## 2026-06-08
+- 01:25 AM IST: Wrote down a few notes about my journey as a BCA student at GM University, and I keep coming back to simplicity, speed, and trust as I work on the india-cyber-guard project and learn about OSINT workflows, feeling motivated after organizing Tech Carnival 2K26 and completing Digital Forensics Essentials certification, now I'll write the next small improvement before adding new surface area.
