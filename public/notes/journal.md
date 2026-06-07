@@ -1236,3 +1236,4 @@
 
 ## 2026-06-08
 - 01:25 AM IST: Wrote down a few notes about my journey as a BCA student at GM University, and I keep coming back to simplicity, speed, and trust as I work on the india-cyber-guard project and learn about OSINT workflows, feeling motivated after organizing Tech Carnival 2K26 and completing Digital Forensics Essentials certification, now I'll write the next small improvement before adding new surface area.
+- 01:25 AM IST: Checked back in on my work with GitReverse and realized that good product framing keeps security work from becoming noise, which is a key lesson from my cybersecurity intern experience and Advent of Cyber certification, now I'm looking to turn the rough idea into something testable.
