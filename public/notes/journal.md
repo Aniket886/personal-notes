@@ -1245,3 +1245,4 @@
 
 ## 2026-06-09
 - 02:10 AM IST: Wrote down a few notes about my work on MetaClean and training students in cybersecurity, realizing the strongest thread is still making security tooling practical for real users, so I'll write the next small improvement before adding new surface area, remembering that frontend polish still matters even in security-heavy products.
+- 02:10 AM IST: Checked back in on my work and realized the strongest thread is still making security tooling practical for real users, which is why I'm focusing on projects like the Data Wiping Tool and exploring AI-assisted developer tooling to keep my scope practical and centered on real-world use.
