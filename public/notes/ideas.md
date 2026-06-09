@@ -488,3 +488,6 @@
 
 ## 2026-06-09
 - 02:10 AM IST: Secure by design is key to creating a safer digital landscape, which is why I'm focusing on building privacy-first products like FakeBusters.
+
+## 2026-06-10
+- 01:59 AM IST: Building MetaClean showed me that integrating privacy features like metadata removal can be seamless and essential, not just an afterthought.
