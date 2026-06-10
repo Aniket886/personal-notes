@@ -1260,3 +1260,4 @@
 
 ## 2026-06-11
 - 02:37 AM IST: Made room to think through my work on terralens and I'm realizing that the most useful tools are the ones people can adopt without friction, which is guiding my next step to turn a rough idea into something testable.
+- 02:37 AM IST: Wrote down a few notes about my experience with MetaClean and I realize the most useful tools are the ones people can adopt without friction, so my next step is to write the next small improvement before adding new surface area.
