@@ -1257,3 +1257,6 @@
 - 02:00 AM IST: Wrote down a few notes about my experience as a core organizer for Tech Carnival 2K26 and building its website, realizing that the build side matters as much as the investigation side, and I'll focus on making the next small improvement before adding new features to the platform.
 - 02:00 AM IST: Captured progress around making security tooling practical for real users, especially with MetaClean, and I'm looking to turn my next rough idea into something testable, building on what I've learned from Advent of Cyber and my cybersecurity intern experience.
 - 02:00 AM IST: Checked back in on my work for the Tech Carnival 2K26 Website and I keep coming back to simplicity, speed, and trust as key takeaways, realizing that frontend polish still matters even in security-heavy products, and now I'm looking to turn the rough idea of secure-by-design engineering into something testable.
+
+## 2026-06-11
+- 02:37 AM IST: Made room to think through my work on terralens and I'm realizing that the most useful tools are the ones people can adopt without friction, which is guiding my next step to turn a rough idea into something testable.
