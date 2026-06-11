@@ -1268,3 +1268,6 @@
 - 02:38 AM IST: Wrote down a few notes about my experience with terralens and how good product framing has helped keep security work focused, reminding me to keep the scope practical and concentrate on real-world use as I apply my investigation workflow design skills and Google AI Essentials knowledge to build secure tools.
 - 02:38 AM IST: Checked back in on my work at CYBER DRAVIDA and realized that building practical tools like the Data Wiping Tool is just as crucial as investigating cyber crimes, which is why I'm focusing on keeping my OSINT workflows and projects, like those I explored during HACKANOVA 2026, practical and grounded in real-world use.
 - 02:38 AM IST: Revisited the direction for MetaClean and realized the work feels best when the technical detail supports a clear outcome, so next I'll tighten the flow and keep the implementation honest.
+
+## 2026-06-12
+- 02:32 AM IST: Checked back in on my work with terralens and realized that good product framing keeps security work from becoming noise, so I'll stay close to the actual user problem to build practical tools that make the web harder to break.
