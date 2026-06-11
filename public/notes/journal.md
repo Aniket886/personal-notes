@@ -1271,3 +1271,4 @@
 
 ## 2026-06-12
 - 02:32 AM IST: Checked back in on my work with terralens and realized that good product framing keeps security work from becoming noise, so I'll stay close to the actual user problem to build practical tools that make the web harder to break.
+- 02:32 AM IST: Wrote down a few notes about my work on FakeBusters, and I feel most satisfied when the technical details I've learned about web security fundamentals come together to support a clear outcome, like making the web harder to break.
