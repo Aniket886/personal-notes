@@ -498,3 +498,6 @@
 - 02:37 AM IST: Designing the Data Wiping Tool with a secure by design approach informs my product UX decision to prioritize intuitive investigation workflows.
 - 02:38 AM IST: Simplifying web security with intuitive tools like hand-gestures is key to reducing confusion and making the web a safer place.
 - 02:38 AM IST: Simplifying security tooling is key, as seen in terralens, where turning one investigation habit into a developer-facing checklist can make web security fundamentals more accessible.
+
+## 2026-06-12
+- 02:32 AM IST: Making privacy defaults clearer in every project is key to normalizing security and building a safer web.
