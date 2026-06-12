@@ -1282,3 +1282,4 @@
 ## 2026-06-13
 - 02:06 AM IST: Spent time reflecting on my cybersecurity work and I still believe the strongest thread is making security tooling practical for real users, so next I will tighten the flow and keep the implementation honest.
 - 02:06 AM IST: Made room to think through my work on terralens and I'm reminded that the strongest thread is still making security tooling practical for real users, so my next step is to document my thinking clearly enough that it can be reused.
+- 02:06 AM IST: Checked back in on my hand-gestures project and realized the most useful tools are the ones people can adopt without friction, so I'll stay close to the actual user problem to make my contributions to web security more practical and effective.
