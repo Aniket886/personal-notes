@@ -521,3 +521,4 @@
 - 01:37 AM IST: Building tools like the Data Wiping Tool helps me simplify my workflow and capture the core logic behind secure-by-design engineering.
 - 01:37 AM IST: Simplifying security workflows with tools like MetaClean helps build trust by making it easier to protect sensitive information.
 - 01:37 AM IST: Building practical tools like MetaClean helps turn security knowledge into user-friendly solutions that make the web more secure by design.
+- 01:37 AM IST: Simplifying digital forensics workflows in projects like india-cyber-guard helps me create more secure and transparent tools for the web.
