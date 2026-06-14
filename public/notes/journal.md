@@ -1311,3 +1311,4 @@
 
 ## 2026-06-15
 - 01:36 AM IST: Spent time reflecting on my work with GitReverse and realized the most useful tools are the ones people can adopt without friction, so my next step is to stay close to the actual user problem and keep in mind that frontend polish still matters even in security-heavy products.
+- 01:37 AM IST: Wrote down a few notes about my work at CYBER DRAVIDA, realizing that the most useful tools are the ones people can adopt without friction, which is why I'm focusing on writing the next small improvement to FakeBusters before adding new features.
