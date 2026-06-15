@@ -1326,3 +1326,4 @@
 
 ## 2026-06-16
 - 03:04 AM IST: Made room to think through my work on the Tech Carnival 2K26 Website and I keep coming back to simplicity, speed, and trust as I aim to bridge web development with digital security, realizing that security learning becomes more durable when it is connected to a working product.
+- 03:04 AM IST: Wrote down a few notes about my work on terralens, where I've found that good product framing is key to keeping security efforts from becoming noise, and I'm planning to write the next small improvement before adding new features, building on my secure-by-design engineering skills and OSINT knowledge from the CCI certification.
