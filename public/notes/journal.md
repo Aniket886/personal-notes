@@ -1339,3 +1339,6 @@
 - 03:04 AM IST: Captured progress around building practical security tools like india-cyber-guard, and I'm reminded that the build side matters as much as the investigation side, so I'll stay close to the actual user problem to enhance my privacy-focused product design skills.
 - 03:04 AM IST: Spent time reflecting on my work on MetaClean and I realize that the most useful tools are the ones people can adopt without friction, which is why I plan to stay close to the actual user problem as I explore AI-assisted developer tooling and apply lessons from my Google AI Essentials certification and TryHackMe experience to create practical solutions.
 - 03:04 AM IST: Revisited the direction for my work in bridging web development with digital security, realizing that the build side matters as much as the investigation side, especially after working on hand-gestures and organizing Tech Carnival 2K26, and I plan to document my thinking clearly for future reuse.
+
+## 2026-06-17
+- 02:57 AM IST: Made room to think through my work on FakeBusters and realized that good product framing is key to keeping security work from becoming noise, so I'll keep the scope practical and focus on real-world use as I move forward with AI-assisted developer tooling.
