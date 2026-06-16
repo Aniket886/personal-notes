@@ -1343,3 +1343,4 @@
 ## 2026-06-17
 - 02:57 AM IST: Made room to think through my work on FakeBusters and realized that good product framing is key to keeping security work from becoming noise, so I'll keep the scope practical and focus on real-world use as I move forward with AI-assisted developer tooling.
 - 02:57 AM IST: Made room to think through my recent work on terralens, and I feel most satisfied when the technical details come together to achieve a clear outcome, a lesson that's also sticking with me from my Digital Forensics Essentials studies and organizing Tech Carnival 2K26.
+- 02:57 AM IST: Captured progress around building the Tech Carnival 2K26 Website, where I applied my experience as a former Ethical Hacking Mentor to create a secure full-stack event platform, and I realized that good product framing keeps security work from becoming noise, so my next step is to tighten the flow and keep the implementation honest.
