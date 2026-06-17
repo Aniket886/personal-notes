@@ -542,3 +542,4 @@
 - 02:04 AM IST: Simplifying digital forensics workflows by building intuitive tools is key to making the web more secure.
 - 02:04 AM IST: Simplifying privacy defaults in every project helps create a more secure online experience, as seen in MetaClean's straightforward metadata removal process.
 - 02:04 AM IST: Building on india-cyber-guard, I'm exploring how AI-assisted tooling can help web developers prioritize secure by design principles, making the web more resilient one shipment at a time.
+- 02:04 AM IST: As I reflect on terralens, I realize that good investigation notes are essential to shipping reliable tools that bridge web development and digital security.
