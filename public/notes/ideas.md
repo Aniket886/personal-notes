@@ -546,3 +546,4 @@
 
 ## 2026-06-19
 - 02:33 AM IST: Building ArcMotion with hand-gestures shows me that secure by design can enhance spatial interaction and voice controls, making the web harder to break.
+- 02:33 AM IST: Simplifying security tooling is key, as seen in terralens, where clarifying build logic upfront helps create a more intuitive investigation workflow.
