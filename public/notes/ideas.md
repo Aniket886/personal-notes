@@ -547,3 +547,6 @@
 ## 2026-06-19
 - 02:33 AM IST: Building ArcMotion with hand-gestures shows me that secure by design can enhance spatial interaction and voice controls, making the web harder to break.
 - 02:33 AM IST: Simplifying security tooling is key, as seen in terralens, where clarifying build logic upfront helps create a more intuitive investigation workflow.
+
+## 2026-06-20
+- 01:46 AM IST: Building tools like FakeBusters helps me learn how AI can simplify security for web developers, making it easier to ship trustworthy products that protect users from digital deception.
