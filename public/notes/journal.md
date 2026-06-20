@@ -1383,3 +1383,4 @@
 
 ## 2026-06-21
 - 01:34 AM IST: Wrote down a few notes about my experience as a core organizer for Tech Carnival 2K26 and my work on its full-stack website, realizing that the strongest thread is still making security tooling practical for real users, and I plan to document my thinking clearly enough that it can be reused, taking away that frontend polish still matters even in security-heavy products.
+- 01:34 AM IST: Revisited the direction for my work in cybersecurity and web development, feeling most fulfilled when technical details support a clear outcome, and I'm now looking to turn my rough ideas into something testable.
