@@ -1380,3 +1380,6 @@
 - 01:46 AM IST: Wrote down a few notes about my cybersecurity journey, realizing the strongest thread is still making security tooling practical for real users, and I plan to tighten the flow and keep the implementation honest in my next project, building on what I've learned from the Data Wiping Tool and my experience with web security fundamentals.
 - 01:46 AM IST: Made room to think through my recent projects, including hand-gestures, and realized that the most useful tools are the ones people can adopt without friction, so I'll write the next small improvement before adding new surface area to focus on secure-by-design engineering.
 - 01:46 AM IST: Captured progress around my mission to bridge web development with digital security, and I'm realizing the strongest thread is still making security tooling practical for real users.
+
+## 2026-06-21
+- 01:34 AM IST: Wrote down a few notes about my experience as a core organizer for Tech Carnival 2K26 and my work on its full-stack website, realizing that the strongest thread is still making security tooling practical for real users, and I plan to document my thinking clearly enough that it can be reused, taking away that frontend polish still matters even in security-heavy products.
