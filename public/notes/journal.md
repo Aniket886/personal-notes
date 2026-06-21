@@ -1392,3 +1392,4 @@
 
 ## 2026-06-22
 - 01:43 AM IST: Revisited the direction for my projects like hand-gestures and considered how my background as an Ethical Hacking Mentor and skills in OSINT workflows can inform tools that make the web more secure, considering the most useful tools are the ones people can adopt without friction, so I plan to turn my rough idea into something testable.
+- 01:43 AM IST: Spent time reflecting on my work and realized that the most useful tools are the ones people can adopt without friction, which is why I'll keep the scope practical and focus on real-world use as I continue building secure-by-design tools like the Data Wiping Tool.
