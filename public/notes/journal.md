@@ -1397,3 +1397,4 @@
 
 ## 2026-06-23
 - 02:50 AM IST: Spent time reflecting on my work at CYBER DRAVIDA and I realize that the most useful tools are the ones people can adopt without friction, which is why I'll stay close to the actual user problem as I continue building practical tools like the Data Wiping Tool.
+- 02:50 AM IST: Captured progress around integrating secure-by-design principles into my projects, particularly with hand-gestures and its focus on spatial interaction, and I feel most fulfilled when technical details support a clear outcome, now I plan to stay close to the actual user problem and apply lessons from Advent of Cyber and TryHackMe to create more practical tools.
