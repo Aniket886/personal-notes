@@ -1406,3 +1406,4 @@
 
 ## 2026-06-24
 - 02:04 AM IST: Made room to think through my work on terralens and I feel most satisfied when the technical details come together to support a clear outcome, which is key to my mission of bridging web development with digital security.
+- 02:04 AM IST: Spent time reflecting on my experience as a cybersecurity intern and working on the india-cyber-guard project, and I realized that the strongest thread is still making security tooling practical for real users, so my next step is to turn this rough idea into something testable.
