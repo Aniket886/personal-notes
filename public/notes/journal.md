@@ -1418,3 +1418,4 @@
 
 ## 2026-06-25
 - 01:49 AM IST: Made room to think through my work on terralens and realized the most useful tools are the ones people can adopt without friction, which is why I'm focusing on documenting my thinking clearly enough that it can be reused, especially when it comes to OSINT workflows and security learning that's connected to a working product.
+- 01:49 AM IST: Revisited the direction for my work in bridging web development with digital security, feeling most fulfilled when technical details support clear outcomes, and now I'm looking to document my thinking on projects like india-cyber-guard for reuse.
