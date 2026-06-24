@@ -1415,3 +1415,6 @@
 - 02:05 AM IST: Wrote down a few notes about my cybersecurity internship experiences and the MetaClean project, realizing that building practical tools like this metadata removal tool is just as crucial as investigating cyber threats, and I'm looking forward to staying close to real user problems.
 - 02:05 AM IST: Wrote down a few notes about my experience with FakeBusters and I've come to realize that the most useful tools are the ones people can adopt without friction, which is why I plan to keep the scope practical and focus on real-world use.
 - 02:05 AM IST: Revisited the direction for my work in bridging web development with digital security, and I keep coming back to simplicity, speed, and trust as key principles, which will guide my next steps in keeping the scope practical and focused on real-world use.
+
+## 2026-06-25
+- 01:49 AM IST: Made room to think through my work on terralens and realized the most useful tools are the ones people can adopt without friction, which is why I'm focusing on documenting my thinking clearly enough that it can be reused, especially when it comes to OSINT workflows and security learning that's connected to a working product.
