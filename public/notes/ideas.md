@@ -569,3 +569,4 @@
 
 ## 2026-06-25
 - 01:49 AM IST: Simplifying web security through clear workflows and transparent defaults is key to making the web harder to break, one practical tool at a time.
+- 01:49 AM IST: Designing tools like MetaClean helps me bridge web development and digital security by streamlining investigation workflows and making metadata removal more accessible.
