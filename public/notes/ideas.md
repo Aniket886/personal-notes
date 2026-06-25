@@ -570,3 +570,6 @@
 ## 2026-06-25
 - 01:49 AM IST: Simplifying web security through clear workflows and transparent defaults is key to making the web harder to break, one practical tool at a time.
 - 01:49 AM IST: Designing tools like MetaClean helps me bridge web development and digital security by streamlining investigation workflows and making metadata removal more accessible.
+
+## 2026-06-26
+- 02:02 AM IST: Making security intuitive is key, integrating AI in tools like the Tech Carnival 2K26 Website can help achieve that goal.
