@@ -1426,3 +1426,6 @@
 - 01:49 AM IST: Wrote down a few notes about my hand-gestures project, realizing the most useful tools are the ones people can adopt without friction, and I plan to tighten the flow and keep the implementation honest.
 - 01:49 AM IST: Wrote down a few notes about my work at CYBER DRAVIDA, particularly with FakeBusters, and realized the strongest thread is still making security tooling practical for real users, so my next step is to turn this rough idea into something testable.
 - 01:49 AM IST: Made room to think through my experiences as an Ethical Hacking Mentor and working on FakeBusters, realizing the most useful tools are the ones people can adopt without friction, and I'm excited to turn the rough idea into something testable, keeping in mind that frontend polish still matters even in security-heavy products.
+
+## 2026-06-26
+- 02:02 AM IST: Captured progress around my Data Wiping Tool project, and I realized that the most useful tools are the ones people can adopt without friction, so I'll write the next small improvement before adding new surface area, building on what I've learned about investigation workflow design and OSINT.
