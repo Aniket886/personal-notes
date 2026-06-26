@@ -1434,3 +1434,6 @@
 - 02:02 AM IST: Wrote down a few notes about my work on hand-gestures and I'm reminded that the strongest thread is still making security tooling practical for real users, so I'll write the next small improvement before adding new surface area.
 - 02:02 AM IST: Checked back in on my mission to bridge web development with digital security and I'm reminded that the strongest thread is still making security tooling practical for real users, so I'll turn my rough idea into something testable for the hand-gestures project.
 - 02:02 AM IST: Checked back in on my india-cyber-guard project and realized the most useful security tools are the ones people can adopt without friction, so I'll turn my rough idea into something testable and make sure to maintain a clean notes habit to make project decisions easier to revisit.
+
+## 2026-06-27
+- 01:48 AM IST: Made room to think through my work on the Tech Carnival 2K26 Website and I keep coming back to simplicity, speed, and trust, realizing that frontend polish still matters even in security-heavy products like the ones I'm building at CYBER DRAVIDA to bridge web development with digital security.
