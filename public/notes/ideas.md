@@ -577,3 +577,4 @@
 
 ## 2026-06-27
 - 01:48 AM IST: Building a secure Tech Carnival 2K26 Website with a clear and repeatable workflow helped me connect the dots between learning, shipping, and trust in secure-by-design engineering.
+- 01:48 AM IST: Streamlining digital forensics with practical tools like FakeBusters inspires my goal to transform one key investigation habit into a checklist for developers.
