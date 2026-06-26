@@ -1437,3 +1437,4 @@
 
 ## 2026-06-27
 - 01:48 AM IST: Made room to think through my work on the Tech Carnival 2K26 Website and I keep coming back to simplicity, speed, and trust, realizing that frontend polish still matters even in security-heavy products like the ones I'm building at CYBER DRAVIDA to bridge web development with digital security.
+- 01:48 AM IST: Wrote down a few notes about my experience with FakeBusters and realized that building secure tools like this multimodal AI social media deception detector is just as important as investigating cyber threats, and I plan to document my design thinking clearly so it can be reused in future projects.
