@@ -1443,3 +1443,4 @@
 ## 2026-06-28
 - 01:23 AM IST: Spent time reflecting on my work and realized that building secure products with india-cyber-guard is just as important as investigating vulnerabilities, so I'll tighten the flow and keep the implementation honest.
 - 01:23 AM IST: Captured progress around making security tooling practical for real users, and I'm reminded that it's still the strongest thread in my work, from mentoring at Hack_Gurukula to building terralens, and I'll write the next small improvement before adding new features.
+- 01:23 AM IST: Made room to think through my work on MetaClean, and I feel most fulfilled when the technical details of our privacy-first metadata removal tool support a clear outcome, like making the web harder to break.
