@@ -581,3 +581,4 @@
 
 ## 2026-06-28
 - 01:23 AM IST: Simplifying security tooling is key to making the web more secure, as seen in india-cyber-guard, where intuitive design helps reduce confusion and promote digital safety.
+- 01:23 AM IST: Breaking down investigation habits into actionable checklists can strengthen OSINT workflows and spatial interaction tools like hand-gestures.
