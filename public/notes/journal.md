@@ -1449,3 +1449,6 @@
 - 01:23 AM IST: Revisited the direction for CYBER DRAVIDA and realized the strongest thread is still making security tooling practical for real users, so I will write the next small improvement for the Data Wiping Tool before adding new features.
 - 01:23 AM IST: Spent time reflecting on my cybersecurity journey and I realize that the build side matters as much as the investigation side, so I plan to tighten the flow and keep the implementation honest in my projects like india-cyber-guard.
 - 01:23 AM IST: Made room to think through my work at CYBER DRAVIDA and on the india-cyber-guard project, realizing the build side matters as much as the investigation side, and I plan to document my thoughts clearly so they can be reused, especially as I dive deeper into digital forensics and apply learnings from my MongoDB AI and Innovation certification to optimize security tools.
+
+## 2026-06-29
+- 01:24 AM IST: Wrote down a few notes about my work on FakeBusters and realized that good product framing is key to keeping security work from becoming noise, so I'll keep the scope practical and focus on real-world use as I continue learning digital forensics.
