@@ -1453,3 +1453,4 @@
 ## 2026-06-29
 - 01:24 AM IST: Wrote down a few notes about my work on FakeBusters and realized that good product framing is key to keeping security work from becoming noise, so I'll keep the scope practical and focus on real-world use as I continue learning digital forensics.
 - 01:24 AM IST: Wrote down a few notes about my recent projects, including the Tech Carnival 2K26 Website, and realized the work feels best when the technical detail supports a clear outcome, which is why I'm focusing on practical, privacy-focused product design, keeping in mind that developer tools become credible when the defaults are safe.
+- 01:25 AM IST: Checked back in on my projects and realized that building secure tools like the Data Wiping Tool is just as important as investigating security breaches, so I'll keep focusing on practical and real-world applications of secure-by-design engineering.
