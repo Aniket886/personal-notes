@@ -589,3 +589,4 @@
 
 ## 2026-06-30
 - 01:56 AM IST: Clarity in workflow is key to securing the web, which is why I'm building GitReverse to turn complex codebases into actionable insights.
+- 01:56 AM IST: Building hand-gestures with ArcMotion shows how good investigation notes can strengthen web security fundamentals by capturing the build logic early on.
