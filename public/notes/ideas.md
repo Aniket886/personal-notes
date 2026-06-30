@@ -596,3 +596,4 @@
 - 02:00 AM IST: Building secure foundations from the start is key to robust digital defenses, as evident in the india-cyber-guard project where design informes implementation to prevent vulnerabilities.
 - 02:00 AM IST: Simplifying terralens workflow design is key to making web development more secure, as a clear process is easier to repeat and defend.
 - 02:00 AM IST: Building practical tools like india-cyber-guard helps bridge web development with digital security, making the web harder to break.
+- 02:00 AM IST: Simplifying security tooling is key to making the web more secure, which is why I'm focused on building practical tools like GitReverse that turn complexity into actionable insights.
