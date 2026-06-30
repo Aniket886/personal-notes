@@ -597,3 +597,4 @@
 - 02:00 AM IST: Simplifying terralens workflow design is key to making web development more secure, as a clear process is easier to repeat and defend.
 - 02:00 AM IST: Building practical tools like india-cyber-guard helps bridge web development with digital security, making the web harder to break.
 - 02:00 AM IST: Simplifying security tooling is key to making the web more secure, which is why I'm focused on building practical tools like GitReverse that turn complexity into actionable insights.
+- 02:00 AM IST: Building tools like the Data Wiping Tool helps integrate digital forensics into everyday web development, making privacy features a standard expectation.
