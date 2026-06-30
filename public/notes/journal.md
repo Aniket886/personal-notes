@@ -1471,3 +1471,4 @@
 
 ## 2026-07-01
 - 02:00 AM IST: Checked back in on my work with GitReverse and realized that building practical tools like this repo intelligence platform is just as important as investigating security vulnerabilities, so I'll keep the scope practical and focus on real-world use to make secure-by-design engineering a core part of my projects.
+- 02:00 AM IST: Made room to think through terralens and my MongoDB AI and Innovation certification, and I keep coming back to simplicity, speed, and trust as I explore AI-assisted developer tooling, learning that it's most useful when it reduces noise, now I'll turn the rough idea into something testable.
