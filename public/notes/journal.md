@@ -1485,3 +1485,6 @@
 - 02:00 AM IST: Made room to think through my work on MetaClean and realized that the secure-by-design engineering approach feels most effective when technical details directly support a clear outcome, which is why I'm planning to document my thought process clearly so it can be reused, especially in OSINT and forensics tasks where a repeatable workflow makes a big difference.
 - 02:00 AM IST: Revisited the direction for india-cyber-guard and realized that as a former Technical Secretary at GM University, the build side matters as much as the investigation side, so I'll tighten the flow and keep the implementation honest to strengthen my secure-by-design engineering skills.
 - 02:00 AM IST: Captured progress around building terralens and I'm reminded that the build side matters as much as the investigation side, so I'll write the next small improvement before adding new surface area, keeping in mind that developer tools become credible when the defaults are safe.
+
+## 2026-07-02
+- 01:55 AM IST: Wrote down a few notes about my work on terralens and I keep coming back to simplicity, speed, and trust as key aspects of secure-by-design engineering that I've learned to appreciate through my experience as a former Ethical Hacking Mentor and my studies in OSINT Cyber Crime Investigation.
