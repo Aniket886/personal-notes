@@ -616,3 +616,4 @@
 - 01:15 AM IST: Simplifying security tooling is key to making the web more secure, and that's what drives my work in building practical tools like the Tech Carnival 2K26 website.
 - 01:15 AM IST: Building practical tools like the Data Wiping Tool helps bridge web development with digital security, making the web harder to break one utility at a time.
 - 01:16 AM IST: Simplifying workflows in india-cyber-guard helps me build trust by making web security tools more accessible and easier to understand.
+- 01:16 AM IST: Designing the Tech Carnival 2K26 Website with security in mind from the start can set a powerful precedent for prioritizing privacy-focused product design.
