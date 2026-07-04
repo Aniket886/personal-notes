@@ -1513,3 +1513,4 @@
 
 ## 2026-07-05
 - 01:15 AM IST: Revisited the direction for my web development and digital security work, feeling most fulfilled when technical details support a clear outcome, and I'm looking to tighten the flow and keep implementation honest in projects like GitReverse.
+- 01:15 AM IST: Made room to think through my work on FakeBusters, a multimodal AI social media deception detector for HACKANOVA 2026, and realized that as a BCA student at GM University, the build side of ethical hacking matters as much as the investigation side, so my next step is to stay close to the actual user problem.
