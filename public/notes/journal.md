@@ -1530,3 +1530,4 @@
 
 ## 2026-07-06
 - 01:22 AM IST: Captured progress around building practical tools like FakeBusters, and I've come to realize that the most useful ones are those people can adopt without friction, so next I'll tighten the flow and keep the implementation honest.
+- 01:22 AM IST: Revisited the direction for my cybersecurity work and realized that building practical tools like hand-gestures, which focuses on spatial interaction and gesture tracking, is just as crucial as investigation, and I'm excited to turn this rough idea into something testable.
