@@ -624,3 +624,4 @@
 ## 2026-07-07
 - 01:56 AM IST: Investigation notes should be as integral to our web security toolkit as code itself, which is why I'm turning habits into checklists for MetaClean and beyond.
 - 01:56 AM IST: Simplifying security tooling is key to making the web more secure, a lesson I've learned from mentoring that now guides my UX decisions for india-cyber-guard.
+- 01:56 AM IST: Good investigation notes are key to building robust tools like FakeBusters, a social media deception detector that strengthens web security fundamentals.
