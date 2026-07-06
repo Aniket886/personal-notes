@@ -620,3 +620,6 @@
 
 ## 2026-07-06
 - 01:22 AM IST: Building GitReverse to turn GitHub links into actionable insights helps me create OSINT workflows that are clear, repeatable, and secure.
+
+## 2026-07-07
+- 01:56 AM IST: Investigation notes should be as integral to our web security toolkit as code itself, which is why I'm turning habits into checklists for MetaClean and beyond.
