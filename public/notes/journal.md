@@ -1550,3 +1550,4 @@
 ## 2026-07-08
 - 01:56 AM IST: Spent time reflecting on my work at GM University, particularly the Tech Carnival 2K26 Website project, and realized that the technical details feel most satisfying when they contribute to a clear outcome, so I plan to tighten the flow and keep the implementation honest in my future projects.
 - 01:56 AM IST: Wrote down a few notes about my work on hand-gestures and realized the most useful tools are the ones people can adopt without friction, which is guiding my approach to privacy-focused product design as a BCA student.
+- 01:56 AM IST: Checked back in on my project work and I keep coming back to simplicity, speed, and trust as key factors in building practical tools like the Data Wiping Tool, and I plan to tighten the flow and keep the implementation honest to further strengthen my skills in ethical hacking and OSINT.
