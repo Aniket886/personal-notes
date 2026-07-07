@@ -631,3 +631,4 @@
 ## 2026-07-08
 - 01:56 AM IST: Building the Tech Carnival 2K26 Website with secure-by-design principles in mind was a valuable exercise in making privacy defaults clearer for users.
 - 01:56 AM IST: Breaking down complex investigations into simple checklists is key to building secure-by-design tools like the Data Wiping Tool.
+- 01:56 AM IST: Secure by design principles guide my work on MetaClean, a metadata removal tool, to prioritize user privacy from the outset rather than relying on post-launch patches.
