@@ -627,3 +627,6 @@
 - 01:56 AM IST: Good investigation notes are key to building robust tools like FakeBusters, a social media deception detector that strengthens web security fundamentals.
 - 01:56 AM IST: Building MetaClean taught me that prioritizing secure by design principles is key to creating trustworthy tools like our metadata removal platform.
 - 01:56 AM IST: Designing MetaClean with a secure by design approach from the start has been a valuable lesson in prioritizing user privacy and security in product development.
+
+## 2026-07-08
+- 01:56 AM IST: Building the Tech Carnival 2K26 Website with secure-by-design principles in mind was a valuable exercise in making privacy defaults clearer for users.
