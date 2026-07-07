@@ -1546,3 +1546,6 @@
 - 01:56 AM IST: Made room to think through my experience as a cybersecurity intern and working on GitReverse, realizing that the most useful tools are the ones people can adopt without friction, which is a key takeaway I'll apply to documenting my thoughts on digital forensics and project learnings.
 - 01:56 AM IST: Revisited the direction for MetaClean and realized that as someone who's worked on bridging web development with digital security, my experience as a former Technical Secretary has taught me that the most useful tools are the ones people can adopt without friction, which is why I'm focusing on making our metadata removal tool more user-friendly, especially after learning about OSINT workflows and achieving GitHub PRO status, now I need to turn the rough idea into something testable.
 - 01:56 AM IST: Made room to think through my work on GitReverse and I'm reminded that the strongest thread is still making security tooling practical for real users, so I'll tighten the flow and keep the implementation honest.
+
+## 2026-07-08
+- 01:56 AM IST: Spent time reflecting on my work at GM University, particularly the Tech Carnival 2K26 Website project, and realized that the technical details feel most satisfying when they contribute to a clear outcome, so I plan to tighten the flow and keep the implementation honest in my future projects.
