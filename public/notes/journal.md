@@ -1563,3 +1563,4 @@
 
 ## 2026-07-09
 - 01:34 AM IST: Revisited the direction for my work in bridging web development with digital security, and I realize the build side matters as much as the investigation side, especially after working on projects like the Tech Carnival 2K26 Website and exploring AI-assisted developer tooling.
+- 01:34 AM IST: Wrote down a few notes about my experience with GitReverse and I'm reminded that good product framing keeps security work from becoming noise, so my next step is to document the thinking clearly enough that it can be reused.
