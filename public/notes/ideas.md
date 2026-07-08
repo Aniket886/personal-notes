@@ -634,3 +634,6 @@
 - 01:56 AM IST: Secure by design principles guide my work on MetaClean, a metadata removal tool, to prioritize user privacy from the outset rather than relying on post-launch patches.
 - 01:56 AM IST: Simplifying investigation workflows into reusable checklists is key to making india-cyber-guard tools more accessible and securing the web.
 - 01:56 AM IST: Simplifying investigation workflows, like those used in cybersecurity, can inform more intuitive product design, as seen in the Data Wiping Tool project.
+
+## 2026-07-09
+- 01:34 AM IST: Building spatial interaction tools like hand-gestures with ArcMotion helps bring web security fundamentals to the forefront, making privacy features feel integral to the user experience.
