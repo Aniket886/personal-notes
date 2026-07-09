@@ -1570,3 +1570,6 @@
 - 01:34 AM IST: Wrote down a few notes about my experience building GitReverse, realizing that the build side matters as much as the investigation side in ethical hacking, and I plan to document my thinking clearly so it can be reused, taking into account that even in security-heavy products like GitReverse, frontend polish still matters.
 - 01:34 AM IST: Spent time reflecting on my cybersecurity internship experience and work on GitReverse, realizing that good product framing keeps security work from becoming noise, and I plan to stay close to the actual user problem to further develop my skills in ethical hacking.
 - 01:34 AM IST: Revisited the direction for CYBER DRAVIDA and I keep coming back to simplicity, speed, and trust as I work on GitReverse, learning to balance AI-assisted tooling with practical security needs.
+
+## 2026-07-10
+- 01:52 AM IST: Captured progress around building practical security tools, from working on the Tech Carnival 2K26 Website to training students in cybersecurity, and I'm reminded that making security tooling practical for real users remains the strongest thread in my work.
