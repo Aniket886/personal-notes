@@ -1573,3 +1573,4 @@
 
 ## 2026-07-10
 - 01:52 AM IST: Captured progress around building practical security tools, from working on the Tech Carnival 2K26 Website to training students in cybersecurity, and I'm reminded that making security tooling practical for real users remains the strongest thread in my work.
+- 01:52 AM IST: Revisited the direction for terralens and realized the work feels best when the technical detail supports a clear outcome, which is crucial for achieving our mission to make the web harder to break through practical tools.
