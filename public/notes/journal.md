@@ -1578,3 +1578,6 @@
 - 01:52 AM IST: Revisited the direction for GitReverse and realized that my experience as a former Ethical Hacking Mentor and learning from Digital Forensics Essentials certification keep bringing me back to the importance of simplicity, speed, and trust in investigation workflow design, which I will apply to tighten the flow and keep the implementation honest.
 - 01:52 AM IST: Revisited the direction for bridging web development with digital security and I feel most satisfied when technical details support a clear outcome, as seen in projects like GitReverse, and I plan to tighten the flow and keep implementation honest in future work.
 - 01:52 AM IST: Made room to think through my work on the india-cyber-guard project and I'm reminded that the technical details feel most valuable when they support a clear outcome, like when my investigation workflow design skills, shaped by OSINT Cyber Crime Investigation training, come together to make a practical tool.
+
+## 2026-07-11
+- 01:29 AM IST: Made room to think through my recent work on india-cyber-guard and realized that the build side matters as much as the investigation side, so I'll write the next small improvement before adding new surface area, keeping in mind that AI tooling is most useful when it reduces noise.
