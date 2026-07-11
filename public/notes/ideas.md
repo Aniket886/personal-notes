@@ -651,3 +651,4 @@
 ## 2026-07-12
 - 01:12 AM IST: Building tools like ArcMotion's hand-gestures helps bridge web development with digital security, making secure by design a practical reality.
 - 01:12 AM IST: Building tools like MetaClean helps me connect the dots between web development and digital security, and good investigation notes are key to making that process more transparent and trustworthy.
+- 01:13 AM IST: As I work on terralens, I'm reminded that good investigation notes are just as essential to the final product as the tools themselves, especially when streamlining OSINT workflows to make the web more secure.
