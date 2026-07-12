@@ -1601,3 +1601,4 @@
 ## 2026-07-13
 - 01:10 AM IST: Revisited the direction for my india-cyber-guard project and realized that the most useful security tools are the ones people can adopt without friction, which is why I'm focusing on making my OSINT workflows more user-friendly and plan to turn this rough idea into something testable.
 - 01:10 AM IST: Spent time reflecting on my work with terralens and I'm reminded that the most useful tools are the ones people can adopt without friction, so I'll write the next small improvement before adding new surface area to make digital security more accessible.
+- 01:11 AM IST: Revisited the direction for CYBER DRAVIDA and realized that good product framing keeps our security work from becoming noise, so I'll write the next small improvement for the Data Wiping Tool before adding new features, keeping in mind that AI tooling is most useful when it reduces noise.
