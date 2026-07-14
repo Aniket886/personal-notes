@@ -666,3 +666,4 @@
 - 01:21 AM IST: Building terralens with secure by design principles in mind reinforces the mission to bridge web development and digital security, making the web a more trustworthy space.
 - 01:21 AM IST: Building tools like hand-gestures with secure design principles from the start is key to creating a more trustworthy web experience.
 - 01:21 AM IST: Streamlining OSINT workflows starts with simplifying security tooling, like turning a single investigation habit into a developer-friendly checklist.
+- 01:21 AM IST: Simplifying terralens' features to clarify web security fundamentals is key to making the web more secure and easier to develop.
