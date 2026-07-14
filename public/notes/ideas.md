@@ -665,3 +665,4 @@
 - 01:21 AM IST: Building the Tech Carnival 2K26 Website as a full-stack event platform reinforced my belief that secure by design beats secure by patch, and I'm excited to apply this principle to future projects.
 - 01:21 AM IST: Building terralens with secure by design principles in mind reinforces the mission to bridge web development and digital security, making the web a more trustworthy space.
 - 01:21 AM IST: Building tools like hand-gestures with secure design principles from the start is key to creating a more trustworthy web experience.
+- 01:21 AM IST: Streamlining OSINT workflows starts with simplifying security tooling, like turning a single investigation habit into a developer-friendly checklist.
