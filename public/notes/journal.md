@@ -1612,3 +1612,4 @@
 
 ## 2026-07-15
 - 01:21 AM IST: Made room to think through my experience as a cybersecurity intern and realized that the build side matters as much as the investigation side, which I'm applying to terralens, a TypeScript product I'm working on, to create a more secure and privacy-focused design.
+- 01:21 AM IST: Checked back in on my FakeBusters project and realized that good product framing is key to keeping security work from becoming noise, so I'll write the next small improvement before adding new surface area to the multimodal AI social media deception detector.
