@@ -1628,3 +1628,4 @@
 
 ## 2026-07-16
 - 01:15 AM IST: Spent time reflecting on my work with FakeBusters and I realized that good product framing keeps security work from becoming noise, now I'm looking to turn the rough idea into something testable.
+- 01:16 AM IST: Revisited the direction for CYBER DRAVIDA and realized that tools like GitReverse must prioritize seamless adoption, as I learned from organizing Tech Carnival 2K26 and studying digital forensics through Advent of Cyber, reminding me to stay focused on user problems and keep in mind that even security tools like ours need a polished frontend.
