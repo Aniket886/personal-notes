@@ -676,3 +676,4 @@
 ## 2026-07-17
 - 01:11 AM IST: Simplifying security tooling for OSINT workflows is key, as seen in hand-gestures, where intuitive spatial interaction can reduce confusion and enhance digital security.
 - 01:11 AM IST: Building MetaClean taught me to prioritize secure-by-design engineering, mapping cybersecurity lessons into intuitive UX decisions to make the web a safer space.
+- 01:11 AM IST: Investigating web security fundamentals through terralens is helping me connect the dots between learning, shipping, and trust in our product.
