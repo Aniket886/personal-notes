@@ -1641,3 +1641,4 @@
 
 ## 2026-07-17
 - 01:11 AM IST: Captured progress around building terralens, and I'm reminded that the most useful tools are the ones people can adopt without friction, which is guiding my next step to write the next small improvement before adding new surface area to make a more secure web a reality.
+- 01:11 AM IST: Made room to think through my work on terralens and realized that the build side matters as much as the investigation side, so I'll document my thinking clearly enough that it can be reused, especially considering the frontend polish that still matters in security-heavy products like this one.
