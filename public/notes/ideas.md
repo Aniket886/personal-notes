@@ -682,3 +682,4 @@
 - 01:10 AM IST: Building practical tools like india-cyber-guard helps bridge web development with digital security, making the web harder to break one project at a time.
 - 01:10 AM IST: Building tools like MetaClean helps turn the secure by design concept into reality, making investigation workflows more efficient and privacy a default.
 - 01:10 AM IST: Building tools like FakeBusters helps me learn how to make security more accessible, ship solutions that simplify trust online, and advance secure-by-design engineering.
+- 01:10 AM IST: Integrating investigation habits into terralens as developer-facing checklists can enhance the product's OSINT workflow capabilities.
