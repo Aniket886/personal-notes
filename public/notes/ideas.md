@@ -688,3 +688,4 @@
 - 01:13 AM IST: Building practical security tools like india-cyber-guard helps bridge web development with digital security, making it easier for developers to keep the web secure.
 - 01:13 AM IST: Building tools like MetaClean helps make privacy features feel normal, not optional, by integrating them into everyday development workflows.
 - 01:13 AM IST: Simplifying security checks through terralens and similar tools can help turn good investigation habits into practical developer workflows.
+- 01:13 AM IST: Building tools like the Data Wiping Tool has taught me that good investigation notes are crucial in ethical hacking projects, capturing the build logic is key to creating effective digital security solutions.
