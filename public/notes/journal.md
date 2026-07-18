@@ -1665,3 +1665,4 @@
 
 ## 2026-07-19
 - 01:13 AM IST: Spent time reflecting on my cybersecurity intern experience and FakeBusters project, realizing the build side matters as much as the investigation side, so I'll write the next small improvement before adding new surface area to further solidify my web security fundamentals.
+- 01:13 AM IST: Made room to think through my work on MetaClean and I keep coming back to simplicity, speed, and trust as key elements in building a privacy-focused product like this metadata removal tool, and I plan to stay close to the actual user problem.
