@@ -692,3 +692,6 @@
 
 ## 2026-07-20
 - 01:12 AM IST: Building on the india-cyber-guard project, I'm focused on embedding security into every development step, because secure by design beats secure by patch, and that's key to making the web harder to break.
+
+## 2026-07-21
+- 01:37 AM IST: Simplifying security tooling is key to making the web harder to break, a lesson from mentoring that now guides terralens product decisions.
