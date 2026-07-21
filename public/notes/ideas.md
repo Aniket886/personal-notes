@@ -695,3 +695,6 @@
 
 ## 2026-07-21
 - 01:37 AM IST: Simplifying security tooling is key to making the web harder to break, a lesson from mentoring that now guides terralens product decisions.
+
+## 2026-07-22
+- 01:31 AM IST: Simplifying OSINT workflows through tools like the Data Wiping Tool helps me apply a key lesson from cybersecurity mentoring to UX decisions, making digital security more accessible.
