@@ -1686,3 +1686,6 @@
 - 01:37 AM IST: Checked back in on my work with GitReverse and I keep coming back to simplicity, speed, and trust as key elements, realizing that for a BCA student like me, designing an investigation workflow that's practical and repeatable is crucial, especially when applying OSINT and forensics skills to real-world problems.
 - 01:37 AM IST: Checked back in on my projects and realized the strongest thread is still making security tooling practical for real users, so I'll turn my rough idea into something testable, building on what I've learned from OSINT workflows and Innovating with Google Cloud Artificial Intelligence.
 - 01:37 AM IST: Checked back in on my progress and realized the work feels best when the technical detail supports a clear outcome, which is why I'm excited to apply my learnings from Advent of Cyber and cybersecurity intern experience to the india-cyber-guard project, focusing on privacy-focused product design and keeping the scope practical to create real-world impact.
+
+## 2026-07-22
+- 01:31 AM IST: Captured progress around terralens and my studies, I've learned that good product framing keeps security work from becoming noise, and I'll stay close to the actual user problem as I continue to refine my web security fundamentals and apply them to practical tools like terralens.
