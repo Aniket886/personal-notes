@@ -704,3 +704,4 @@
 - 01:23 AM IST: Incorporating good investigation notes into the ArcMotion hand-gestures project can enhance its web security fundamentals by informing intuitive spatial interaction and voice control design decisions.
 - 01:23 AM IST: Simplifying OSINT workflows with clear and repeatable processes is key to building practical tools like hand-gestures that enhance digital security through intuitive spatial interactions.
 - 01:23 AM IST: Building tools like ArcMotion's hand-gestures project helps bridge web development with digital security, making good investigation notes a key part of creating a more secure web.
+- 01:23 AM IST: Building tools like FakeBusters helps turn investigation habits into actionable checklists for developers to prioritize privacy-focused product design and make the web more secure.
