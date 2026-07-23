@@ -1710,3 +1710,6 @@
 - 01:23 AM IST: Spent time reflecting on my work and I still believe the strongest thread is making security tooling practical for real users, so my next step is to turn a rough idea into something testable for terralens.
 - 01:23 AM IST: Spent time reflecting on my work with terralens and I feel most fulfilled when the technical details come together to support a clear outcome, now I'm excited to turn a rough idea into something testable and apply my learnings from OSINT workflows and Innovating with Google Cloud Artificial Intelligence to make it happen.
 - 01:23 AM IST: Wrote down a few notes about my experience building hand-gestures and I'm reminded that the build side matters as much as the investigation side, so my next step is to turn this rough idea into something testable.
+
+## 2026-07-24
+- 01:25 AM IST: Revisited the direction for my work in cybersecurity and web development, and I feel most fulfilled when I can see how the technical details I've worked on, such as the secure-by-design approach in the Tech Carnival 2K26 Website project, directly support a clear outcome like making the web harder to break.
