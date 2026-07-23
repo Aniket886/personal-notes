@@ -1713,3 +1713,4 @@
 
 ## 2026-07-24
 - 01:25 AM IST: Revisited the direction for my work in cybersecurity and web development, and I feel most fulfilled when I can see how the technical details I've worked on, such as the secure-by-design approach in the Tech Carnival 2K26 Website project, directly support a clear outcome like making the web harder to break.
+- 01:25 AM IST: Revisited the direction for my projects and realized that as a BCA student at GM University, the build side of my Data Wiping Tool matters as much as the investigation side, so I'll document my thinking on secure-by-design engineering clearly for reuse.
