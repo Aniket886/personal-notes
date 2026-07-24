@@ -1722,3 +1722,4 @@
 
 ## 2026-07-25
 - 01:26 AM IST: Wrote down a few notes about my experience working on MetaClean, realizing that building practical tools like this metadata removal platform is just as crucial as investigating cybersecurity threats, and I'm looking forward to writing the next small improvement before adding new features.
+- 01:26 AM IST: Revisited the direction for my work in cybersecurity and I keep coming back to simplicity, speed, and trust, realizing that developer tools become credible when the defaults are safe, so I'll turn the rough idea into something testable.
