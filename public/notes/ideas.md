@@ -716,3 +716,4 @@
 
 ## 2026-07-26
 - 01:15 AM IST: Building FakeBusters for HACKANOVA 2026 showed me that capturing the core logic of a project before implementation is key to making the web more secure by design.
+- 01:15 AM IST: Building privacy into the foundation of products like GitReverse helps make security a normal part of the development process, not an afterthought.
