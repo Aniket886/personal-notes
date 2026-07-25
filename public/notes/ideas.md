@@ -713,3 +713,6 @@
 
 ## 2026-07-25
 - 01:26 AM IST: Simplifying investigation workflows through clear explanation and repetition is key to making security tools more accessible and effective.
+
+## 2026-07-26
+- 01:15 AM IST: Building FakeBusters for HACKANOVA 2026 showed me that capturing the core logic of a project before implementation is key to making the web more secure by design.
