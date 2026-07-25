@@ -1728,3 +1728,4 @@
 ## 2026-07-26
 - 01:15 AM IST: Checked back in on my Data Wiping Tool project and I keep coming back to the importance of simplicity, speed, and trust in building practical tools that make the web harder to break, so next I'll turn the rough idea into something testable.
 - 01:15 AM IST: Wrote down a few notes about my work on GitReverse and I'm reminded that the technical details feel most worthwhile when they support a clear outcome, a takeaway that I'll keep in mind as I focus on practical, real-world applications of privacy-focused product design.
+- 01:15 AM IST: Captured progress around building practical tools like GitReverse, and I've learned that good product framing is key to keeping security work from becoming noise, which will guide my next steps in keeping the scope practical and focused on real-world use.
