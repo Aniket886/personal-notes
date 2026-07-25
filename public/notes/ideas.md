@@ -718,3 +718,4 @@
 - 01:15 AM IST: Building FakeBusters for HACKANOVA 2026 showed me that capturing the core logic of a project before implementation is key to making the web more secure by design.
 - 01:15 AM IST: Building privacy into the foundation of products like GitReverse helps make security a normal part of the development process, not an afterthought.
 - 01:15 AM IST: Simplifying investigation habits into repeatable checklists is key to secure-by-design engineering, as seen in india-cyber-guard, where clarity and repeatability are essential to making the web more secure.
+- 01:15 AM IST: Building on the india-cyber-guard project, my goal is to create user-friendly security tools that embed the principle of secure by design, making it easier for developers to prioritize digital safety.
