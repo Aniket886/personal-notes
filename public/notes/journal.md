@@ -1743,3 +1743,4 @@
 
 ## 2026-07-27
 - 01:14 AM IST: Spent time reflecting on my experiences with FakeBusters and ethical hacking, realizing the strongest thread is still making security tooling practical for real users, so my next step is to stay close to the actual user problem and focus on how AI tooling can reduce noise.
+- 01:14 AM IST: Checked back in on my work with hand-gestures and realized the build side matters as much as the investigation side, so I'll keep the scope practical and focus on real-world use, applying secure-by-design engineering and lessons from Google AI Essentials and TryHackMe to make a stronger impact.
