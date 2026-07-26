@@ -720,3 +720,6 @@
 - 01:15 AM IST: Simplifying investigation habits into repeatable checklists is key to secure-by-design engineering, as seen in india-cyber-guard, where clarity and repeatability are essential to making the web more secure.
 - 01:15 AM IST: Building on the india-cyber-guard project, my goal is to create user-friendly security tools that embed the principle of secure by design, making it easier for developers to prioritize digital safety.
 - 01:15 AM IST: Building practical tools like india-cyber-guard helps bridge web development with digital security, making the web harder to break through ethical hacking approaches.
+
+## 2026-07-27
+- 01:14 AM IST: Simplifying the FakeBusters workflow helps me clearly explain how AI detects social media deception, making it easier to repeat and improve the investigation design.
