@@ -1755,3 +1755,4 @@
 
 ## 2026-07-29
 - 01:32 AM IST: Revisited the direction for terralens and my work in cybersecurity, realizing the strongest thread is still making security tooling practical for real users, which I will keep in mind as I continue to learn and apply ethical hacking skills.
+- 01:32 AM IST: Spent time reflecting on how my work on hand-gestures and secure-by-design engineering can help frame security solutions that are effective and not just noise, and I'm excited to turn this rough idea into something testable.
