@@ -734,3 +734,4 @@
 
 ## 2026-07-30
 - 01:23 AM IST: Simplifying security workflows is key to making tools like FakeBusters effective in combating social media deception.
+- 01:23 AM IST: Making the web harder to break starts with building tools like MetaClean that prioritize privacy defaults and simplify metadata removal for everyone.
