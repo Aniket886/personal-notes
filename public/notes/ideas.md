@@ -736,3 +736,4 @@
 - 01:23 AM IST: Simplifying security workflows is key to making tools like FakeBusters effective in combating social media deception.
 - 01:23 AM IST: Making the web harder to break starts with building tools like MetaClean that prioritize privacy defaults and simplify metadata removal for everyone.
 - 01:23 AM IST: As I reflect on FakeBusters, I'm reminded that integrating privacy features should be a routine part of development, not an afterthought.
+- 01:23 AM IST: In building FakeBusters, I realized that good investigation notes are crucial to designing an effective UX for web security tools, as they help identify and mitigate deception patterns that can inform multimodal AI detector development.
