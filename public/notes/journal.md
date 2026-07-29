@@ -1766,3 +1766,4 @@
 
 ## 2026-07-30
 - 01:23 AM IST: Made room to think through my work on GitReverse and I keep coming back to simplicity, speed, and trust, realizing that my learning in ethical hacking and OSINT Cyber Crime Investigation has been instrumental in shaping my approach as Founder at CYBER DRAVIDA, and now I plan to tighten the flow and keep the implementation honest.
+- 01:23 AM IST: Spent time reflecting on my work with terralens and learning from HACKANOVA 2026, and I keep coming back to simplicity, speed, and trust, realizing that to make the web harder to break, I should stay close to the actual user problem and focus on how tools like MongoDB can help, especially after seeing how AI tooling is most useful when it reduces noise instead of adding it.
