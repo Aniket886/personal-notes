@@ -737,3 +737,6 @@
 - 01:23 AM IST: Making the web harder to break starts with building tools like MetaClean that prioritize privacy defaults and simplify metadata removal for everyone.
 - 01:23 AM IST: As I reflect on FakeBusters, I'm reminded that integrating privacy features should be a routine part of development, not an afterthought.
 - 01:23 AM IST: In building FakeBusters, I realized that good investigation notes are crucial to designing an effective UX for web security tools, as they help identify and mitigate deception patterns that can inform multimodal AI detector development.
+
+## 2026-07-31
+- 01:33 AM IST: As I work on terralens, I'm reminded that seamlessly integrating privacy features into the core design is key to making them feel inherent, not extra.
