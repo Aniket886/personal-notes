@@ -1775,3 +1775,6 @@
 - 01:23 AM IST: Wrote down a few notes about how my experience with FakeBusters and learning digital forensics is helping me understand that good product framing keeps security work from becoming noise, and now I'm excited to turn this rough idea into something testable.
 - 01:23 AM IST: Wrote down a few notes about my experience with FakeBusters, a project that aligns with my mission to bridge web development with digital security, and I feel like the technical details really came together to support a clear outcome, now I'm looking to turn this rough idea into something testable.
 - 01:23 AM IST: Made room to think through my work on the Tech Carnival 2K26 Website and I realized the most useful tools are the ones people can adopt without friction, which is why I'll keep the scope practical and focus on real-world use as I continue to learn about ethical hacking and apply concepts like OSINT and forensics to build secure tools.
+
+## 2026-07-31
+- 01:33 AM IST: Spent time reflecting on my work and realized that the build side matters as much as the investigation side, so I'm turning my rough idea for terralens into something testable, applying lessons from Digital Forensics Essentials and my TryHackMe experience to enhance my approach to privacy-focused product design.
