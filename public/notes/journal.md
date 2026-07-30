@@ -1778,3 +1778,4 @@
 
 ## 2026-07-31
 - 01:33 AM IST: Spent time reflecting on my work and realized that the build side matters as much as the investigation side, so I'm turning my rough idea for terralens into something testable, applying lessons from Digital Forensics Essentials and my TryHackMe experience to enhance my approach to privacy-focused product design.
+- 01:33 AM IST: Revisited the direction for my work in bridging web development with digital security, and I'm reminded that the strongest thread is still making security tooling practical for real users, which I'll focus on by documenting my thinking clearly enough that it can be reused, building on the lessons from MetaClean and my ongoing learning in ethical hacking.
