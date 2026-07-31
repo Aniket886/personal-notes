@@ -1787,3 +1787,4 @@
 
 ## 2026-08-01
 - 01:33 AM IST: Spent time reflecting on my work with the Tech Carnival 2K26 Website and I keep coming back to simplicity, speed, and trust, realizing that security learning becomes more durable when it is connected to a working product, so I plan to turn the rough idea into something testable.
+- 01:33 AM IST: Checked back in on my Tech Carnival 2K26 Website project and realized that the build side matters as much as the investigation side, now I'm eager to turn the rough idea of integrating privacy-focused design into a testable product.
