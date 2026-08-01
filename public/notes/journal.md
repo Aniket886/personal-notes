@@ -1803,3 +1803,4 @@
 ## 2026-08-02
 - 01:14 AM IST: Checked back in on my work with FakeBusters and realized the build side matters as much as the investigation side, so I'll document my thinking clearly enough that it can be reused, especially since OSINT and forensics work get stronger when the workflow is repeatable.
 - 01:14 AM IST: Spent time reflecting on my cybersecurity internship experience and work on the india-cyber-guard project, realizing that the technical details feel most fulfilling when they support a clear outcome, such as designing investigation workflows that make a real-world impact.
+- 01:14 AM IST: Made room to think through how the build side of our projects, like the Tech Carnival 2K26 Website, matters as much as the investigation side, and I plan to keep this in mind as I apply my Digital Forensics Essentials knowledge to future privacy-focused product design initiatives.
