@@ -1817,3 +1817,4 @@
 ## 2026-08-03
 - 01:14 AM IST: Wrote down a few notes about my work on the Tech Carnival 2K26 Website and I keep coming back to simplicity, speed, and trust as key factors in building practical tools that bridge web development with digital security, and my next step is to stay close to the actual user problem.
 - 01:14 AM IST: Checked back in on my work and I keep coming back to simplicity, speed, and trust as I reflect on building the Tech Carnival 2K26 Website and learning about OSINT workflows and Digital Forensics Essentials.
+- 01:14 AM IST: Revisited the direction for terralens and realized that the most useful tools are the ones people can adopt without friction, so I'll stay close to the actual user problem as I continue building practical security tools that align with my mission to bridge web development with digital security.
