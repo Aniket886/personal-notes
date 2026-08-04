@@ -767,3 +767,4 @@
 - 01:39 AM IST: As I reflect on mentoring in cybersecurity, I realize that designing intuitive UX for tools like FakeBusters is crucial to making digital security more accessible and effective.
 - 01:39 AM IST: Building tools like MetaClean helps bridge web development and digital security, making the web a more private and secure space by design.
 - 01:39 AM IST: Building practical tools like those in india-cyber-guard helps bridge web development and digital security, making the web harder to break through easier to use security solutions.
+- 01:39 AM IST: Building tools like india-cyber-guard helps make web security fundamentals more accessible, because privacy features should be a normal part of the online experience, not an afterthought.
