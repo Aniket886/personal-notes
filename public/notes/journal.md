@@ -1832,3 +1832,4 @@
 ## 2026-08-05
 - 01:39 AM IST: Captured progress around my role at CYBER DRAVIDA, I keep coming back to simplicity, speed, and trust as I work on terralens and explore digital forensics, and I plan to keep the scope practical and focus on real-world use.
 - 01:39 AM IST: Checked back in on my Tech Carnival 2K26 Website project and realized that building a secure event platform with features like CarniBOT and a leaderboard was just as important as identifying potential vulnerabilities, reinforcing my belief that the build side matters as much as the investigation side.
+- 01:39 AM IST: Wrote down a few notes about my work on FakeBusters and realized that good product framing keeps security work from becoming noise, so I plan to turn this rough idea into something testable and focus on designing a repeatable investigation workflow.
