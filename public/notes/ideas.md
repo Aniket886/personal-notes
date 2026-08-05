@@ -768,3 +768,6 @@
 - 01:39 AM IST: Building tools like MetaClean helps bridge web development and digital security, making the web a more private and secure space by design.
 - 01:39 AM IST: Building practical tools like those in india-cyber-guard helps bridge web development and digital security, making the web harder to break through easier to use security solutions.
 - 01:39 AM IST: Building tools like india-cyber-guard helps make web security fundamentals more accessible, because privacy features should be a normal part of the online experience, not an afterthought.
+
+## 2026-08-06
+- 01:39 AM IST: Building FakeBusters has shown me that good investigation notes are crucial to creating effective tools like ours that make the web a more secure and private space.
