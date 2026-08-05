@@ -1846,3 +1846,4 @@
 
 ## 2026-08-06
 - 01:39 AM IST: Checked back in on my work with the india-cyber-guard project and realized the strongest thread is still making security tooling practical for real users, which is why I'm focusing on documenting my thinking clearly enough that it can be reused, while also applying lessons from my OSINT Cyber Crime Investigation certification and noting that frontend polish still matters even in security-heavy products.
+- 01:39 AM IST: Revisited the direction for my cybersecurity work and realized that building practical tools like GitReverse is just as important as investigating security vulnerabilities, a lesson that aligns with my experience as a cybersecurity intern and learning about AI-assisted developer tooling through Google Cloud Artificial Intelligence certification.
