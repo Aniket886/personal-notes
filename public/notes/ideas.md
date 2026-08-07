@@ -782,3 +782,4 @@
 - 01:01 AM IST: Building practical tools like GitReverse to map security insights from GitHub repos informs a secure-by-design approach to web development.
 - 01:01 AM IST: Simplifying GitReverse's workflow helps bridge web development and digital security, one clear explanation at a time.
 - 01:01 AM IST: Building tools like MetaClean helps me bridge the gap between web development and digital security, making it easier for others to prioritize privacy and security without added complexity.
+- 01:01 AM IST: Simplifying security tooling is key to building trust, as seen in terralens, where clarity and practicality come together to make the web more secure.
