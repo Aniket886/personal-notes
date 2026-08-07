@@ -775,3 +775,4 @@
 
 ## 2026-08-07
 - 05:54 AM IST: Designing Hand-Gestures with security in mind from the outset is a key lesson in making the web harder to break, where secure by design principles guide every interaction and gesture.
+- 05:54 AM IST: Simplifying security tooling is key to making the web more secure, which is why I focus on building practical tools that reduce confusion and make digital security more accessible.
