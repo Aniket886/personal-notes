@@ -777,3 +777,6 @@
 - 05:54 AM IST: Designing Hand-Gestures with security in mind from the outset is a key lesson in making the web harder to break, where secure by design principles guide every interaction and gesture.
 - 05:54 AM IST: Simplifying security tooling is key to making the web more secure, which is why I focus on building practical tools that reduce confusion and make digital security more accessible.
 - 05:54 AM IST: Building the Tech Carnival 2K26 Website taught me that incorporating good investigation notes into the development process helps create a more secure and privacy-focused product.
+
+## 2026-08-08
+- 01:01 AM IST: Building practical tools like GitReverse to map security insights from GitHub repos informs a secure-by-design approach to web development.
