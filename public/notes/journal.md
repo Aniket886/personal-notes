@@ -1866,3 +1866,6 @@
 - 05:54 AM IST: Wrote down a few notes about my experience with FakeBusters and I realized that the most useful tools are the ones people can adopt without friction, which is why I plan to document my thinking clearly enough that it can be reused, especially in digital forensics and OSINT work where repeatable workflows are key.
 - 05:54 AM IST: Spent time reflecting on my work with MetaClean and I realize that good product framing is essential to keep security work from becoming noise, so next I'll document my thinking clearly enough that it can be reused.
 - 05:54 AM IST: Spent time reflecting on my projects, including the Data Wiping Tool, and realized the work feels best when the technical detail supports a clear outcome, so I'll turn my next rough idea into something testable, focusing on digital forensics and keeping in mind that frontend polish still matters even in security-heavy products.
+
+## 2026-08-08
+- 01:01 AM IST: Made room to think through my work on the Data Wiping Tool and I'm reminded that good product framing keeps security work from becoming noise, a lesson that aligns with my web security fundamentals learning from Advent of Cyber and my experience as a former Ethical Hacking Mentor at Hack_Gurukula, so next I'll stay close to the actual user problem.
