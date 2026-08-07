@@ -772,3 +772,6 @@
 ## 2026-08-06
 - 01:39 AM IST: Building FakeBusters has shown me that good investigation notes are crucial to creating effective tools like ours that make the web a more secure and private space.
 - 01:39 AM IST: Building tools like hand-gestures helps me bridge web development and digital security by making spatial interaction more intuitive and secure.
+
+## 2026-08-07
+- 05:54 AM IST: Designing Hand-Gestures with security in mind from the outset is a key lesson in making the web harder to break, where secure by design principles guide every interaction and gesture.
