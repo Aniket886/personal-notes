@@ -1881,3 +1881,4 @@
 
 ## 2026-08-09
 - 12:38 AM IST: Captured progress around terralens and my work at CYBER DRAVIDA, I'm reminded that the build side matters as much as the investigation side, and I'll keep the scope practical and focus on real-world use as I continue learning about ethical hacking and building on my experience from the Advent of Cyber and organizing Tech Carnival 2K26.
+- 12:38 AM IST: Wrote down a few notes about my work on terralens and I'm reminded that making security tooling practical for real users is still the strongest thread, so my next step is to turn this rough idea into something testable, building on what I've learned from Advent of Cyber and ethical hacking, including how OSINT and forensics work get stronger with repeatable workflows.
