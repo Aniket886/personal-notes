@@ -791,3 +791,4 @@
 - 12:41 AM IST: Building tools like GitReverse helps turn secure-by-design principles into everyday web development habits.
 - 12:41 AM IST: Making privacy features intuitive is key to my work, as seen in projects like GitReverse, where I aim to turn complex security knowledge into accessible tools.
 - 12:41 AM IST: Building MetaClean taught me that prioritizing secure-by-design engineering can lead to a more intuitive UX, like simplifying metadata removal for 15+ file types in a single tool.
+- 12:42 AM IST: With every project like FakeBusters, I aim to integrate privacy defaults into the core of AI-assisted developer tooling, making secure development feel like the norm.
