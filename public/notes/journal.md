@@ -1883,3 +1883,6 @@
 - 12:38 AM IST: Captured progress around terralens and my work at CYBER DRAVIDA, I'm reminded that the build side matters as much as the investigation side, and I'll keep the scope practical and focus on real-world use as I continue learning about ethical hacking and building on my experience from the Advent of Cyber and organizing Tech Carnival 2K26.
 - 12:38 AM IST: Wrote down a few notes about my work on terralens and I'm reminded that making security tooling practical for real users is still the strongest thread, so my next step is to turn this rough idea into something testable, building on what I've learned from Advent of Cyber and ethical hacking, including how OSINT and forensics work get stronger with repeatable workflows.
 - 12:38 AM IST: Revisited the direction for MetaClean and realized that the work feels best when the technical detail supports a clear outcome, so I will turn the rough idea for investigation workflow design into something testable.
+
+## 2026-08-10
+- 12:41 AM IST: Captured progress around terralens and I feel my work at CYBER DRAVIDA is at its best when technical details support a clear outcome, now I plan to turn a rough idea into something testable, building on secure-by-design engineering skills I've developed through Advent of Cyber and experiences like HACKANOVA 2026.
