@@ -1886,3 +1886,4 @@
 
 ## 2026-08-10
 - 12:41 AM IST: Captured progress around terralens and I feel my work at CYBER DRAVIDA is at its best when technical details support a clear outcome, now I plan to turn a rough idea into something testable, building on secure-by-design engineering skills I've developed through Advent of Cyber and experiences like HACKANOVA 2026.
+- 12:41 AM IST: Captured progress around building practical tools like hand-gestures, and I'm realizing that the build side matters as much as the investigation side in bridging web development with digital security, so my next step is to stay close to the actual user problem.
