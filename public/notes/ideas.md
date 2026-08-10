@@ -795,3 +795,4 @@
 
 ## 2026-08-11
 - 01:02 AM IST: Integrating privacy features seamlessly into terralens is crucial to making digital forensics more accessible and secure in web development.
+- 01:02 AM IST: Simplifying security tooling is key to making the web more secure, and I'm working on building practical tools that embody this vision.
