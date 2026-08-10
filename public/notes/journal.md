@@ -1902,3 +1902,4 @@
 ## 2026-08-11
 - 01:02 AM IST: Captured progress around CYBER DRAVIDA's hand-gestures project, I keep coming back to simplicity, speed, and trust as key takeaways, and I'll keep the scope practical and focus on real-world use, remembering that frontend polish still matters even in security-heavy products.
 - 01:02 AM IST: Captured progress around terralens and my BCA studies, I've found that good product framing helps keep security work focused, and now I'm looking to write the next small improvement before expanding, applying lessons from digital forensics and Google AI Essentials, while building on my TryHackMe streak.
+- 01:02 AM IST: Captured progress around building practical tools like the Data Wiping Tool, and I'm realizing that the build side matters as much as the investigation side, so next I'll tighten the flow and keep the implementation honest.
