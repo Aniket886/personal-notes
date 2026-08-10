@@ -1898,3 +1898,6 @@
 - 12:42 AM IST: Revisited the direction for my work in bridging web development with digital security, and after reflecting on projects like hand-gestures and my experience as an Ethical Hacking Mentor, I'm reminded that the strongest thread is still making security tooling practical for real users, so my next step is to stay close to the actual user problem.
 - 12:42 AM IST: Captured progress around building practical tools for digital security, and I'm reminded that the most useful ones are those people can adopt without friction, which is guiding my next steps to keep the scope practical and focus on real-world use.
 - 12:42 AM IST: Spent time reflecting on my work at CYBER DRAVIDA, and I realize that building practical tools like terralens is just as crucial as investigating security threats, so I'll tighten the flow and keep the implementation honest to make the web harder to break.
+
+## 2026-08-11
+- 01:02 AM IST: Captured progress around CYBER DRAVIDA's hand-gestures project, I keep coming back to simplicity, speed, and trust as key takeaways, and I'll keep the scope practical and focus on real-world use, remembering that frontend polish still matters even in security-heavy products.
