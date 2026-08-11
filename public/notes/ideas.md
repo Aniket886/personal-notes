@@ -800,3 +800,4 @@
 ## 2026-08-12
 - 01:06 AM IST: As I reflect on terralens, I'm reminded that good investigation notes are crucial to our privacy-focused product design, and capturing the build logic early on is key to making the web harder to break.
 - 01:06 AM IST: Building tools like the Data Wiping Tool helps make privacy features feel normal and accessible, bridging the gap between web development and digital security.
+- 01:06 AM IST: With FakeBusters, I'm exploring how good investigation notes can lead to clearer privacy defaults in web security projects.
