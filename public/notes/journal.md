@@ -1926,3 +1926,4 @@
 
 ## 2026-08-13
 - 01:08 AM IST: Revisited the direction for CYBER DRAVIDA and felt that the Data Wiping Tool project aligns well with my mission to bridge web development with digital security, now I need to turn my rough idea into something testable.
+- 01:08 AM IST: Wrote down a few notes about my experience building GitReverse and training students in cybersecurity fundamentals, and I'm reminded that the build side matters as much as the investigation side, so I'll keep focusing on practical tools like GitReverse to make the web more secure.
