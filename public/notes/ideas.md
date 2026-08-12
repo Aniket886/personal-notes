@@ -806,3 +806,4 @@
 
 ## 2026-08-13
 - 01:08 AM IST: Building on hand-gestures and spatial interaction, I aim to create a developer-facing checklist that turns good investigation habits into a core part of web security fundamentals.
+- 01:08 AM IST: I'm exploring how intuitive interfaces like ArcMotion's hand-gestures can make privacy features feel normal, not optional, in everyday OSINT workflows.
