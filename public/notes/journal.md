@@ -1923,3 +1923,6 @@
 - 01:06 AM IST: Wrote down a few notes about my recent projects, including the Data Wiping Tool, and realized that my experience as an Ethical Hacking Mentor and learning from Advent of Cyber have helped me understand how web security fundamentals can be applied to create practical tools, now I'm looking to turn a rough idea into something testable.
 - 01:06 AM IST: Captured progress around making security tooling practical for real users, and I'm convinced that's still the strongest thread, so next I'll turn the rough idea into something testable, building on my experience with india-cyber-guard and ethical hacking, as well as lessons from OSINT and forensics.
 - 01:06 AM IST: Made room to think through my experience as a core organizer of Tech Carnival 2K26 and building its full-stack event platform, and I realized that the most useful tools are the ones people can adopt without friction, which aligns with my goal of bridge web development with digital security and my learning focus on secure-by-design engineering.
+
+## 2026-08-13
+- 01:08 AM IST: Revisited the direction for CYBER DRAVIDA and felt that the Data Wiping Tool project aligns well with my mission to bridge web development with digital security, now I need to turn my rough idea into something testable.
