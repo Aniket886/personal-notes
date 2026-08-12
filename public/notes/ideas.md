@@ -803,3 +803,6 @@
 - 01:06 AM IST: With FakeBusters, I'm exploring how good investigation notes can lead to clearer privacy defaults in web security projects.
 - 01:06 AM IST: Building tools like GitReverse helps translate security knowledge into actionable insights, making secure by design a reality for web development.
 - 01:06 AM IST: Building practical tools like ArcMotion's hand-gestures project helps capture the logic of secure web development before implementation complexities arise.
+
+## 2026-08-13
+- 01:08 AM IST: Building on hand-gestures and spatial interaction, I aim to create a developer-facing checklist that turns good investigation habits into a core part of web security fundamentals.
