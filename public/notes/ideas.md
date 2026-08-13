@@ -810,3 +810,4 @@
 
 ## 2026-08-14
 - 01:05 AM IST: Building tools like MetaClean helps me realize that good investigation notes are indeed part of the product, especially when treating every project as a chance to make privacy defaults clearer in digital forensics.
+- 01:05 AM IST: Designing the Tech Carnival 2K26 Website with core privacy features felt like a natural step in creating a trustworthy event platform.
