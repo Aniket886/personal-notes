@@ -1948,3 +1948,4 @@
 
 ## 2026-08-15
 - 12:59 AM IST: Revisited the direction for my work in bridging web development with digital security, and I'm reminded that good product framing keeps security work from becoming noise, as seen in projects like FakeBusters, where building practical tools like a multimodal AI social media deception detector has helped me connect my learning in digital forensics to real-world use.
+- 12:59 AM IST: Made room to think through my work on the Tech Carnival 2K26 Website, and I realized that building a secure product like this full-stack event platform is just as important as investigating its potential vulnerabilities, a lesson that will guide me as I tighten the flow and keep the implementation honest in future projects.
