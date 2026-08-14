@@ -1945,3 +1945,6 @@
 - 01:05 AM IST: Spent time reflecting on my work with india-cyber-guard and I realize that good product framing keeps security work from becoming noise, so I'll keep the scope practical and focus on real-world use, particularly with digital forensics and OSINT, where repeatable workflows make all the difference.
 - 01:05 AM IST: Spent time reflecting on my work and I keep coming back to simplicity, speed, and trust as key takeaways from building the Tech Carnival 2K26 Website and learning about ethical hacking through Advent of Cyber.
 - 01:05 AM IST: Captured progress around building the Data Wiping Tool, a public utility that embodies my mission to bridge web development with digital security, and I've come to realize that the most useful tools are the ones people can adopt without friction.
+
+## 2026-08-15
+- 12:59 AM IST: Revisited the direction for my work in bridging web development with digital security, and I'm reminded that good product framing keeps security work from becoming noise, as seen in projects like FakeBusters, where building practical tools like a multimodal AI social media deception detector has helped me connect my learning in digital forensics to real-world use.
