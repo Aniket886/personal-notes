@@ -816,3 +816,4 @@
 
 ## 2026-08-15
 - 12:59 AM IST: Streamlining web security fundamentals into actionable checklists can help developers focus on building resilient applications, rather than getting lost in complicated security tools.
+- 12:59 AM IST: Simplifying security tooling is key to making the web more secure, which is why I focus on building practical tools like MetaClean that reduce confusion and make digital security more accessible to web developers.
