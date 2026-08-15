@@ -1957,3 +1957,6 @@
 - 12:59 AM IST: Revisited the direction for my secure-by-design engineering work and realized the technical details feel most meaningful when supporting a clear outcome, like with the Data Wiping Tool, now I'm looking to turn a rough idea into something testable while keeping in mind that frontend polish still matters.
 - 12:59 AM IST: Checked back in on my work with the india-cyber-guard project and realized that building practical security tools is just as crucial as investigating cyber threats, so I'll stay close to the actual user problem and focus on designing repeatable investigation workflows.
 - 12:59 AM IST: Made room to think through my work on MetaClean and realized that the most useful tools are the ones people can adopt without friction, so I'll stay close to the actual user problem as I continue to apply secure-by-design engineering principles.
+
+## 2026-08-16
+- 12:27 AM IST: Wrote down a few notes about my cybersecurity internship experience, where I worked on GitReverse, a tool that analyzes GitHub repositories, and realized that the work feels best when technical details support a clear outcome, so my next step is to document my thinking clearly enough that it can be reused.
