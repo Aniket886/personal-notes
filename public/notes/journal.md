@@ -1960,3 +1960,4 @@
 
 ## 2026-08-16
 - 12:27 AM IST: Wrote down a few notes about my cybersecurity internship experience, where I worked on GitReverse, a tool that analyzes GitHub repositories, and realized that the work feels best when technical details support a clear outcome, so my next step is to document my thinking clearly enough that it can be reused.
+- 12:27 AM IST: Made room to think through my experiences as a cybersecurity intern and working on the india-cyber-guard project, I keep coming back to simplicity, speed, and trust, and I'm reminded that security learning becomes more durable when it is connected to a working product, so my next step is to stay close to the actual user problem.
