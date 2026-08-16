@@ -1971,3 +1971,6 @@
 - 12:27 AM IST: Spent time reflecting on how my work on MetaClean and learning about OSINT workflows has shown me that good product framing keeps security work from becoming noise, and I plan to stay close to the actual user problem to make my security learning more durable and effective.
 - 12:27 AM IST: Made room to think through my investigation workflow design learning and I feel the work is most satisfying when technical details support a clear outcome, now I'm looking to turn a rough idea into something testable for the india-cyber-guard project.
 - 12:27 AM IST: Made room to think through my work on the Tech Carnival 2K26 Website and I realize the projects that feel most fulfilling are those where technical details come together to support a clear outcome, like making the web harder to break.
+
+## 2026-08-17
+- 12:26 AM IST: Spent time reflecting on my work at CYBER DRAVIDA, particularly with FakeBusters, and realized that good product framing is key to keeping security work from becoming noise, a lesson I'll apply by writing the next small improvement before adding new surface area.
