@@ -829,3 +829,4 @@
 - 12:26 AM IST: Building terralens has reinforced my belief that security tooling should simplify the development process, not add to its complexity, as we strive to make the web a more secure environment through secure-by-design engineering.
 - 12:26 AM IST: Building tools like GitReverse helps me learn how to bridge web development with digital security, shipping practical solutions that simplify investigation workflows and foster trust.
 - 12:26 AM IST: Building the Tech Carnival 2K26 Website with secure-by-design engineering reinforced my belief that privacy features should be an integral part of every project, not an afterthought.
+- 12:26 AM IST: Simplifying workflows in india-cyber-guard helps me focus on the core logic of digital forensics tools before implementation complexity sets in.
