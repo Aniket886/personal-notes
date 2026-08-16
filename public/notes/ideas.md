@@ -827,3 +827,4 @@
 
 ## 2026-08-17
 - 12:26 AM IST: Building terralens has reinforced my belief that security tooling should simplify the development process, not add to its complexity, as we strive to make the web a more secure environment through secure-by-design engineering.
+- 12:26 AM IST: Building tools like GitReverse helps me learn how to bridge web development with digital security, shipping practical solutions that simplify investigation workflows and foster trust.
