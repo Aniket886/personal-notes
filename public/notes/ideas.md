@@ -824,3 +824,6 @@
 - 12:27 AM IST: Building tools like FakeBusters reinforces my belief that privacy features should be inherent to every project, not just an afterthought.
 - 12:27 AM IST: Building practical tools like those in india-cyber-guard helps bridge web development with digital security, making the web harder to break.
 - 12:27 AM IST: Simplifying my investigation workflow into reusable checklists helps me build more secure tools for the india-cyber-guard project.
+
+## 2026-08-17
+- 12:26 AM IST: Building terralens has reinforced my belief that security tooling should simplify the development process, not add to its complexity, as we strive to make the web a more secure environment through secure-by-design engineering.
