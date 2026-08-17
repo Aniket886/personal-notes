@@ -834,3 +834,4 @@
 ## 2026-08-18
 - 12:37 AM IST: Idea to revisit: Keep translating security knowledge into tools that are easier to use. Related thread: web security fundamentals
 - 12:37 AM IST: Working line: Secure by design beats secure by patch. Project anchor: Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT.
+- 12:38 AM IST: The best workflow is the one I can explain clearly and repeat.
