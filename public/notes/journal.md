@@ -1985,3 +1985,6 @@
 - 12:26 AM IST: Wrote down a few notes about my cybersecurity internship experience and the india-cyber-guard project, realizing that the most useful tools are the ones people can adopt without friction, so my next step is to turn the rough idea into something testable.
 - 12:26 AM IST: Made room to think through my work on the Tech Carnival 2K26 Website and I realized that good product framing keeps security work from becoming noise, now I need to turn the rough idea of secure-by-design engineering into something testable.
 - 12:26 AM IST: Made room to think through my work on terralens and I feel most satisfied when the technical details come together to support a clear outcome, a feeling I've carried from my cybersecurity intern experience and OSINT Cyber Crime Investigation certification, and now I'm looking to tighten the flow and keep the implementation honest.
+
+## 2026-08-18
+- 12:37 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. and the way I think about investigation workflow design
