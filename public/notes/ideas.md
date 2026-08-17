@@ -830,3 +830,6 @@
 - 12:26 AM IST: Building tools like GitReverse helps me learn how to bridge web development with digital security, shipping practical solutions that simplify investigation workflows and foster trust.
 - 12:26 AM IST: Building the Tech Carnival 2K26 Website with secure-by-design engineering reinforced my belief that privacy features should be an integral part of every project, not an afterthought.
 - 12:26 AM IST: Simplifying workflows in india-cyber-guard helps me focus on the core logic of digital forensics tools before implementation complexity sets in.
+
+## 2026-08-18
+- 12:37 AM IST: Idea to revisit: Keep translating security knowledge into tools that are easier to use. Related thread: web security fundamentals
