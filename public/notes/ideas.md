@@ -836,3 +836,4 @@
 - 12:37 AM IST: Working line: Secure by design beats secure by patch. Project anchor: Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT.
 - 12:38 AM IST: The best workflow is the one I can explain clearly and repeat.
 - 12:38 AM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: secure-by-design engineering
+- 12:38 AM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: Data Wiping Tool: a public data privacy utility published as a live project.
