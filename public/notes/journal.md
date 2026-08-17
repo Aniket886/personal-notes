@@ -1989,3 +1989,4 @@
 ## 2026-08-18
 - 12:37 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. and the way I think about investigation workflow design
 - 12:37 AM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about Advent of Cyber. Good product framing keeps security work from becoming noise. A good reference point is Tighten the flow and keep the implementation honest..
+- 12:37 AM IST: BCA student at GM University, Davanagere. The current learning thread is secure-by-design engineering, and Developer tools become credible when the defaults are safe.
