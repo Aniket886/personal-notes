@@ -2004,3 +2004,4 @@
 
 ## 2026-08-19
 - 12:37 AM IST: Founder at CYBER DRAVIDA. The current learning thread is OSINT workflows, and A clean notes habit makes project decisions easier to revisit.
+- 12:37 AM IST: GitHub PRO with achievements including Pair Extraordinaire, Pull Shark, YOLO, and Quickdraw. keeps standing out. It connects well with MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. and the way I think about secure-by-design engineering
