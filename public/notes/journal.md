@@ -2001,3 +2001,6 @@
 - 12:38 AM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is web security fundamentals, and Frontend polish still matters even in security-heavy products.
 - 12:38 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. and the way I think about investigation workflow design
 - 12:38 AM IST: Revisited GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. after thinking about OSINT Cyber Crime Investigation (CCI). The build side matters as much as the investigation side. A good reference point is Turn the rough idea into something testable..
+
+## 2026-08-19
+- 12:37 AM IST: Founder at CYBER DRAVIDA. The current learning thread is OSINT workflows, and A clean notes habit makes project decisions easier to revisit.
