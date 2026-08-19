@@ -2009,3 +2009,6 @@
 - 12:37 AM IST: Founder at CYBER DRAVIDA. The current learning thread is AI-assisted developer tooling, and AI tooling is most useful when it reduces noise instead of adding it.
 - 12:37 AM IST: TryHackMe Top 1% with a 500-day learning streak. keeps standing out. It connects well with Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT. and the way I think about web security fundamentals
 - 12:37 AM IST: Revisited GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. after thinking about Advent of Cyber. The work feels best when the technical detail supports a clear outcome. A good reference point is Tighten the flow and keep the implementation honest..
+
+## 2026-08-20
+- 12:33 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. and the way I think about privacy-focused product design
