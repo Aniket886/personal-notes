@@ -841,3 +841,6 @@
 ## 2026-08-19
 - 12:37 AM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: terralens: an active TypeScript product iteration from April 2026.
 - 12:37 AM IST: The best workflow is the one I can explain clearly and repeat.
+
+## 2026-08-20
+- 12:33 AM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack.
