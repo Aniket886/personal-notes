@@ -2017,3 +2017,4 @@
 ## 2026-08-21
 - 12:41 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with terralens: an active TypeScript product iteration from April 2026. and the way I think about privacy-focused product design
 - 12:41 AM IST: Revisited MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. after thinking about Advent of Cyber. The work feels best when the technical detail supports a clear outcome. A good reference point is Write the next small improvement before adding new surface area..
+- 12:41 AM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is ethical hacking, and OSINT and forensics work get stronger when the workflow is repeatable.
