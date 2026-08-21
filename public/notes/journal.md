@@ -2025,3 +2025,6 @@
 - 12:41 AM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about OSINT Cyber Crime Investigation (CCI). The build side matters as much as the investigation side. A good reference point is Turn the rough idea into something testable..
 - 12:41 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is AI-assisted developer tooling, and Frontend polish still matters even in security-heavy products.
 - 12:41 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. and the way I think about privacy-focused product design
+
+## 2026-08-22
+- 12:36 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about ethical hacking
