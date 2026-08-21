@@ -849,3 +849,6 @@
 - 12:41 AM IST: Idea to revisit: Keep translating security knowledge into tools that are easier to use. Related thread: privacy-focused product design
 - 12:41 AM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT.
 - 12:41 AM IST: Privacy features should feel normal, not optional.
+
+## 2026-08-22
+- 12:36 AM IST: Build practical tools that make the web harder to break.
