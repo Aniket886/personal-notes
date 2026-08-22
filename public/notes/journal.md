@@ -2032,3 +2032,6 @@
 - 12:37 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is AI-assisted developer tooling, and A clean notes habit makes project decisions easier to revisit.
 - 12:37 AM IST: TryHackMe Top 1% with a 500-day learning streak. keeps standing out. It connects well with Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT. and the way I think about digital forensics
 - 12:37 AM IST: Revisited Data Wiping Tool: a public data privacy utility published as a live project. after thinking about Innovating with Google Cloud Artificial Intelligence. The strongest thread is still making security tooling practical for real users. A good reference point is Stay close to the actual user problem..
+
+## 2026-08-23
+- 12:28 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is AI-assisted developer tooling, and A clean notes habit makes project decisions easier to revisit.
