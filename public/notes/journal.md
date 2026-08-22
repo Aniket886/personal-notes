@@ -2040,3 +2040,4 @@
 - 12:28 AM IST: Founder at CYBER DRAVIDA. The current learning thread is digital forensics, and Developer tools become credible when the defaults are safe.
 - 12:28 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with terralens: an active TypeScript product iteration from April 2026. and the way I think about web security fundamentals
 - 12:28 AM IST: Revisited Data Wiping Tool: a public data privacy utility published as a live project. after thinking about Digital Forensics Essentials (DFE). The most useful tools are the ones people can adopt without friction. A good reference point is Document the thinking clearly enough that it can be reused..
+- 12:28 AM IST: Founder at CYBER DRAVIDA. The current learning thread is OSINT workflows, and Security learning becomes more durable when it is connected to a working product.
