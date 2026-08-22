@@ -855,3 +855,4 @@
 
 ## 2026-08-23
 - 12:28 AM IST: Build practical tools that make the web harder to break.
+- 12:28 AM IST: Idea to revisit: Map one lesson from cybersecurity mentoring into a product UX decision. Related thread: digital forensics
