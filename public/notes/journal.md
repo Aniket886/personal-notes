@@ -2038,3 +2038,4 @@
 - 12:28 AM IST: GitHub PRO with achievements including Pair Extraordinaire, Pull Shark, YOLO, and Quickdraw. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about web security fundamentals
 - 12:28 AM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about Google AI Essentials. The build side matters as much as the investigation side. A good reference point is Tighten the flow and keep the implementation honest..
 - 12:28 AM IST: Founder at CYBER DRAVIDA. The current learning thread is digital forensics, and Developer tools become credible when the defaults are safe.
+- 12:28 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with terralens: an active TypeScript product iteration from April 2026. and the way I think about web security fundamentals
