@@ -2087,3 +2087,4 @@
 - 01:17 AM IST: BCA student at GM University, Davanagere. The current learning thread is ethical hacking, and Developer tools become credible when the defaults are safe.
 - 01:17 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about privacy-focused product design
 - 01:17 AM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about Advent of Cyber. I keep coming back to simplicity, speed, and trust. A good reference point is Keep the scope practical and focus on real-world use..
+- 01:17 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is AI-assisted developer tooling, and Security learning becomes more durable when it is connected to a working product.
