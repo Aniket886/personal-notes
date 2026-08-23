@@ -856,3 +856,6 @@
 ## 2026-08-23
 - 12:28 AM IST: Build practical tools that make the web harder to break.
 - 12:28 AM IST: Idea to revisit: Map one lesson from cybersecurity mentoring into a product UX decision. Related thread: digital forensics
+
+## 2026-08-24
+- 12:27 AM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: secure-by-design engineering
