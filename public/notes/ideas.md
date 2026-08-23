@@ -897,3 +897,4 @@
 - 01:18 AM IST: Working line: Secure by design beats secure by patch. Project anchor: Data Wiping Tool: a public data privacy utility published as a live project.
 - 01:18 AM IST: Secure by design beats secure by patch.
 - 01:18 AM IST: Idea to revisit: Capture the build logic before the implementation gets noisy. Related thread: secure-by-design engineering
+- 01:19 AM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls.
