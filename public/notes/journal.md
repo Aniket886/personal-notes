@@ -2126,3 +2126,4 @@
 - 01:18 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is web security fundamentals, and OSINT and forensics work get stronger when the workflow is repeatable.
 - 01:18 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about privacy-focused product design
 - 01:18 AM IST: Revisited Data Wiping Tool: a public data privacy utility published as a live project. after thinking about OSINT Cyber Crime Investigation (CCI). The work feels best when the technical detail supports a clear outcome. A good reference point is Keep the scope practical and focus on real-world use..
+- 01:18 AM IST: BCA student at GM University, Davanagere. The current learning thread is AI-assisted developer tooling, and AI tooling is most useful when it reduces noise instead of adding it.
