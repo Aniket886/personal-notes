@@ -877,3 +877,4 @@
 - 01:17 AM IST: The best workflow is the one I can explain clearly and repeat.
 - 01:17 AM IST: Idea to revisit: Keep translating security knowledge into tools that are easier to use. Related thread: secure-by-design engineering
 - 01:17 AM IST: Working line: Good investigation notes are part of the product. Project anchor: FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face.
+- 01:17 AM IST: The best workflow is the one I can explain clearly and repeat.
