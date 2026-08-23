@@ -905,3 +905,4 @@
 - 01:19 AM IST: Idea to revisit: Capture the build logic before the implementation gets noisy. Related thread: OSINT workflows
 - 01:19 AM IST: Working line: Good investigation notes are part of the product. Project anchor: india-cyber-guard: an active TypeScript security-oriented repository.
 - 01:19 AM IST: Secure by design beats secure by patch.
+- 01:19 AM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: privacy-focused product design
