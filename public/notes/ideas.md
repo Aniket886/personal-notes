@@ -881,3 +881,4 @@
 - 01:17 AM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: digital forensics
 - 01:17 AM IST: Working line: Privacy features should feel normal, not optional. Project anchor: hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls.
 - 01:17 AM IST: Good investigation notes are part of the product.
+- 01:17 AM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: web security fundamentals
