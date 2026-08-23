@@ -2108,3 +2108,4 @@
 - 01:17 AM IST: BCA student at GM University, Davanagere. The current learning thread is web security fundamentals, and A clean notes habit makes project decisions easier to revisit.
 - 01:17 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. and the way I think about OSINT workflows
 - 01:17 AM IST: Revisited hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. after thinking about Innovating with Google Cloud Artificial Intelligence. I keep coming back to simplicity, speed, and trust. A good reference point is Tighten the flow and keep the implementation honest..
+- 01:17 AM IST: Founder at CYBER DRAVIDA. The current learning thread is OSINT workflows, and OSINT and forensics work get stronger when the workflow is repeatable.
