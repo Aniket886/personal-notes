@@ -2165,3 +2165,4 @@
 - 01:18 AM IST: Founder at CYBER DRAVIDA. The current learning thread is AI-assisted developer tooling, and OSINT and forensics work get stronger when the workflow is repeatable.
 - 01:18 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about investigation workflow design
 - 01:18 AM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about Advent of Cyber. The most useful tools are the ones people can adopt without friction. A good reference point is Turn the rough idea into something testable..
+- 01:19 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is OSINT workflows, and AI tooling is most useful when it reduces noise instead of adding it.
