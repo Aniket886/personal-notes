@@ -880,3 +880,4 @@
 - 01:17 AM IST: The best workflow is the one I can explain clearly and repeat.
 - 01:17 AM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: digital forensics
 - 01:17 AM IST: Working line: Privacy features should feel normal, not optional. Project anchor: hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls.
+- 01:17 AM IST: Good investigation notes are part of the product.
