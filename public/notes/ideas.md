@@ -864,3 +864,4 @@
 - 01:16 AM IST: Working line: Privacy features should feel normal, not optional. Project anchor: MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack.
 - 01:16 AM IST: Privacy features should feel normal, not optional.
 - 01:16 AM IST: Idea to revisit: Keep translating security knowledge into tools that are easier to use. Related thread: privacy-focused product design
+- 01:16 AM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT.
