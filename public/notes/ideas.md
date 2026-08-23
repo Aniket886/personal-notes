@@ -867,3 +867,4 @@
 - 01:16 AM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT.
 - 01:16 AM IST: Build practical tools that make the web harder to break.
 - 01:16 AM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: OSINT workflows
+- 01:17 AM IST: Working line: Good investigation notes are part of the product. Project anchor: Data Wiping Tool: a public data privacy utility published as a live project.
