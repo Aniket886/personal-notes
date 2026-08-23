@@ -868,3 +868,4 @@
 - 01:16 AM IST: Build practical tools that make the web harder to break.
 - 01:16 AM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: OSINT workflows
 - 01:17 AM IST: Working line: Good investigation notes are part of the product. Project anchor: Data Wiping Tool: a public data privacy utility published as a live project.
+- 01:17 AM IST: Security tooling should reduce confusion, not create more of it.
