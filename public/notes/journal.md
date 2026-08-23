@@ -2102,3 +2102,4 @@
 - 01:17 AM IST: Founder at CYBER DRAVIDA. The current learning thread is secure-by-design engineering, and A clean notes habit makes project decisions easier to revisit.
 - 01:17 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. and the way I think about OSINT workflows
 - 01:17 AM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about Innovating with Google Cloud Artificial Intelligence. The build side matters as much as the investigation side. A good reference point is Tighten the flow and keep the implementation honest..
+- 01:17 AM IST: Founder at CYBER DRAVIDA. The current learning thread is secure-by-design engineering, and Frontend polish still matters even in security-heavy products.
