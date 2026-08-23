@@ -908,3 +908,4 @@
 - 01:19 AM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: privacy-focused product design
 - 01:19 AM IST: Working line: Good investigation notes are part of the product. Project anchor: MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack.
 - 01:19 AM IST: Security tooling should reduce confusion, not create more of it.
+- 01:19 AM IST: Idea to revisit: Map one lesson from cybersecurity mentoring into a product UX decision. Related thread: web security fundamentals
