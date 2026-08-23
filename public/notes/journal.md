@@ -2168,3 +2168,4 @@
 - 01:19 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is OSINT workflows, and AI tooling is most useful when it reduces noise instead of adding it.
 - 01:19 AM IST: GitHub PRO with achievements including Pair Extraordinaire, Pull Shark, YOLO, and Quickdraw. keeps standing out. It connects well with terralens: an active TypeScript product iteration from April 2026. and the way I think about ethical hacking
 - 01:19 AM IST: Revisited Data Wiping Tool: a public data privacy utility published as a live project. after thinking about Advent of Cyber. The most useful tools are the ones people can adopt without friction. A good reference point is Write the next small improvement before adding new surface area..
+- 01:19 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is ethical hacking, and A clean notes habit makes project decisions easier to revisit.
