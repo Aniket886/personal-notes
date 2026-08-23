@@ -882,3 +882,4 @@
 - 01:17 AM IST: Working line: Privacy features should feel normal, not optional. Project anchor: hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls.
 - 01:17 AM IST: Good investigation notes are part of the product.
 - 01:17 AM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: web security fundamentals
+- 01:18 AM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack.
