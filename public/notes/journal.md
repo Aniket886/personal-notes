@@ -2066,3 +2066,4 @@
 - 01:16 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is investigation workflow design, and Security learning becomes more durable when it is connected to a working product.
 - 01:16 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with terralens: an active TypeScript product iteration from April 2026. and the way I think about OSINT workflows
 - 01:16 AM IST: Revisited hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. after thinking about Digital Forensics Essentials (DFE). Good product framing keeps security work from becoming noise. A good reference point is Write the next small improvement before adding new surface area..
+- 01:16 AM IST: Founder at CYBER DRAVIDA. The current learning thread is OSINT workflows, and AI tooling is most useful when it reduces noise instead of adding it.
