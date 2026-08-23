@@ -872,3 +872,4 @@
 - 01:17 AM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: digital forensics
 - 01:17 AM IST: Working line: Privacy features should feel normal, not optional. Project anchor: Data Wiping Tool: a public data privacy utility published as a live project.
 - 01:17 AM IST: Privacy features should feel normal, not optional.
+- 01:17 AM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: secure-by-design engineering
