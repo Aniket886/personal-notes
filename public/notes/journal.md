@@ -2138,3 +2138,4 @@
 - 01:18 AM IST: Founder at CYBER DRAVIDA. The current learning thread is privacy-focused product design, and AI tooling is most useful when it reduces noise instead of adding it.
 - 01:18 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about secure-by-design engineering
 - 01:18 AM IST: Revisited GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. after thinking about Google AI Essentials. Good product framing keeps security work from becoming noise. A good reference point is Stay close to the actual user problem..
+- 01:18 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is OSINT workflows, and AI tooling is most useful when it reduces noise instead of adding it.
