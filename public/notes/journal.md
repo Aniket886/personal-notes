@@ -2132,3 +2132,4 @@
 - 01:18 AM IST: Founder at CYBER DRAVIDA. The current learning thread is OSINT workflows, and Developer tools become credible when the defaults are safe.
 - 01:18 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about ethical hacking
 - 01:18 AM IST: Revisited MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. after thinking about Innovating with Google Cloud Artificial Intelligence. The build side matters as much as the investigation side. A good reference point is Keep the scope practical and focus on real-world use..
+- 01:18 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is secure-by-design engineering, and Developer tools become credible when the defaults are safe.
