@@ -2117,3 +2117,4 @@
 - 01:17 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is digital forensics, and AI tooling is most useful when it reduces noise instead of adding it.
 - 01:17 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with terralens: an active TypeScript product iteration from April 2026. and the way I think about secure-by-design engineering
 - 01:17 AM IST: Revisited hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. after thinking about Innovating with Google Cloud Artificial Intelligence. Good product framing keeps security work from becoming noise. A good reference point is Stay close to the actual user problem..
+- 01:17 AM IST: BCA student at GM University, Davanagere. The current learning thread is digital forensics, and Security learning becomes more durable when it is connected to a working product.
