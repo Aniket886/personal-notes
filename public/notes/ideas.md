@@ -861,3 +861,4 @@
 - 12:27 AM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: secure-by-design engineering
 - 12:28 AM IST: Working line: Good investigation notes are part of the product. Project anchor: GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths.
 - 12:28 AM IST: Build practical tools that make the web harder to break.
+- 01:16 AM IST: Working line: Privacy features should feel normal, not optional. Project anchor: MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack.
