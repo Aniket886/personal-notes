@@ -2163,3 +2163,4 @@
 - 01:18 AM IST: GitHub PRO with achievements including Pair Extraordinaire, Pull Shark, YOLO, and Quickdraw. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about investigation workflow design
 - 01:18 AM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about Google AI Essentials. The build side matters as much as the investigation side. A good reference point is Tighten the flow and keep the implementation honest..
 - 01:18 AM IST: Founder at CYBER DRAVIDA. The current learning thread is AI-assisted developer tooling, and OSINT and forensics work get stronger when the workflow is repeatable.
+- 01:18 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about investigation workflow design
