@@ -884,3 +884,4 @@
 - 01:17 AM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: web security fundamentals
 - 01:18 AM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack.
 - 01:18 AM IST: The best workflow is the one I can explain clearly and repeat.
+- 01:18 AM IST: Idea to revisit: Keep translating security knowledge into tools that are easier to use. Related thread: ethical hacking
