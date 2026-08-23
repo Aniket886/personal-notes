@@ -2162,3 +2162,4 @@
 - 01:18 AM IST: BCA student at GM University, Davanagere. The current learning thread is privacy-focused product design, and AI tooling is most useful when it reduces noise instead of adding it.
 - 01:18 AM IST: GitHub PRO with achievements including Pair Extraordinaire, Pull Shark, YOLO, and Quickdraw. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about investigation workflow design
 - 01:18 AM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about Google AI Essentials. The build side matters as much as the investigation side. A good reference point is Tighten the flow and keep the implementation honest..
+- 01:18 AM IST: Founder at CYBER DRAVIDA. The current learning thread is AI-assisted developer tooling, and OSINT and forensics work get stronger when the workflow is repeatable.
