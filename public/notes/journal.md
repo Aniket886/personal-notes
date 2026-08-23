@@ -2114,3 +2114,4 @@
 - 01:17 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is secure-by-design engineering, and Frontend polish still matters even in security-heavy products.
 - 01:17 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about digital forensics
 - 01:17 AM IST: Revisited hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. after thinking about Advent of Cyber. The build side matters as much as the investigation side. A good reference point is Write the next small improvement before adding new surface area..
+- 01:17 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is digital forensics, and AI tooling is most useful when it reduces noise instead of adding it.
