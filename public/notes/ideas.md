@@ -901,3 +901,4 @@
 - 01:19 AM IST: Secure by design beats secure by patch.
 - 01:19 AM IST: Idea to revisit: Capture the build logic before the implementation gets noisy. Related thread: digital forensics
 - 01:19 AM IST: Working line: Secure by design beats secure by patch. Project anchor: india-cyber-guard: an active TypeScript security-oriented repository.
+- 01:19 AM IST: The best workflow is the one I can explain clearly and repeat.
