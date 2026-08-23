@@ -904,3 +904,4 @@
 - 01:19 AM IST: The best workflow is the one I can explain clearly and repeat.
 - 01:19 AM IST: Idea to revisit: Capture the build logic before the implementation gets noisy. Related thread: OSINT workflows
 - 01:19 AM IST: Working line: Good investigation notes are part of the product. Project anchor: india-cyber-guard: an active TypeScript security-oriented repository.
+- 01:19 AM IST: Secure by design beats secure by patch.
