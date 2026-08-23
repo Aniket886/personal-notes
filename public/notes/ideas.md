@@ -896,3 +896,4 @@
 - 01:18 AM IST: Idea to revisit: Keep translating security knowledge into tools that are easier to use. Related thread: web security fundamentals
 - 01:18 AM IST: Working line: Secure by design beats secure by patch. Project anchor: Data Wiping Tool: a public data privacy utility published as a live project.
 - 01:18 AM IST: Secure by design beats secure by patch.
+- 01:18 AM IST: Idea to revisit: Capture the build logic before the implementation gets noisy. Related thread: secure-by-design engineering
