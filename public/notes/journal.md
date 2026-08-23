@@ -2105,3 +2105,4 @@
 - 01:17 AM IST: Founder at CYBER DRAVIDA. The current learning thread is secure-by-design engineering, and Frontend polish still matters even in security-heavy products.
 - 01:17 AM IST: TryHackMe Top 1% with a 500-day learning streak. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about AI-assisted developer tooling
 - 01:17 AM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about Advent of Cyber. Good product framing keeps security work from becoming noise. A good reference point is Keep the scope practical and focus on real-world use..
+- 01:17 AM IST: BCA student at GM University, Davanagere. The current learning thread is web security fundamentals, and A clean notes habit makes project decisions easier to revisit.
