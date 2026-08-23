@@ -2042,3 +2042,6 @@
 - 12:28 AM IST: Revisited Data Wiping Tool: a public data privacy utility published as a live project. after thinking about Digital Forensics Essentials (DFE). The most useful tools are the ones people can adopt without friction. A good reference point is Document the thinking clearly enough that it can be reused..
 - 12:28 AM IST: Founder at CYBER DRAVIDA. The current learning thread is OSINT workflows, and Security learning becomes more durable when it is connected to a working product.
 - 12:28 AM IST: GitHub PRO with achievements including Pair Extraordinaire, Pull Shark, YOLO, and Quickdraw. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about digital forensics
+
+## 2026-08-24
+- 12:27 AM IST: BCA student at GM University, Davanagere. The current learning thread is digital forensics, and OSINT and forensics work get stronger when the workflow is repeatable.
