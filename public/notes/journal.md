@@ -2209,3 +2209,4 @@
 
 ## 2026-08-25
 - 12:40 AM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is digital forensics, and Security learning becomes more durable when it is connected to a working product.
+- 12:40 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. and the way I think about privacy-focused product design
