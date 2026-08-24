@@ -2217,3 +2217,4 @@
 - 12:40 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is digital forensics, and A clean notes habit makes project decisions easier to revisit.
 - 12:40 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. and the way I think about digital forensics
 - 12:40 AM IST: Revisited FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. after thinking about MongoDB AI and Innovation. I keep coming back to simplicity, speed, and trust. A good reference point is Stay close to the actual user problem..
+- 12:40 AM IST: Founder at CYBER DRAVIDA. The current learning thread is OSINT workflows, and Security learning becomes more durable when it is connected to a working product.
