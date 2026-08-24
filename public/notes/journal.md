@@ -2206,3 +2206,6 @@
 - 01:19 AM IST: Revisited FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. after thinking about Google AI Essentials. The build side matters as much as the investigation side. A good reference point is Tighten the flow and keep the implementation honest..
 - 01:19 AM IST: BCA student at GM University, Davanagere. The current learning thread is OSINT workflows, and Security learning becomes more durable when it is connected to a working product.
 - 01:19 AM IST: TryHackMe Top 1% with a 500-day learning streak. keeps standing out. It connects well with GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. and the way I think about secure-by-design engineering
+
+## 2026-08-25
+- 12:40 AM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is digital forensics, and Security learning becomes more durable when it is connected to a working product.
