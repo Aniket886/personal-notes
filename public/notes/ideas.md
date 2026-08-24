@@ -916,3 +916,4 @@
 - 12:40 AM IST: Working line: Privacy features should feel normal, not optional. Project anchor: hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls.
 - 12:40 AM IST: Privacy features should feel normal, not optional.
 - 12:40 AM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: OSINT workflows
+- 12:40 AM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face.
