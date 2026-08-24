@@ -911,3 +911,6 @@
 - 01:19 AM IST: Idea to revisit: Map one lesson from cybersecurity mentoring into a product UX decision. Related thread: web security fundamentals
 - 01:19 AM IST: Working line: Build practical tools that make the web harder to break. Project anchor: FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face.
 - 01:19 AM IST: Secure by design beats secure by patch.
+
+## 2026-08-25
+- 12:40 AM IST: Working line: Privacy features should feel normal, not optional. Project anchor: hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls.
