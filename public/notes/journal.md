@@ -2214,3 +2214,4 @@
 - 12:40 AM IST: Founder at CYBER DRAVIDA. The current learning thread is web security fundamentals, and Security learning becomes more durable when it is connected to a working product.
 - 12:40 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. and the way I think about web security fundamentals
 - 12:40 AM IST: Revisited Data Wiping Tool: a public data privacy utility published as a live project. after thinking about Google AI Essentials. Good product framing keeps security work from becoming noise. A good reference point is Keep the scope practical and focus on real-world use..
+- 12:40 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is digital forensics, and A clean notes habit makes project decisions easier to revisit.
