@@ -921,3 +921,4 @@
 
 ## 2026-08-26
 - 12:39 AM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: privacy-focused product design
+- 12:39 AM IST: Working line: Privacy features should feel normal, not optional. Project anchor: FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face.
