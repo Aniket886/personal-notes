@@ -2223,3 +2223,6 @@
 - 12:40 AM IST: Founder at CYBER DRAVIDA. The current learning thread is digital forensics, and OSINT and forensics work get stronger when the workflow is repeatable.
 - 12:40 AM IST: GitHub PRO with achievements including Pair Extraordinaire, Pull Shark, YOLO, and Quickdraw. keeps standing out. It connects well with FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. and the way I think about OSINT workflows
 - 12:40 AM IST: Revisited hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. after thinking about MongoDB AI and Innovation. Good product framing keeps security work from becoming noise. A good reference point is Tighten the flow and keep the implementation honest..
+
+## 2026-08-26
+- 12:39 AM IST: GitHub PRO with achievements including Pair Extraordinaire, Pull Shark, YOLO, and Quickdraw. keeps standing out. It connects well with MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. and the way I think about AI-assisted developer tooling
