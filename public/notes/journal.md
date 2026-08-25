@@ -2227,3 +2227,4 @@
 ## 2026-08-26
 - 12:39 AM IST: GitHub PRO with achievements including Pair Extraordinaire, Pull Shark, YOLO, and Quickdraw. keeps standing out. It connects well with MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. and the way I think about AI-assisted developer tooling
 - 12:39 AM IST: Revisited Data Wiping Tool: a public data privacy utility published as a live project. after thinking about MongoDB AI and Innovation. Good product framing keeps security work from becoming noise. A good reference point is Document the thinking clearly enough that it can be reused..
+- 12:39 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is digital forensics, and OSINT and forensics work get stronger when the workflow is repeatable.
