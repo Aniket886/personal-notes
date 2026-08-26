@@ -2230,3 +2230,6 @@
 - 12:39 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is digital forensics, and OSINT and forensics work get stronger when the workflow is repeatable.
 - 12:39 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. and the way I think about AI-assisted developer tooling
 - 12:39 AM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about Advent of Cyber. The most useful tools are the ones people can adopt without friction. A good reference point is Write the next small improvement before adding new surface area..
+
+## 2026-08-27
+- 02:11 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is privacy-focused product design, and Developer tools become credible when the defaults are safe.
