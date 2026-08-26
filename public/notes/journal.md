@@ -2233,3 +2233,4 @@
 
 ## 2026-08-27
 - 02:11 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is privacy-focused product design, and Developer tools become credible when the defaults are safe.
+- 02:11 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. and the way I think about secure-by-design engineering
