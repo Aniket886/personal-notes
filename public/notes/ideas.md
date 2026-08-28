@@ -930,3 +930,4 @@
 ## 2026-08-28
 - 07:46 AM IST: Working line: Good investigation notes are part of the product. Project anchor: FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face.
 - 07:46 AM IST: The best workflow is the one I can explain clearly and repeat.
+- 07:47 AM IST: Idea to revisit: Capture the build logic before the implementation gets noisy. Related thread: AI-assisted developer tooling
