@@ -2238,3 +2238,6 @@
 - 02:11 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is investigation workflow design, and Developer tools become credible when the defaults are safe.
 - 02:11 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about web security fundamentals
 - 02:11 AM IST: Revisited MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. after thinking about Google AI Essentials. I keep coming back to simplicity, speed, and trust. A good reference point is Turn the rough idea into something testable..
+
+## 2026-08-28
+- 07:46 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about privacy-focused product design
