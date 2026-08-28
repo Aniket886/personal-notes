@@ -926,3 +926,6 @@
 ## 2026-08-27
 - 02:11 AM IST: Idea to revisit: Keep translating security knowledge into tools that are easier to use. Related thread: digital forensics
 - 02:11 AM IST: Working line: Privacy features should feel normal, not optional. Project anchor: hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls.
+
+## 2026-08-28
+- 07:46 AM IST: Working line: Good investigation notes are part of the product. Project anchor: FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face.
