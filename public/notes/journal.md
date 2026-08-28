@@ -2242,3 +2242,4 @@
 ## 2026-08-28
 - 07:46 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about privacy-focused product design
 - 07:46 AM IST: Revisited MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. after thinking about Digital Forensics Essentials (DFE). The strongest thread is still making security tooling practical for real users. A good reference point is Write the next small improvement before adding new surface area..
+- 07:46 AM IST: Founder at CYBER DRAVIDA. The current learning thread is privacy-focused product design, and Developer tools become credible when the defaults are safe.
