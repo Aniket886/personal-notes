@@ -2270,3 +2270,4 @@
 
 ## 2026-08-30
 - 02:35 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is secure-by-design engineering, and AI tooling is most useful when it reduces noise instead of adding it.
+- 02:35 AM IST: GitHub PRO with achievements including Pair Extraordinaire, Pull Shark, YOLO, and Quickdraw. keeps standing out. It connects well with MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. and the way I think about web security fundamentals
