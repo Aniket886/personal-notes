@@ -2279,3 +2279,4 @@
 - 02:35 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about digital forensics
 - 02:35 AM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about Advent of Cyber. Good product framing keeps security work from becoming noise. A good reference point is Turn the rough idea into something testable..
 - 02:35 AM IST: BCA student at GM University, Davanagere. The current learning thread is AI-assisted developer tooling, and OSINT and forensics work get stronger when the workflow is repeatable.
+- 02:35 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with terralens: an active TypeScript product iteration from April 2026. and the way I think about AI-assisted developer tooling
