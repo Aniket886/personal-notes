@@ -2256,3 +2256,4 @@
 ## 2026-08-29
 - 07:21 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is ethical hacking, and A clean notes habit makes project decisions easier to revisit.
 - 07:21 AM IST: GitHub PRO with achievements including Pair Extraordinaire, Pull Shark, YOLO, and Quickdraw. keeps standing out. It connects well with FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. and the way I think about investigation workflow design
+- 07:21 AM IST: Revisited hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. after thinking about Advent of Cyber. Good product framing keeps security work from becoming noise. A good reference point is Stay close to the actual user problem..
