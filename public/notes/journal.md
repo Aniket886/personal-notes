@@ -2252,3 +2252,6 @@
 - 07:47 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. and the way I think about web security fundamentals
 - 07:47 AM IST: Revisited MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. after thinking about OSINT Cyber Crime Investigation (CCI). The work feels best when the technical detail supports a clear outcome. A good reference point is Turn the rough idea into something testable..
 - 07:47 AM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is privacy-focused product design, and AI tooling is most useful when it reduces noise instead of adding it.
+
+## 2026-08-29
+- 07:21 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is ethical hacking, and A clean notes habit makes project decisions easier to revisit.
