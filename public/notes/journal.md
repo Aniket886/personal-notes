@@ -2263,3 +2263,4 @@
 - 07:21 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is web security fundamentals, and A clean notes habit makes project decisions easier to revisit.
 - 07:21 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with terralens: an active TypeScript product iteration from April 2026. and the way I think about OSINT workflows
 - 07:21 AM IST: Revisited hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. after thinking about MongoDB AI and Innovation. The strongest thread is still making security tooling practical for real users. A good reference point is Keep the scope practical and focus on real-world use..
+- 07:21 AM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is secure-by-design engineering, and OSINT and forensics work get stronger when the workflow is repeatable.
