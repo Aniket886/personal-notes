@@ -2281,3 +2281,4 @@
 - 02:35 AM IST: BCA student at GM University, Davanagere. The current learning thread is AI-assisted developer tooling, and OSINT and forensics work get stronger when the workflow is repeatable.
 - 02:35 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with terralens: an active TypeScript product iteration from April 2026. and the way I think about AI-assisted developer tooling
 - 02:35 AM IST: Revisited FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. after thinking about Innovating with Google Cloud Artificial Intelligence. I keep coming back to simplicity, speed, and trust. A good reference point is Stay close to the actual user problem..
+- 02:35 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is ethical hacking, and Frontend polish still matters even in security-heavy products.
