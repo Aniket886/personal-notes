@@ -2283,3 +2283,6 @@
 - 02:35 AM IST: Revisited FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. after thinking about Innovating with Google Cloud Artificial Intelligence. I keep coming back to simplicity, speed, and trust. A good reference point is Stay close to the actual user problem..
 - 02:35 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is ethical hacking, and Frontend polish still matters even in security-heavy products.
 - 02:35 AM IST: GitHub PRO with achievements including Pair Extraordinaire, Pull Shark, YOLO, and Quickdraw. keeps standing out. It connects well with hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. and the way I think about ethical hacking
+
+## 2026-08-31
+- 02:55 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is OSINT workflows, and OSINT and forensics work get stronger when the workflow is repeatable.
