@@ -2286,3 +2286,4 @@
 
 ## 2026-08-31
 - 02:55 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is OSINT workflows, and OSINT and forensics work get stronger when the workflow is repeatable.
+- 02:55 AM IST: TryHackMe Top 1% with a 500-day learning streak. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about ethical hacking
