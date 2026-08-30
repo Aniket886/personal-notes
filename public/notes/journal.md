@@ -2288,3 +2288,4 @@
 - 02:55 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is OSINT workflows, and OSINT and forensics work get stronger when the workflow is repeatable.
 - 02:55 AM IST: TryHackMe Top 1% with a 500-day learning streak. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about ethical hacking
 - 02:55 AM IST: Revisited Data Wiping Tool: a public data privacy utility published as a live project. after thinking about MongoDB AI and Innovation. The strongest thread is still making security tooling practical for real users. A good reference point is Stay close to the actual user problem..
+- 02:55 AM IST: Founder at CYBER DRAVIDA. The current learning thread is investigation workflow design, and OSINT and forensics work get stronger when the workflow is repeatable.
