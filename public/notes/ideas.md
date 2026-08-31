@@ -955,3 +955,4 @@
 
 ## 2026-09-01
 - 04:29 AM IST: The best workflow is the one I can explain clearly and repeat.
+- 04:29 AM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: ethical hacking
