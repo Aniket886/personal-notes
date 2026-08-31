@@ -952,3 +952,6 @@
 - 02:55 AM IST: Security tooling should reduce confusion, not create more of it.
 - 02:55 AM IST: Idea to revisit: Map one lesson from cybersecurity mentoring into a product UX decision. Related thread: AI-assisted developer tooling
 - 02:55 AM IST: Working line: Privacy features should feel normal, not optional. Project anchor: GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths.
+
+## 2026-09-01
+- 04:29 AM IST: The best workflow is the one I can explain clearly and repeat.
