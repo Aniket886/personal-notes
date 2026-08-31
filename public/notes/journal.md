@@ -2297,3 +2297,6 @@
 - 02:55 AM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is web security fundamentals, and OSINT and forensics work get stronger when the workflow is repeatable.
 - 02:55 AM IST: TryHackMe Top 1% with a 500-day learning streak. keeps standing out. It connects well with MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. and the way I think about OSINT workflows
 - 02:55 AM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about Digital Forensics Essentials (DFE). The strongest thread is still making security tooling practical for real users. A good reference point is Turn the rough idea into something testable..
+
+## 2026-09-01
+- 04:29 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is OSINT workflows, and AI tooling is most useful when it reduces noise instead of adding it.
