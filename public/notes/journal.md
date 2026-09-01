@@ -2313,3 +2313,4 @@
 
 ## 2026-09-02
 - 02:44 AM IST: Revisited Data Wiping Tool: a public data privacy utility published as a live project. after thinking about OSINT Cyber Crime Investigation (CCI). The build side matters as much as the investigation side. A good reference point is Write the next small improvement before adding new surface area..
+- 02:44 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is AI-assisted developer tooling, and Frontend polish still matters even in security-heavy products.
