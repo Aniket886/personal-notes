@@ -957,3 +957,6 @@
 - 04:29 AM IST: The best workflow is the one I can explain clearly and repeat.
 - 04:29 AM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: ethical hacking
 - 04:29 AM IST: Working line: Good investigation notes are part of the product. Project anchor: hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls.
+
+## 2026-09-02
+- 02:44 AM IST: The best workflow is the one I can explain clearly and repeat.
