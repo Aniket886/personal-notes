@@ -2327,3 +2327,4 @@
 - 02:42 AM IST: Founder at CYBER DRAVIDA. The current learning thread is investigation workflow design, and Security learning becomes more durable when it is connected to a working product.
 - 02:42 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about investigation workflow design
 - 02:42 AM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about Google AI Essentials. The work feels best when the technical detail supports a clear outcome. A good reference point is Tighten the flow and keep the implementation honest..
+- 02:42 AM IST: BCA student at GM University, Davanagere. The current learning thread is OSINT workflows, and A clean notes habit makes project decisions easier to revisit.
