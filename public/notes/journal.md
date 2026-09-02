@@ -2319,3 +2319,4 @@
 
 ## 2026-09-03
 - 02:42 AM IST: Founder at CYBER DRAVIDA. The current learning thread is web security fundamentals, and Frontend polish still matters even in security-heavy products.
+- 02:42 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. and the way I think about privacy-focused product design
