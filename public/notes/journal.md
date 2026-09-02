@@ -2320,3 +2320,4 @@
 ## 2026-09-03
 - 02:42 AM IST: Founder at CYBER DRAVIDA. The current learning thread is web security fundamentals, and Frontend polish still matters even in security-heavy products.
 - 02:42 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. and the way I think about privacy-focused product design
+- 02:42 AM IST: Revisited hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. after thinking about Advent of Cyber. The most useful tools are the ones people can adopt without friction. A good reference point is Turn the rough idea into something testable..
