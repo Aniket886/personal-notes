@@ -2316,3 +2316,6 @@
 - 02:44 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is AI-assisted developer tooling, and Frontend polish still matters even in security-heavy products.
 - 02:44 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about ethical hacking
 - 02:44 AM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about Advent of Cyber. The strongest thread is still making security tooling practical for real users. A good reference point is Write the next small improvement before adding new surface area..
+
+## 2026-09-03
+- 02:42 AM IST: Founder at CYBER DRAVIDA. The current learning thread is web security fundamentals, and Frontend polish still matters even in security-heavy products.
