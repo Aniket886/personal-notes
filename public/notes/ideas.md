@@ -963,3 +963,4 @@
 
 ## 2026-09-03
 - 02:42 AM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths.
+- 02:42 AM IST: Privacy features should feel normal, not optional.
