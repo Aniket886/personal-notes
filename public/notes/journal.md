@@ -2328,3 +2328,4 @@
 - 02:42 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about investigation workflow design
 - 02:42 AM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about Google AI Essentials. The work feels best when the technical detail supports a clear outcome. A good reference point is Tighten the flow and keep the implementation honest..
 - 02:42 AM IST: BCA student at GM University, Davanagere. The current learning thread is OSINT workflows, and A clean notes habit makes project decisions easier to revisit.
+- 02:42 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with terralens: an active TypeScript product iteration from April 2026. and the way I think about secure-by-design engineering
