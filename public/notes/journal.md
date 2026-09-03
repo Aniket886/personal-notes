@@ -2332,3 +2332,4 @@
 
 ## 2026-09-04
 - 02:45 AM IST: Revisited Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT. after thinking about Google AI Essentials. The work feels best when the technical detail supports a clear outcome. A good reference point is Document the thinking clearly enough that it can be reused..
+- 02:45 AM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is ethical hacking, and Security learning becomes more durable when it is connected to a working product.
