@@ -965,3 +965,6 @@
 - 02:42 AM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths.
 - 02:42 AM IST: Privacy features should feel normal, not optional.
 - 02:42 AM IST: Idea to revisit: Keep translating security knowledge into tools that are easier to use. Related thread: secure-by-design engineering
+
+## 2026-09-04
+- 02:45 AM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face.
