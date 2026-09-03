@@ -969,3 +969,4 @@
 ## 2026-09-04
 - 02:45 AM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face.
 - 02:45 AM IST: Privacy features should feel normal, not optional.
+- 02:45 AM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: privacy-focused product design
