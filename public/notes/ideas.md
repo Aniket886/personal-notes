@@ -971,3 +971,4 @@
 - 02:45 AM IST: Privacy features should feel normal, not optional.
 - 02:45 AM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: privacy-focused product design
 - 02:45 AM IST: Working line: Privacy features should feel normal, not optional. Project anchor: Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT.
+- 02:45 AM IST: Privacy features should feel normal, not optional.
