@@ -2348,3 +2348,4 @@
 ## 2026-09-05
 - 02:27 AM IST: Revisited FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. after thinking about MongoDB AI and Innovation. Good product framing keeps security work from becoming noise. A good reference point is Write the next small improvement before adding new surface area..
 - 02:27 AM IST: BCA student at GM University, Davanagere. The current learning thread is digital forensics, and Developer tools become credible when the defaults are safe.
+- 02:27 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with terralens: an active TypeScript product iteration from April 2026. and the way I think about OSINT workflows
