@@ -2344,3 +2344,6 @@
 - 02:45 AM IST: Founder at CYBER DRAVIDA. The current learning thread is web security fundamentals, and A clean notes habit makes project decisions easier to revisit.
 - 02:45 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. and the way I think about AI-assisted developer tooling
 - 02:45 AM IST: Revisited FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. after thinking about Google AI Essentials. I keep coming back to simplicity, speed, and trust. A good reference point is Tighten the flow and keep the implementation honest..
+
+## 2026-09-05
+- 02:27 AM IST: Revisited FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. after thinking about MongoDB AI and Innovation. Good product framing keeps security work from becoming noise. A good reference point is Write the next small improvement before adding new surface area..
