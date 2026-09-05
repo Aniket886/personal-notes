@@ -2362,3 +2362,4 @@
 
 ## 2026-09-06
 - 02:08 AM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about OSINT Cyber Crime Investigation (CCI). The most useful tools are the ones people can adopt without friction. A good reference point is Turn the rough idea into something testable..
+- 02:08 AM IST: BCA student at GM University, Davanagere. The current learning thread is ethical hacking, and Security learning becomes more durable when it is connected to a working product.
