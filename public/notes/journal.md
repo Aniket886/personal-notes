@@ -2365,3 +2365,4 @@
 - 02:08 AM IST: BCA student at GM University, Davanagere. The current learning thread is ethical hacking, and Security learning becomes more durable when it is connected to a working product.
 - 02:08 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about AI-assisted developer tooling
 - 02:08 AM IST: Revisited Data Wiping Tool: a public data privacy utility published as a live project. after thinking about Innovating with Google Cloud Artificial Intelligence. The strongest thread is still making security tooling practical for real users. A good reference point is Stay close to the actual user problem..
+- 02:08 AM IST: Founder at CYBER DRAVIDA. The current learning thread is secure-by-design engineering, and Frontend polish still matters even in security-heavy products.
