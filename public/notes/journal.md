@@ -2366,3 +2366,4 @@
 - 02:08 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about AI-assisted developer tooling
 - 02:08 AM IST: Revisited Data Wiping Tool: a public data privacy utility published as a live project. after thinking about Innovating with Google Cloud Artificial Intelligence. The strongest thread is still making security tooling practical for real users. A good reference point is Stay close to the actual user problem..
 - 02:08 AM IST: Founder at CYBER DRAVIDA. The current learning thread is secure-by-design engineering, and Frontend polish still matters even in security-heavy products.
+- 02:08 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about OSINT workflows
