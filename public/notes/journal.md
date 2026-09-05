@@ -2368,3 +2368,4 @@
 - 02:08 AM IST: Founder at CYBER DRAVIDA. The current learning thread is secure-by-design engineering, and Frontend polish still matters even in security-heavy products.
 - 02:08 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about OSINT workflows
 - 02:08 AM IST: Revisited hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. after thinking about Innovating with Google Cloud Artificial Intelligence. The strongest thread is still making security tooling practical for real users. A good reference point is Turn the rough idea into something testable..
+- 02:08 AM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is OSINT workflows, and AI tooling is most useful when it reduces noise instead of adding it.
