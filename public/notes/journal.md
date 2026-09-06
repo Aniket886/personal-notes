@@ -2373,3 +2373,4 @@
 
 ## 2026-09-07
 - 02:12 AM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is secure-by-design engineering, and Security learning becomes more durable when it is connected to a working product.
+- 02:12 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. and the way I think about investigation workflow design
