@@ -989,3 +989,4 @@
 - 02:12 AM IST: The best workflow is the one I can explain clearly and repeat.
 - 02:12 AM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: OSINT workflows
 - 02:12 AM IST: Working line: Privacy features should feel normal, not optional. Project anchor: FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face.
+- 02:12 AM IST: Good investigation notes are part of the product.
