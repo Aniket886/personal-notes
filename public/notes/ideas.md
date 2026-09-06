@@ -987,3 +987,4 @@
 
 ## 2026-09-07
 - 02:12 AM IST: The best workflow is the one I can explain clearly and repeat.
+- 02:12 AM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: OSINT workflows
