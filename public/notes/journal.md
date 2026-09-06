@@ -2381,3 +2381,4 @@
 - 02:12 AM IST: Founder at CYBER DRAVIDA. The current learning thread is AI-assisted developer tooling, and AI tooling is most useful when it reduces noise instead of adding it.
 - 02:12 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about digital forensics
 - 02:12 AM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about Innovating with Google Cloud Artificial Intelligence. The strongest thread is still making security tooling practical for real users. A good reference point is Write the next small improvement before adding new surface area..
+- 02:12 AM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is secure-by-design engineering, and Frontend polish still matters even in security-heavy products.
