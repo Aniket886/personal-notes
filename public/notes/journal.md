@@ -2370,3 +2370,6 @@
 - 02:08 AM IST: Revisited hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. after thinking about Innovating with Google Cloud Artificial Intelligence. The strongest thread is still making security tooling practical for real users. A good reference point is Turn the rough idea into something testable..
 - 02:08 AM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is OSINT workflows, and AI tooling is most useful when it reduces noise instead of adding it.
 - 02:08 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. and the way I think about AI-assisted developer tooling
+
+## 2026-09-07
+- 02:12 AM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is secure-by-design engineering, and Security learning becomes more durable when it is connected to a working product.
