@@ -2389,3 +2389,4 @@
 
 ## 2026-09-08
 - 03:13 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is secure-by-design engineering, and AI tooling is most useful when it reduces noise instead of adding it.
+- 03:13 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. and the way I think about investigation workflow design
