@@ -2395,3 +2395,6 @@
 - 03:13 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about digital forensics
 - 03:13 AM IST: Revisited Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT. after thinking about MongoDB AI and Innovation. I keep coming back to simplicity, speed, and trust. A good reference point is Tighten the flow and keep the implementation honest..
 - 03:13 AM IST: BCA student at GM University, Davanagere. The current learning thread is AI-assisted developer tooling, and Security learning becomes more durable when it is connected to a working product.
+
+## 2026-09-09
+- 02:50 AM IST: BCA student at GM University, Davanagere. The current learning thread is OSINT workflows, and OSINT and forensics work get stronger when the workflow is repeatable.
