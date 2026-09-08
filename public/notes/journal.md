@@ -2398,3 +2398,4 @@
 
 ## 2026-09-09
 - 02:50 AM IST: BCA student at GM University, Davanagere. The current learning thread is OSINT workflows, and OSINT and forensics work get stronger when the workflow is repeatable.
+- 02:50 AM IST: TryHackMe Top 1% with a 500-day learning streak. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about AI-assisted developer tooling
