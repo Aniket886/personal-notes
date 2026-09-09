@@ -1003,3 +1003,4 @@
 
 ## 2026-09-10
 - 02:35 AM IST: The best workflow is the one I can explain clearly and repeat.
+- 02:35 AM IST: Idea to revisit: Capture the build logic before the implementation gets noisy. Related thread: investigation workflow design
