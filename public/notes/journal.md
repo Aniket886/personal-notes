@@ -2412,3 +2412,4 @@
 - 02:35 AM IST: Founder at CYBER DRAVIDA. The current learning thread is investigation workflow design, and Developer tools become credible when the defaults are safe.
 - 02:35 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about secure-by-design engineering
 - 02:35 AM IST: Revisited Data Wiping Tool: a public data privacy utility published as a live project. after thinking about Digital Forensics Essentials (DFE). Good product framing keeps security work from becoming noise. A good reference point is Document the thinking clearly enough that it can be reused..
+- 02:35 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is AI-assisted developer tooling, and Frontend polish still matters even in security-heavy products.
