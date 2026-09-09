@@ -1004,3 +1004,4 @@
 ## 2026-09-10
 - 02:35 AM IST: The best workflow is the one I can explain clearly and repeat.
 - 02:35 AM IST: Idea to revisit: Capture the build logic before the implementation gets noisy. Related thread: investigation workflow design
+- 02:35 AM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths.
