@@ -2409,3 +2409,4 @@
 
 ## 2026-09-10
 - 02:35 AM IST: Revisited GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. after thinking about Digital Forensics Essentials (DFE). The most useful tools are the ones people can adopt without friction. A good reference point is Turn the rough idea into something testable..
+- 02:35 AM IST: Founder at CYBER DRAVIDA. The current learning thread is investigation workflow design, and Developer tools become credible when the defaults are safe.
