@@ -2424,3 +2424,4 @@
 
 ## 2026-09-11
 - 02:36 AM IST: Revisited FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. after thinking about Innovating with Google Cloud Artificial Intelligence. I keep coming back to simplicity, speed, and trust. A good reference point is Turn the rough idea into something testable..
+- 02:36 AM IST: BCA student at GM University, Davanagere. The current learning thread is privacy-focused product design, and Security learning becomes more durable when it is connected to a working product.
