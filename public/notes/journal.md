@@ -2421,3 +2421,6 @@
 - 02:36 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is investigation workflow design, and Frontend polish still matters even in security-heavy products.
 - 02:36 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. and the way I think about ethical hacking
 - 02:36 AM IST: Revisited Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT. after thinking about Advent of Cyber. The work feels best when the technical detail supports a clear outcome. A good reference point is Tighten the flow and keep the implementation honest..
+
+## 2026-09-11
+- 02:36 AM IST: Revisited FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. after thinking about Innovating with Google Cloud Artificial Intelligence. I keep coming back to simplicity, speed, and trust. A good reference point is Turn the rough idea into something testable..
