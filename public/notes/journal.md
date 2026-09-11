@@ -2430,3 +2430,6 @@
 - 02:36 AM IST: BCA student at GM University, Davanagere. The current learning thread is AI-assisted developer tooling, and A clean notes habit makes project decisions easier to revisit.
 - 02:36 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about privacy-focused product design
 - 02:36 AM IST: Revisited FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. after thinking about MongoDB AI and Innovation. The most useful tools are the ones people can adopt without friction. A good reference point is Stay close to the actual user problem..
+
+## 2026-09-12
+- 02:40 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT. and the way I think about ethical hacking
