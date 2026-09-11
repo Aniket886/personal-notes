@@ -1014,3 +1014,4 @@
 
 ## 2026-09-12
 - 02:40 AM IST: Build practical tools that make the web harder to break.
+- 02:40 AM IST: Idea to revisit: Capture the build logic before the implementation gets noisy. Related thread: secure-by-design engineering
