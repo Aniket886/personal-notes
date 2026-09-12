@@ -1021,3 +1021,4 @@
 - 02:19 AM IST: Working line: Good investigation notes are part of the product. Project anchor: Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT.
 - 02:19 AM IST: Secure by design beats secure by patch.
 - 02:19 AM IST: Idea to revisit: Map one lesson from cybersecurity mentoring into a product UX decision. Related thread: investigation workflow design
+- 02:19 AM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face.
