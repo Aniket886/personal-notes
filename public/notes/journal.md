@@ -2449,3 +2449,4 @@
 - 02:19 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is investigation workflow design, and Developer tools become credible when the defaults are safe.
 - 02:19 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. and the way I think about web security fundamentals
 - 02:19 AM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about MongoDB AI and Innovation. The strongest thread is still making security tooling practical for real users. A good reference point is Tighten the flow and keep the implementation honest..
+- 02:19 AM IST: Founder at CYBER DRAVIDA. The current learning thread is secure-by-design engineering, and Developer tools become credible when the defaults are safe.
