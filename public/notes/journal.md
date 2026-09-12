@@ -2446,3 +2446,4 @@
 ## 2026-09-13
 - 02:19 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about AI-assisted developer tooling
 - 02:19 AM IST: Revisited GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. after thinking about OSINT Cyber Crime Investigation (CCI). I keep coming back to simplicity, speed, and trust. A good reference point is Turn the rough idea into something testable..
+- 02:19 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is investigation workflow design, and Developer tools become credible when the defaults are safe.
