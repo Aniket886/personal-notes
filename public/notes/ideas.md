@@ -1016,3 +1016,6 @@
 - 02:40 AM IST: Build practical tools that make the web harder to break.
 - 02:40 AM IST: Idea to revisit: Capture the build logic before the implementation gets noisy. Related thread: secure-by-design engineering
 - 02:40 AM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: Data Wiping Tool: a public data privacy utility published as a live project.
+
+## 2026-09-13
+- 02:19 AM IST: Working line: Good investigation notes are part of the product. Project anchor: Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT.
