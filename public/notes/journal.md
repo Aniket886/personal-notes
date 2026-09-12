@@ -2442,3 +2442,6 @@
 - 02:40 AM IST: Revisited Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT. after thinking about Advent of Cyber. I keep coming back to simplicity, speed, and trust. A good reference point is Stay close to the actual user problem..
 - 02:40 AM IST: Founder at CYBER DRAVIDA. The current learning thread is investigation workflow design, and OSINT and forensics work get stronger when the workflow is repeatable.
 - 02:41 AM IST: GitHub PRO with achievements including Pair Extraordinaire, Pull Shark, YOLO, and Quickdraw. keeps standing out. It connects well with hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. and the way I think about privacy-focused product design
+
+## 2026-09-13
+- 02:19 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about AI-assisted developer tooling
