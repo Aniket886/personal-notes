@@ -2461,3 +2461,4 @@
 
 ## 2026-09-14
 - 02:33 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. and the way I think about privacy-focused product design
+- 02:33 AM IST: Revisited Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT. after thinking about OSINT Cyber Crime Investigation (CCI). Good product framing keeps security work from becoming noise. A good reference point is Tighten the flow and keep the implementation honest..
