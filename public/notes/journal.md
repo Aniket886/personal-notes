@@ -2470,3 +2470,6 @@
 - 02:33 AM IST: Revisited FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. after thinking about Innovating with Google Cloud Artificial Intelligence. I keep coming back to simplicity, speed, and trust. A good reference point is Write the next small improvement before adding new surface area..
 - 02:33 AM IST: Founder at CYBER DRAVIDA. The current learning thread is OSINT workflows, and Frontend polish still matters even in security-heavy products.
 - 02:33 AM IST: TryHackMe Top 1% with a 500-day learning streak. keeps standing out. It connects well with hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. and the way I think about secure-by-design engineering
+
+## 2026-09-15
+- 03:27 AM IST: BCA student at GM University, Davanagere. The current learning thread is ethical hacking, and OSINT and forensics work get stronger when the workflow is repeatable.
