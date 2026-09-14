@@ -1027,3 +1027,6 @@
 - 02:33 AM IST: Idea to revisit: Map one lesson from cybersecurity mentoring into a product UX decision. Related thread: investigation workflow design
 - 02:33 AM IST: Working line: Build practical tools that make the web harder to break. Project anchor: india-cyber-guard: an active TypeScript security-oriented repository.
 - 02:33 AM IST: The best workflow is the one I can explain clearly and repeat.
+
+## 2026-09-15
+- 03:27 AM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: web security fundamentals
