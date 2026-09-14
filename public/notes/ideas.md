@@ -1030,3 +1030,4 @@
 
 ## 2026-09-15
 - 03:27 AM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: web security fundamentals
+- 03:28 AM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT.
