@@ -2488,3 +2488,4 @@
 ## 2026-09-16
 - 03:10 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is web security fundamentals, and Security learning becomes more durable when it is connected to a working product.
 - 03:10 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. and the way I think about OSINT workflows
+- 03:10 AM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about Advent of Cyber. The build side matters as much as the investigation side. A good reference point is Tighten the flow and keep the implementation honest..
