@@ -1040,3 +1040,6 @@
 - 03:10 AM IST: Working line: Build practical tools that make the web harder to break. Project anchor: india-cyber-guard: an active TypeScript security-oriented repository.
 - 03:10 AM IST: Privacy features should feel normal, not optional.
 - 03:10 AM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: OSINT workflows
+
+## 2026-09-17
+- 03:05 AM IST: The best workflow is the one I can explain clearly and repeat.
