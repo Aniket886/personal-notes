@@ -1043,3 +1043,4 @@
 
 ## 2026-09-17
 - 03:05 AM IST: The best workflow is the one I can explain clearly and repeat.
+- 03:05 AM IST: Idea to revisit: Keep translating security knowledge into tools that are easier to use. Related thread: AI-assisted developer tooling
