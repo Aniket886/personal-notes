@@ -2498,3 +2498,6 @@
 - 03:10 AM IST: Founder at CYBER DRAVIDA. The current learning thread is AI-assisted developer tooling, and A clean notes habit makes project decisions easier to revisit.
 - 03:10 AM IST: GitHub PRO with achievements including Pair Extraordinaire, Pull Shark, YOLO, and Quickdraw. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about investigation workflow design
 - 03:10 AM IST: Revisited hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. after thinking about Innovating with Google Cloud Artificial Intelligence. The most useful tools are the ones people can adopt without friction. A good reference point is Write the next small improvement before adding new surface area..
+
+## 2026-09-17
+- 03:05 AM IST: BCA student at GM University, Davanagere. The current learning thread is secure-by-design engineering, and Security learning becomes more durable when it is connected to a working product.
