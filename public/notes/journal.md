@@ -2502,3 +2502,4 @@
 ## 2026-09-17
 - 03:05 AM IST: BCA student at GM University, Davanagere. The current learning thread is secure-by-design engineering, and Security learning becomes more durable when it is connected to a working product.
 - 03:05 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. and the way I think about digital forensics
+- 03:05 AM IST: Revisited GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. after thinking about OSINT Cyber Crime Investigation (CCI). The build side matters as much as the investigation side. A good reference point is Tighten the flow and keep the implementation honest..
