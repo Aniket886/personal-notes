@@ -2510,3 +2510,6 @@
 - 03:05 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about investigation workflow design
 - 03:05 AM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about OSINT Cyber Crime Investigation (CCI). Good product framing keeps security work from becoming noise. A good reference point is Document the thinking clearly enough that it can be reused..
 - 03:05 AM IST: BCA student at GM University, Davanagere. The current learning thread is web security fundamentals, and A clean notes habit makes project decisions easier to revisit.
+
+## 2026-09-18
+- 03:08 AM IST: Revisited GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. after thinking about Digital Forensics Essentials (DFE). The work feels best when the technical detail supports a clear outcome. A good reference point is Write the next small improvement before adding new surface area..
