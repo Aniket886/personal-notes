@@ -2514,3 +2514,4 @@
 ## 2026-09-18
 - 03:08 AM IST: Revisited GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. after thinking about Digital Forensics Essentials (DFE). The work feels best when the technical detail supports a clear outcome. A good reference point is Write the next small improvement before adding new surface area..
 - 03:08 AM IST: Founder at CYBER DRAVIDA. The current learning thread is secure-by-design engineering, and Frontend polish still matters even in security-heavy products.
+- 03:08 AM IST: GitHub PRO with achievements including Pair Extraordinaire, Pull Shark, YOLO, and Quickdraw. keeps standing out. It connects well with FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. and the way I think about web security fundamentals
