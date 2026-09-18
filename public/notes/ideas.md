@@ -1055,3 +1055,4 @@
 
 ## 2026-09-19
 - 02:39 AM IST: Build practical tools that make the web harder to break.
+- 02:39 AM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: AI-assisted developer tooling
