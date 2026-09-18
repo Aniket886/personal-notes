@@ -2522,3 +2522,6 @@
 - 03:08 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is OSINT workflows, and Frontend polish still matters even in security-heavy products.
 - 03:08 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about AI-assisted developer tooling
 - 03:08 AM IST: Revisited FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. after thinking about Digital Forensics Essentials (DFE). Good product framing keeps security work from becoming noise. A good reference point is Tighten the flow and keep the implementation honest..
+
+## 2026-09-19
+- 02:39 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is secure-by-design engineering, and AI tooling is most useful when it reduces noise instead of adding it.
