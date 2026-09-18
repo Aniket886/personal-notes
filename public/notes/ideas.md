@@ -1052,3 +1052,6 @@
 - 03:08 AM IST: Secure by design beats secure by patch.
 - 03:08 AM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: privacy-focused product design
 - 03:08 AM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: Data Wiping Tool: a public data privacy utility published as a live project.
+
+## 2026-09-19
+- 02:39 AM IST: Build practical tools that make the web harder to break.
