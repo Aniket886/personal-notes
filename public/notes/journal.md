@@ -2526,3 +2526,4 @@
 ## 2026-09-19
 - 02:39 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is secure-by-design engineering, and AI tooling is most useful when it reduces noise instead of adding it.
 - 02:39 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. and the way I think about web security fundamentals
+- 02:39 AM IST: Revisited FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. after thinking about Digital Forensics Essentials (DFE). Good product framing keeps security work from becoming noise. A good reference point is Document the thinking clearly enough that it can be reused..
