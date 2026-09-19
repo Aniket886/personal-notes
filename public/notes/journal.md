@@ -2536,3 +2536,4 @@
 
 ## 2026-09-20
 - 02:25 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT. and the way I think about OSINT workflows
+- 02:25 AM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about Google AI Essentials. The strongest thread is still making security tooling practical for real users. A good reference point is Document the thinking clearly enough that it can be reused..
