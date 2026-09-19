@@ -1060,3 +1060,4 @@
 
 ## 2026-09-20
 - 02:25 AM IST: Idea to revisit: Capture the build logic before the implementation gets noisy. Related thread: investigation workflow design
+- 02:25 AM IST: Working line: Secure by design beats secure by patch. Project anchor: hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls.
