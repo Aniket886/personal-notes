@@ -2533,3 +2533,6 @@
 - 02:39 AM IST: BCA student at GM University, Davanagere. The current learning thread is AI-assisted developer tooling, and Security learning becomes more durable when it is connected to a working product.
 - 02:39 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with terralens: an active TypeScript product iteration from April 2026. and the way I think about secure-by-design engineering
 - 02:39 AM IST: Revisited Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT. after thinking about Innovating with Google Cloud Artificial Intelligence. The work feels best when the technical detail supports a clear outcome. A good reference point is Document the thinking clearly enough that it can be reused..
+
+## 2026-09-20
+- 02:25 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT. and the way I think about OSINT workflows
