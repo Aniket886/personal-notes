@@ -2544,3 +2544,6 @@
 - 02:25 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with terralens: an active TypeScript product iteration from April 2026. and the way I think about investigation workflow design
 - 02:25 AM IST: Revisited MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. after thinking about Google AI Essentials. The build side matters as much as the investigation side. A good reference point is Keep the scope practical and focus on real-world use..
 - 02:25 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is digital forensics, and Developer tools become credible when the defaults are safe.
+
+## 2026-09-21
+- 02:30 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. and the way I think about web security fundamentals
