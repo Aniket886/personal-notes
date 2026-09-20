@@ -1062,3 +1062,6 @@
 - 02:25 AM IST: Idea to revisit: Capture the build logic before the implementation gets noisy. Related thread: investigation workflow design
 - 02:25 AM IST: Working line: Secure by design beats secure by patch. Project anchor: hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls.
 - 02:25 AM IST: Build practical tools that make the web harder to break.
+
+## 2026-09-21
+- 02:30 AM IST: Idea to revisit: Map one lesson from cybersecurity mentoring into a product UX decision. Related thread: digital forensics
