@@ -2548,3 +2548,4 @@
 ## 2026-09-21
 - 02:30 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. and the way I think about web security fundamentals
 - 02:30 AM IST: Revisited Data Wiping Tool: a public data privacy utility published as a live project. after thinking about Innovating with Google Cloud Artificial Intelligence. Good product framing keeps security work from becoming noise. A good reference point is Keep the scope practical and focus on real-world use..
+- 02:30 AM IST: BCA student at GM University, Davanagere. The current learning thread is web security fundamentals, and Frontend polish still matters even in security-heavy products.
