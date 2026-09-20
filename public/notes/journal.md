@@ -2551,3 +2551,4 @@
 - 02:30 AM IST: BCA student at GM University, Davanagere. The current learning thread is web security fundamentals, and Frontend polish still matters even in security-heavy products.
 - 02:30 AM IST: TryHackMe Top 1% with a 500-day learning streak. keeps standing out. It connects well with MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. and the way I think about OSINT workflows
 - 02:30 AM IST: Revisited hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. after thinking about Advent of Cyber. I keep coming back to simplicity, speed, and trust. A good reference point is Turn the rough idea into something testable..
+- 02:30 AM IST: Founder at CYBER DRAVIDA. The current learning thread is ethical hacking, and A clean notes habit makes project decisions easier to revisit.
