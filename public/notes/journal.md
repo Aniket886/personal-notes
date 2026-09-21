@@ -2558,3 +2558,4 @@
 
 ## 2026-09-22
 - 03:38 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is secure-by-design engineering, and Security learning becomes more durable when it is connected to a working product.
+- 03:38 AM IST: TryHackMe Top 1% with a 500-day learning streak. keeps standing out. It connects well with Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT. and the way I think about digital forensics
