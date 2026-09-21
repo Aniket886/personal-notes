@@ -1067,3 +1067,6 @@
 - 02:30 AM IST: Idea to revisit: Map one lesson from cybersecurity mentoring into a product UX decision. Related thread: digital forensics
 - 02:30 AM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: india-cyber-guard: an active TypeScript security-oriented repository.
 - 02:30 AM IST: Good investigation notes are part of the product.
+
+## 2026-09-22
+- 03:38 AM IST: Build practical tools that make the web harder to break.
