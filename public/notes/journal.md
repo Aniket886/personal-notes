@@ -2555,3 +2555,6 @@
 - 02:30 AM IST: GitHub PRO with achievements including Pair Extraordinaire, Pull Shark, YOLO, and Quickdraw. keeps standing out. It connects well with Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT. and the way I think about digital forensics
 - 02:30 AM IST: Revisited Data Wiping Tool: a public data privacy utility published as a live project. after thinking about Google AI Essentials. The build side matters as much as the investigation side. A good reference point is Write the next small improvement before adding new surface area..
 - 02:30 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is digital forensics, and OSINT and forensics work get stronger when the workflow is repeatable.
+
+## 2026-09-22
+- 03:38 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is secure-by-design engineering, and Security learning becomes more durable when it is connected to a working product.
