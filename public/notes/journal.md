@@ -2566,3 +2566,4 @@
 
 ## 2026-09-23
 - 03:05 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with terralens: an active TypeScript product iteration from April 2026. and the way I think about ethical hacking
+- 03:05 AM IST: Revisited MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. after thinking about MongoDB AI and Innovation. Good product framing keeps security work from becoming noise. A good reference point is Write the next small improvement before adding new surface area..
