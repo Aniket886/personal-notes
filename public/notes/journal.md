@@ -2573,3 +2573,4 @@
 - 03:05 AM IST: Founder at CYBER DRAVIDA. The current learning thread is digital forensics, and Security learning becomes more durable when it is connected to a working product.
 - 03:05 AM IST: GitHub PRO with achievements including Pair Extraordinaire, Pull Shark, YOLO, and Quickdraw. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about investigation workflow design
 - 03:05 AM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about Advent of Cyber. The work feels best when the technical detail supports a clear outcome. A good reference point is Stay close to the actual user problem..
+- 03:05 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is investigation workflow design, and Developer tools become credible when the defaults are safe.
