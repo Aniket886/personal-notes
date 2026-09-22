@@ -2570,3 +2570,4 @@
 - 03:05 AM IST: BCA student at GM University, Davanagere. The current learning thread is digital forensics, and Developer tools become credible when the defaults are safe.
 - 03:05 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about web security fundamentals
 - 03:05 AM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about Digital Forensics Essentials (DFE). The work feels best when the technical detail supports a clear outcome. A good reference point is Keep the scope practical and focus on real-world use..
+- 03:05 AM IST: Founder at CYBER DRAVIDA. The current learning thread is digital forensics, and Security learning becomes more durable when it is connected to a working product.
