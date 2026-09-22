@@ -1076,3 +1076,4 @@
 - 03:05 AM IST: Working line: Secure by design beats secure by patch. Project anchor: terralens: an active TypeScript product iteration from April 2026.
 - 03:05 AM IST: Secure by design beats secure by patch.
 - 03:05 AM IST: Idea to revisit: Keep translating security knowledge into tools that are easier to use. Related thread: web security fundamentals
+- 03:05 AM IST: Working line: Good investigation notes are part of the product. Project anchor: terralens: an active TypeScript product iteration from April 2026.
