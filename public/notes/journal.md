@@ -2563,3 +2563,6 @@
 - 03:38 AM IST: BCA student at GM University, Davanagere. The current learning thread is ethical hacking, and Security learning becomes more durable when it is connected to a working product.
 - 03:38 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. and the way I think about AI-assisted developer tooling
 - 03:38 AM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about Advent of Cyber. I keep coming back to simplicity, speed, and trust. A good reference point is Keep the scope practical and focus on real-world use..
+
+## 2026-09-23
+- 03:05 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with terralens: an active TypeScript product iteration from April 2026. and the way I think about ethical hacking
