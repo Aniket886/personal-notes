@@ -2578,3 +2578,6 @@
 - 03:05 AM IST: Revisited Data Wiping Tool: a public data privacy utility published as a live project. after thinking about OSINT Cyber Crime Investigation (CCI). The most useful tools are the ones people can adopt without friction. A good reference point is Document the thinking clearly enough that it can be reused..
 - 03:05 AM IST: Founder at CYBER DRAVIDA. The current learning thread is ethical hacking, and Security learning becomes more durable when it is connected to a working product.
 - 03:05 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. and the way I think about OSINT workflows
+
+## 2026-09-24
+- 03:11 AM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is privacy-focused product design, and Frontend polish still matters even in security-heavy products.
