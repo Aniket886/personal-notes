@@ -2581,3 +2581,4 @@
 
 ## 2026-09-24
 - 03:11 AM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is privacy-focused product design, and Frontend polish still matters even in security-heavy products.
+- 03:11 AM IST: GitHub PRO with achievements including Pair Extraordinaire, Pull Shark, YOLO, and Quickdraw. keeps standing out. It connects well with Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT. and the way I think about digital forensics
