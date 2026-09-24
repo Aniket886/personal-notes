@@ -2586,3 +2586,4 @@
 
 ## 2026-09-25
 - 03:13 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is web security fundamentals, and Developer tools become credible when the defaults are safe.
+- 03:13 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about secure-by-design engineering
