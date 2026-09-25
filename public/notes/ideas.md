@@ -1086,3 +1086,4 @@
 - 03:15 AM IST: Working line: Good investigation notes are part of the product. Project anchor: hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls.
 - 03:15 AM IST: Privacy features should feel normal, not optional.
 - 03:15 AM IST: Idea to revisit: Map one lesson from cybersecurity mentoring into a product UX decision. Related thread: web security fundamentals
+- 03:15 AM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face.
