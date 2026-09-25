@@ -2591,3 +2591,4 @@
 
 ## 2026-09-26
 - 03:15 AM IST: BCA student at GM University, Davanagere. The current learning thread is digital forensics, and Frontend polish still matters even in security-heavy products.
+- 03:15 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with terralens: an active TypeScript product iteration from April 2026. and the way I think about OSINT workflows
