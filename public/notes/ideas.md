@@ -1085,3 +1085,4 @@
 - 03:15 AM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: investigation workflow design
 - 03:15 AM IST: Working line: Good investigation notes are part of the product. Project anchor: hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls.
 - 03:15 AM IST: Privacy features should feel normal, not optional.
+- 03:15 AM IST: Idea to revisit: Map one lesson from cybersecurity mentoring into a product UX decision. Related thread: web security fundamentals
