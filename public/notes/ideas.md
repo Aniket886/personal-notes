@@ -1080,3 +1080,6 @@
 
 ## 2026-09-24
 - 03:11 AM IST: Security tooling should reduce confusion, not create more of it.
+
+## 2026-09-26
+- 03:15 AM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: investigation workflow design
