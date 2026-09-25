@@ -2592,3 +2592,4 @@
 ## 2026-09-26
 - 03:15 AM IST: BCA student at GM University, Davanagere. The current learning thread is digital forensics, and Frontend polish still matters even in security-heavy products.
 - 03:15 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with terralens: an active TypeScript product iteration from April 2026. and the way I think about OSINT workflows
+- 03:15 AM IST: Revisited GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. after thinking about Advent of Cyber. Good product framing keeps security work from becoming noise. A good reference point is Keep the scope practical and focus on real-world use..
