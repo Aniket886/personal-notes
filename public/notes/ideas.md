@@ -1083,3 +1083,4 @@
 
 ## 2026-09-26
 - 03:15 AM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: investigation workflow design
+- 03:15 AM IST: Working line: Good investigation notes are part of the product. Project anchor: hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls.
