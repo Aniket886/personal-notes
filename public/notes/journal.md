@@ -2608,3 +2608,4 @@
 
 ## 2026-09-27
 - 02:54 AM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is privacy-focused product design, and Security learning becomes more durable when it is connected to a working product.
+- 02:54 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. and the way I think about ethical hacking
