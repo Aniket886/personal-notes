@@ -2605,3 +2605,6 @@
 - 03:15 AM IST: BCA student at GM University, Davanagere. The current learning thread is digital forensics, and Developer tools become credible when the defaults are safe.
 - 03:15 AM IST: GitHub PRO with achievements including Pair Extraordinaire, Pull Shark, YOLO, and Quickdraw. keeps standing out. It connects well with hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. and the way I think about privacy-focused product design
 - 03:15 AM IST: Revisited FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. after thinking about OSINT Cyber Crime Investigation (CCI). The work feels best when the technical detail supports a clear outcome. A good reference point is Turn the rough idea into something testable..
+
+## 2026-09-27
+- 02:54 AM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is privacy-focused product design, and Security learning becomes more durable when it is connected to a working product.
