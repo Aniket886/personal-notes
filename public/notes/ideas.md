@@ -1087,3 +1087,6 @@
 - 03:15 AM IST: Privacy features should feel normal, not optional.
 - 03:15 AM IST: Idea to revisit: Map one lesson from cybersecurity mentoring into a product UX decision. Related thread: web security fundamentals
 - 03:15 AM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face.
+
+## 2026-09-27
+- 02:54 AM IST: Working line: Privacy features should feel normal, not optional. Project anchor: MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack.
