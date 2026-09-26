@@ -2616,3 +2616,4 @@
 - 02:54 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is ethical hacking, and Developer tools become credible when the defaults are safe.
 - 02:54 AM IST: TryHackMe Top 1% with a 500-day learning streak. keeps standing out. It connects well with hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. and the way I think about ethical hacking
 - 02:54 AM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about Google AI Essentials. The build side matters as much as the investigation side. A good reference point is Stay close to the actual user problem..
+- 02:54 AM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is secure-by-design engineering, and AI tooling is most useful when it reduces noise instead of adding it.
