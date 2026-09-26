@@ -1090,3 +1090,4 @@
 
 ## 2026-09-27
 - 02:54 AM IST: Working line: Privacy features should feel normal, not optional. Project anchor: MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack.
+- 02:54 AM IST: The best workflow is the one I can explain clearly and repeat.
