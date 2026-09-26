@@ -2613,3 +2613,4 @@
 - 02:54 AM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is OSINT workflows, and Frontend polish still matters even in security-heavy products.
 - 02:54 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. and the way I think about investigation workflow design
 - 02:54 AM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about Advent of Cyber. Good product framing keeps security work from becoming noise. A good reference point is Turn the rough idea into something testable..
+- 02:54 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is ethical hacking, and Developer tools become credible when the defaults are safe.
