@@ -1097,3 +1097,4 @@
 ## 2026-09-28
 - 03:01 AM IST: Working line: Secure by design beats secure by patch. Project anchor: Data Wiping Tool: a public data privacy utility published as a live project.
 - 03:01 AM IST: Build practical tools that make the web harder to break.
+- 03:01 AM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: digital forensics
