@@ -2627,3 +2627,4 @@
 - 03:01 AM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is ethical hacking, and Developer tools become credible when the defaults are safe.
 - 03:01 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. and the way I think about OSINT workflows
 - 03:01 AM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about Innovating with Google Cloud Artificial Intelligence. The work feels best when the technical detail supports a clear outcome. A good reference point is Stay close to the actual user problem..
+- 03:01 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is OSINT workflows, and AI tooling is most useful when it reduces noise instead of adding it.
