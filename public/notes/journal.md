@@ -2620,3 +2620,4 @@
 
 ## 2026-09-28
 - 03:01 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. and the way I think about investigation workflow design
+- 03:01 AM IST: Revisited Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT. after thinking about Innovating with Google Cloud Artificial Intelligence. The strongest thread is still making security tooling practical for real users. A good reference point is Turn the rough idea into something testable..
