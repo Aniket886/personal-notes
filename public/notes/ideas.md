@@ -1093,3 +1093,6 @@
 - 02:54 AM IST: The best workflow is the one I can explain clearly and repeat.
 - 02:54 AM IST: Idea to revisit: Capture the build logic before the implementation gets noisy. Related thread: investigation workflow design
 - 02:54 AM IST: Working line: Secure by design beats secure by patch. Project anchor: FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face.
+
+## 2026-09-28
+- 03:01 AM IST: Working line: Secure by design beats secure by patch. Project anchor: Data Wiping Tool: a public data privacy utility published as a live project.
