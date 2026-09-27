@@ -1098,3 +1098,4 @@
 - 03:01 AM IST: Working line: Secure by design beats secure by patch. Project anchor: Data Wiping Tool: a public data privacy utility published as a live project.
 - 03:01 AM IST: Build practical tools that make the web harder to break.
 - 03:01 AM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: digital forensics
+- 03:01 AM IST: Working line: Privacy features should feel normal, not optional. Project anchor: FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face.
