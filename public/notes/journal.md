@@ -2633,3 +2633,4 @@
 
 ## 2026-09-29
 - 04:56 AM IST: Revisited MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. after thinking about Google AI Essentials. The strongest thread is still making security tooling practical for real users. A good reference point is Keep the scope practical and focus on real-world use..
+- 04:56 AM IST: Founder at CYBER DRAVIDA. The current learning thread is investigation workflow design, and Security learning becomes more durable when it is connected to a working product.
