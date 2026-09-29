@@ -2640,3 +2640,6 @@
 - 04:56 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. and the way I think about web security fundamentals
 - 04:56 AM IST: Revisited hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. after thinking about Digital Forensics Essentials (DFE). The most useful tools are the ones people can adopt without friction. A good reference point is Turn the rough idea into something testable..
 - 04:56 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is web security fundamentals, and Frontend polish still matters even in security-heavy products.
+
+## 2026-09-30
+- 04:01 AM IST: Founder at CYBER DRAVIDA. The current learning thread is web security fundamentals, and A clean notes habit makes project decisions easier to revisit.
