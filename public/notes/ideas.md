@@ -1107,3 +1107,4 @@
 
 ## 2026-09-30
 - 04:01 AM IST: Idea to revisit: Keep translating security knowledge into tools that are easier to use. Related thread: privacy-focused product design
+- 04:01 AM IST: Working line: Secure by design beats secure by patch. Project anchor: FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face.
