@@ -2645,3 +2645,6 @@
 - 04:01 AM IST: Founder at CYBER DRAVIDA. The current learning thread is web security fundamentals, and A clean notes habit makes project decisions easier to revisit.
 - 04:01 AM IST: GitHub PRO with achievements including Pair Extraordinaire, Pull Shark, YOLO, and Quickdraw. keeps standing out. It connects well with MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. and the way I think about AI-assisted developer tooling
 - 04:01 AM IST: Revisited Data Wiping Tool: a public data privacy utility published as a live project. after thinking about OSINT Cyber Crime Investigation (CCI). The most useful tools are the ones people can adopt without friction. A good reference point is Write the next small improvement before adding new surface area..
+
+## 2026-10-01
+- 04:00 AM IST: Founder at CYBER DRAVIDA. The current learning thread is privacy-focused product design, and AI tooling is most useful when it reduces noise instead of adding it.
