@@ -2650,3 +2650,4 @@
 - 04:00 AM IST: Founder at CYBER DRAVIDA. The current learning thread is privacy-focused product design, and AI tooling is most useful when it reduces noise instead of adding it.
 - 04:00 AM IST: TryHackMe Top 1% with a 500-day learning streak. keeps standing out. It connects well with hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. and the way I think about ethical hacking
 - 04:00 AM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about OSINT Cyber Crime Investigation (CCI). The most useful tools are the ones people can adopt without friction. A good reference point is Stay close to the actual user problem..
+- 04:00 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is secure-by-design engineering, and Security learning becomes more durable when it is connected to a working product.
