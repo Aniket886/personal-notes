@@ -2648,3 +2648,4 @@
 
 ## 2026-10-01
 - 04:00 AM IST: Founder at CYBER DRAVIDA. The current learning thread is privacy-focused product design, and AI tooling is most useful when it reduces noise instead of adding it.
+- 04:00 AM IST: TryHackMe Top 1% with a 500-day learning streak. keeps standing out. It connects well with hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. and the way I think about ethical hacking
