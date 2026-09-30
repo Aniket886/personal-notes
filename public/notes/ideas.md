@@ -1111,3 +1111,4 @@
 
 ## 2026-10-01
 - 04:00 AM IST: Working line: Good investigation notes are part of the product. Project anchor: MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack.
+- 04:00 AM IST: Secure by design beats secure by patch.
