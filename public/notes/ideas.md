@@ -1114,3 +1114,4 @@
 - 04:00 AM IST: Secure by design beats secure by patch.
 - 04:00 AM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: web security fundamentals
 - 04:00 AM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: india-cyber-guard: an active TypeScript security-oriented repository.
+- 04:00 AM IST: Build practical tools that make the web harder to break.
