@@ -1113,3 +1113,4 @@
 - 04:00 AM IST: Working line: Good investigation notes are part of the product. Project anchor: MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack.
 - 04:00 AM IST: Secure by design beats secure by patch.
 - 04:00 AM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: web security fundamentals
+- 04:00 AM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: india-cyber-guard: an active TypeScript security-oriented repository.
