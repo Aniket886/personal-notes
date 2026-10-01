@@ -2666,3 +2666,4 @@
 ## 2026-10-02
 - 04:20 AM IST: BCA student at GM University, Davanagere. The current learning thread is privacy-focused product design, and OSINT and forensics work get stronger when the workflow is repeatable.
 - 04:20 AM IST: TryHackMe Top 1% with a 500-day learning streak. keeps standing out. It connects well with terralens: an active TypeScript product iteration from April 2026. and the way I think about investigation workflow design
+- 04:20 AM IST: Revisited Data Wiping Tool: a public data privacy utility published as a live project. after thinking about Digital Forensics Essentials (DFE). The work feels best when the technical detail supports a clear outcome. A good reference point is Keep the scope practical and focus on real-world use..
