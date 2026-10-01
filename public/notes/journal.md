@@ -2665,3 +2665,4 @@
 
 ## 2026-10-02
 - 04:20 AM IST: BCA student at GM University, Davanagere. The current learning thread is privacy-focused product design, and OSINT and forensics work get stronger when the workflow is repeatable.
+- 04:20 AM IST: TryHackMe Top 1% with a 500-day learning streak. keeps standing out. It connects well with terralens: an active TypeScript product iteration from April 2026. and the way I think about investigation workflow design
