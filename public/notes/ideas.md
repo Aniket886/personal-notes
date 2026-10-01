@@ -1118,3 +1118,4 @@
 
 ## 2026-10-02
 - 04:20 AM IST: Idea to revisit: Keep translating security knowledge into tools that are easier to use. Related thread: web security fundamentals
+- 04:20 AM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: india-cyber-guard: an active TypeScript security-oriented repository.
