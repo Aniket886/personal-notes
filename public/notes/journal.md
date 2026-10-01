@@ -2662,3 +2662,6 @@
 - 04:00 AM IST: BCA student at GM University, Davanagere. The current learning thread is investigation workflow design, and Frontend polish still matters even in security-heavy products.
 - 04:00 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. and the way I think about investigation workflow design
 - 04:01 AM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about Digital Forensics Essentials (DFE). The work feels best when the technical detail supports a clear outcome. A good reference point is Keep the scope practical and focus on real-world use..
+
+## 2026-10-02
+- 04:20 AM IST: BCA student at GM University, Davanagere. The current learning thread is privacy-focused product design, and OSINT and forensics work get stronger when the workflow is repeatable.
