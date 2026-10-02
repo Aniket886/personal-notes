@@ -2673,3 +2673,4 @@
 
 ## 2026-10-03
 - 03:58 AM IST: Founder at CYBER DRAVIDA. The current learning thread is ethical hacking, and AI tooling is most useful when it reduces noise instead of adding it.
+- 03:58 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. and the way I think about ethical hacking
