@@ -1123,3 +1123,4 @@
 ## 2026-10-03
 - 03:57 AM IST: Secure by design beats secure by patch.
 - 03:58 AM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: web security fundamentals
+- 03:58 AM IST: Working line: Good investigation notes are part of the product. Project anchor: Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT.
