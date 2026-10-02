@@ -1122,3 +1122,4 @@
 
 ## 2026-10-03
 - 03:57 AM IST: Secure by design beats secure by patch.
+- 03:58 AM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: web security fundamentals
