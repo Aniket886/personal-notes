@@ -2674,3 +2674,4 @@
 ## 2026-10-03
 - 03:58 AM IST: Founder at CYBER DRAVIDA. The current learning thread is ethical hacking, and AI tooling is most useful when it reduces noise instead of adding it.
 - 03:58 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. and the way I think about ethical hacking
+- 03:58 AM IST: Revisited Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT. after thinking about Innovating with Google Cloud Artificial Intelligence. Good product framing keeps security work from becoming noise. A good reference point is Tighten the flow and keep the implementation honest..
