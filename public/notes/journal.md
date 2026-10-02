@@ -2670,3 +2670,6 @@
 - 04:20 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is secure-by-design engineering, and OSINT and forensics work get stronger when the workflow is repeatable.
 - 04:20 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. and the way I think about investigation workflow design
 - 04:20 AM IST: Revisited hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. after thinking about OSINT Cyber Crime Investigation (CCI). The most useful tools are the ones people can adopt without friction. A good reference point is Tighten the flow and keep the implementation honest..
+
+## 2026-10-03
+- 03:58 AM IST: Founder at CYBER DRAVIDA. The current learning thread is ethical hacking, and AI tooling is most useful when it reduces noise instead of adding it.
