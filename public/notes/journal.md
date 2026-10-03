@@ -2685,3 +2685,4 @@
 - 03:10 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about secure-by-design engineering
 - 03:10 AM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about Google AI Essentials. The strongest thread is still making security tooling practical for real users. A good reference point is Write the next small improvement before adding new surface area..
 - 03:10 AM IST: Founder at CYBER DRAVIDA. The current learning thread is digital forensics, and Frontend polish still matters even in security-heavy products.
+- 03:10 AM IST: TryHackMe Top 1% with a 500-day learning streak. keeps standing out. It connects well with hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. and the way I think about secure-by-design engineering
