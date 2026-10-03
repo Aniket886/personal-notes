@@ -2683,3 +2683,4 @@
 ## 2026-10-04
 - 03:10 AM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is privacy-focused product design, and A clean notes habit makes project decisions easier to revisit.
 - 03:10 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about secure-by-design engineering
+- 03:10 AM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about Google AI Essentials. The strongest thread is still making security tooling practical for real users. A good reference point is Write the next small improvement before adding new surface area..
