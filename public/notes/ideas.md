@@ -1129,3 +1129,4 @@
 - 03:10 AM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: privacy-focused product design
 - 03:10 AM IST: Working line: Build practical tools that make the web harder to break. Project anchor: hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls.
 - 03:10 AM IST: Security tooling should reduce confusion, not create more of it.
+- 03:11 AM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: AI-assisted developer tooling
