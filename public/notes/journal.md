@@ -2695,3 +2695,6 @@
 - 03:11 AM IST: Revisited Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT. after thinking about Innovating with Google Cloud Artificial Intelligence. The work feels best when the technical detail supports a clear outcome. A good reference point is Tighten the flow and keep the implementation honest..
 - 03:11 AM IST: Founder at CYBER DRAVIDA. The current learning thread is secure-by-design engineering, and OSINT and forensics work get stronger when the workflow is repeatable.
 - 03:11 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT. and the way I think about OSINT workflows
+
+## 2026-10-05
+- 03:19 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. and the way I think about web security fundamentals
