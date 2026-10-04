@@ -2699,3 +2699,4 @@
 ## 2026-10-05
 - 03:19 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. and the way I think about web security fundamentals
 - 03:19 AM IST: Revisited MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. after thinking about Digital Forensics Essentials (DFE). I keep coming back to simplicity, speed, and trust. A good reference point is Turn the rough idea into something testable..
+- 03:19 AM IST: Founder at CYBER DRAVIDA. The current learning thread is digital forensics, and Frontend polish still matters even in security-heavy products.
