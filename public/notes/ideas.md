@@ -1141,3 +1141,6 @@
 - 05:45 AM IST: Working line: Secure by design beats secure by patch. Project anchor: FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face.
 - 05:45 AM IST: Security tooling should reduce confusion, not create more of it.
 - 05:45 AM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: AI-assisted developer tooling
+
+## 2026-10-07
+- 04:14 AM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT.
