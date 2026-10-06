@@ -2711,3 +2711,4 @@
 ## 2026-10-06
 - 05:45 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. and the way I think about ethical hacking
 - 05:45 AM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about OSINT Cyber Crime Investigation (CCI). I keep coming back to simplicity, speed, and trust. A good reference point is Document the thinking clearly enough that it can be reused..
+- 05:45 AM IST: BCA student at GM University, Davanagere. The current learning thread is OSINT workflows, and OSINT and forensics work get stronger when the workflow is repeatable.
