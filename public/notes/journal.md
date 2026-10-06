@@ -2707,3 +2707,6 @@
 - 03:20 AM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about Advent of Cyber. The work feels best when the technical detail supports a clear outcome. A good reference point is Write the next small improvement before adding new surface area..
 - 03:20 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is privacy-focused product design, and A clean notes habit makes project decisions easier to revisit.
 - 03:20 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. and the way I think about OSINT workflows
+
+## 2026-10-06
+- 05:45 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. and the way I think about ethical hacking
