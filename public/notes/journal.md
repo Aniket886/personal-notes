@@ -2737,3 +2737,4 @@
 - 04:45 AM IST: BCA student at GM University, Davanagere. The current learning thread is privacy-focused product design, and Frontend polish still matters even in security-heavy products.
 - 04:45 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about secure-by-design engineering
 - 04:45 AM IST: Revisited FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. after thinking about OSINT Cyber Crime Investigation (CCI). I keep coming back to simplicity, speed, and trust. A good reference point is Stay close to the actual user problem..
+- 04:45 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is ethical hacking, and Frontend polish still matters even in security-heavy products.
