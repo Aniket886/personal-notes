@@ -2730,3 +2730,6 @@
 - 04:14 AM IST: Revisited Data Wiping Tool: a public data privacy utility published as a live project. after thinking about MongoDB AI and Innovation. The most useful tools are the ones people can adopt without friction. A good reference point is Document the thinking clearly enough that it can be reused..
 - 04:14 AM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is investigation workflow design, and Security learning becomes more durable when it is connected to a working product.
 - 04:14 AM IST: TryHackMe Top 1% with a 500-day learning streak. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about OSINT workflows
+
+## 2026-10-08
+- 04:45 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. and the way I think about OSINT workflows
