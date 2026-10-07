@@ -1149,3 +1149,4 @@
 - 04:45 AM IST: Idea to revisit: Keep translating security knowledge into tools that are easier to use. Related thread: privacy-focused product design
 - 04:45 AM IST: Working line: Secure by design beats secure by patch. Project anchor: GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths.
 - 04:45 AM IST: Build practical tools that make the web harder to break.
+- 04:45 AM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: AI-assisted developer tooling
