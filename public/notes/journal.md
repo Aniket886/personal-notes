@@ -2753,3 +2753,4 @@
 - 05:00 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is privacy-focused product design, and Developer tools become credible when the defaults are safe.
 - 05:00 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about digital forensics
 - 05:00 AM IST: Revisited Data Wiping Tool: a public data privacy utility published as a live project. after thinking about Digital Forensics Essentials (DFE). I keep coming back to simplicity, speed, and trust. A good reference point is Document the thinking clearly enough that it can be reused..
+- 05:00 AM IST: BCA student at GM University, Davanagere. The current learning thread is digital forensics, and OSINT and forensics work get stronger when the workflow is repeatable.
