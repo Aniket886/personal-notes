@@ -2749,3 +2749,4 @@
 ## 2026-10-09
 - 05:00 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is digital forensics, and A clean notes habit makes project decisions easier to revisit.
 - 05:00 AM IST: TryHackMe Top 1% with a 500-day learning streak. keeps standing out. It connects well with FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. and the way I think about OSINT workflows
+- 05:00 AM IST: Revisited FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. after thinking about Innovating with Google Cloud Artificial Intelligence. The build side matters as much as the investigation side. A good reference point is Turn the rough idea into something testable..
