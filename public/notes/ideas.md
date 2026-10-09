@@ -1156,3 +1156,6 @@
 - 05:00 AM IST: Good investigation notes are part of the product.
 - 05:00 AM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: ethical hacking
 - 05:00 AM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls.
+
+## 2026-10-10
+- 04:19 AM IST: The best workflow is the one I can explain clearly and repeat.
