@@ -2761,3 +2761,4 @@
 
 ## 2026-10-10
 - 04:19 AM IST: BCA student at GM University, Davanagere. The current learning thread is AI-assisted developer tooling, and A clean notes habit makes project decisions easier to revisit.
+- 04:19 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. and the way I think about OSINT workflows
