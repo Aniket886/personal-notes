@@ -1167,3 +1167,4 @@
 - 03:26 AM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: ethical hacking
 - 03:26 AM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls.
 - 03:26 AM IST: Build practical tools that make the web harder to break.
+- 03:26 AM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: web security fundamentals
