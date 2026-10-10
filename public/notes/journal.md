@@ -2772,3 +2772,6 @@
 - 04:19 AM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is OSINT workflows, and AI tooling is most useful when it reduces noise instead of adding it.
 - 04:19 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about ethical hacking
 - 04:19 AM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about Advent of Cyber. I keep coming back to simplicity, speed, and trust. A good reference point is Turn the rough idea into something testable..
+
+## 2026-10-11
+- 03:26 AM IST: Founder at CYBER DRAVIDA. The current learning thread is digital forensics, and Frontend polish still matters even in security-heavy products.
