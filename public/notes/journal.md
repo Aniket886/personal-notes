@@ -2776,3 +2776,4 @@
 ## 2026-10-11
 - 03:26 AM IST: Founder at CYBER DRAVIDA. The current learning thread is digital forensics, and Frontend polish still matters even in security-heavy products.
 - 03:26 AM IST: GitHub PRO with achievements including Pair Extraordinaire, Pull Shark, YOLO, and Quickdraw. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about secure-by-design engineering
+- 03:26 AM IST: Revisited MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. after thinking about Advent of Cyber. The most useful tools are the ones people can adopt without friction. A good reference point is Write the next small improvement before adding new surface area..
