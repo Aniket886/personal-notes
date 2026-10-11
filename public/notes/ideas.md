@@ -1171,3 +1171,4 @@
 
 ## 2026-10-12
 - 03:51 AM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: privacy-focused product design
+- 03:51 AM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: Data Wiping Tool: a public data privacy utility published as a live project.
