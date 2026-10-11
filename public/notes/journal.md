@@ -2784,3 +2784,6 @@
 - 03:26 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. and the way I think about AI-assisted developer tooling
 - 03:26 AM IST: Revisited hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. after thinking about Innovating with Google Cloud Artificial Intelligence. The strongest thread is still making security tooling practical for real users. A good reference point is Tighten the flow and keep the implementation honest..
 - 03:26 AM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is investigation workflow design, and OSINT and forensics work get stronger when the workflow is repeatable.
+
+## 2026-10-12
+- 03:51 AM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about Advent of Cyber. The most useful tools are the ones people can adopt without friction. A good reference point is Stay close to the actual user problem..
