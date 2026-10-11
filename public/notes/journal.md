@@ -2787,3 +2787,4 @@
 
 ## 2026-10-12
 - 03:51 AM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about Advent of Cyber. The most useful tools are the ones people can adopt without friction. A good reference point is Stay close to the actual user problem..
+- 03:51 AM IST: Founder at CYBER DRAVIDA. The current learning thread is OSINT workflows, and Security learning becomes more durable when it is connected to a working product.
