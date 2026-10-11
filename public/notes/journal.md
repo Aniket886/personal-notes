@@ -2790,3 +2790,4 @@
 - 03:51 AM IST: Founder at CYBER DRAVIDA. The current learning thread is OSINT workflows, and Security learning becomes more durable when it is connected to a working product.
 - 03:51 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about web security fundamentals
 - 03:51 AM IST: Revisited hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. after thinking about Advent of Cyber. The strongest thread is still making security tooling practical for real users. A good reference point is Document the thinking clearly enough that it can be reused..
+- 03:51 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is secure-by-design engineering, and A clean notes habit makes project decisions easier to revisit.
