@@ -1178,3 +1178,4 @@
 
 ## 2026-10-14
 - 04:31 AM IST: The best workflow is the one I can explain clearly and repeat.
+- 04:31 AM IST: Idea to revisit: Keep translating security knowledge into tools that are easier to use. Related thread: web security fundamentals
