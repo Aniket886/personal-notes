@@ -2795,3 +2795,4 @@
 
 ## 2026-10-13
 - 06:25 AM IST: BCA student at GM University, Davanagere. The current learning thread is digital forensics, and A clean notes habit makes project decisions easier to revisit.
+- 06:25 AM IST: TryHackMe Top 1% with a 500-day learning streak. keeps standing out. It connects well with terralens: an active TypeScript product iteration from April 2026. and the way I think about OSINT workflows
