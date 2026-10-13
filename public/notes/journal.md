@@ -2802,3 +2802,4 @@
 
 ## 2026-10-14
 - 04:31 AM IST: BCA student at GM University, Davanagere. The current learning thread is secure-by-design engineering, and Frontend polish still matters even in security-heavy products.
+- 04:31 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with terralens: an active TypeScript product iteration from April 2026. and the way I think about AI-assisted developer tooling
