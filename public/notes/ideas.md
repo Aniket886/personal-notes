@@ -1175,3 +1175,6 @@
 
 ## 2026-10-13
 - 06:25 AM IST: Build practical tools that make the web harder to break.
+
+## 2026-10-14
+- 04:31 AM IST: The best workflow is the one I can explain clearly and repeat.
