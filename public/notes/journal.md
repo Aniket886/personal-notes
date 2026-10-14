@@ -2809,3 +2809,6 @@
 - 04:31 AM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about OSINT Cyber Crime Investigation (CCI). The strongest thread is still making security tooling practical for real users. A good reference point is Turn the rough idea into something testable..
 - 04:31 AM IST: Cybersecurity intern experience across investigation and training roles. The current learning thread is ethical hacking, and Frontend polish still matters even in security-heavy products.
 - 04:31 AM IST: GitHub PRO with achievements including Pair Extraordinaire, Pull Shark, YOLO, and Quickdraw. keeps standing out. It connects well with FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. and the way I think about secure-by-design engineering
+
+## 2026-10-15
+- 03:23 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is secure-by-design engineering, and AI tooling is most useful when it reduces noise instead of adding it.
