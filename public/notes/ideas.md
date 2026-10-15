@@ -1191,3 +1191,4 @@
 ## 2026-10-16
 - 03:09 AM IST: Working line: Privacy features should feel normal, not optional. Project anchor: Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT.
 - 03:09 AM IST: Build practical tools that make the web harder to break.
+- 03:09 AM IST: Idea to revisit: Map one lesson from cybersecurity mentoring into a product UX decision. Related thread: privacy-focused product design
