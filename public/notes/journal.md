@@ -2823,3 +2823,6 @@
 - 03:23 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is OSINT workflows, and A clean notes habit makes project decisions easier to revisit.
 - 03:23 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about OSINT workflows
 - 03:23 AM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about Innovating with Google Cloud Artificial Intelligence. Good product framing keeps security work from becoming noise. A good reference point is Document the thinking clearly enough that it can be reused..
+
+## 2026-10-16
+- 03:09 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is digital forensics, and OSINT and forensics work get stronger when the workflow is repeatable.
