@@ -1190,3 +1190,4 @@
 
 ## 2026-10-16
 - 03:09 AM IST: Working line: Privacy features should feel normal, not optional. Project anchor: Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT.
+- 03:09 AM IST: Build practical tools that make the web harder to break.
