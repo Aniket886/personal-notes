@@ -1187,3 +1187,6 @@
 - 03:23 AM IST: Privacy features should feel normal, not optional.
 - 03:23 AM IST: Idea to revisit: Keep translating security knowledge into tools that are easier to use. Related thread: web security fundamentals
 - 03:23 AM IST: Working line: Good investigation notes are part of the product. Project anchor: Data Wiping Tool: a public data privacy utility published as a live project.
+
+## 2026-10-16
+- 03:09 AM IST: Working line: Privacy features should feel normal, not optional. Project anchor: Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT.
