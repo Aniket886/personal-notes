@@ -2842,3 +2842,4 @@
 
 ## 2026-10-17
 - 03:05 AM IST: Revisited hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. after thinking about Advent of Cyber. Good product framing keeps security work from becoming noise. A good reference point is Document the thinking clearly enough that it can be reused..
+- 03:05 AM IST: Founder at CYBER DRAVIDA. The current learning thread is OSINT workflows, and Security learning becomes more durable when it is connected to a working product.
