@@ -1194,3 +1194,6 @@
 - 03:09 AM IST: Idea to revisit: Map one lesson from cybersecurity mentoring into a product UX decision. Related thread: privacy-focused product design
 - 03:09 AM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls.
 - 03:10 AM IST: Secure by design beats secure by patch.
+
+## 2026-10-17
+- 03:05 AM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: OSINT workflows
