@@ -2843,3 +2843,4 @@
 ## 2026-10-17
 - 03:05 AM IST: Revisited hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. after thinking about Advent of Cyber. Good product framing keeps security work from becoming noise. A good reference point is Document the thinking clearly enough that it can be reused..
 - 03:05 AM IST: Founder at CYBER DRAVIDA. The current learning thread is OSINT workflows, and Security learning becomes more durable when it is connected to a working product.
+- 03:05 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT. and the way I think about privacy-focused product design
