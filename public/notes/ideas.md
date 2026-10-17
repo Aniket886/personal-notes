@@ -1205,3 +1205,4 @@
 - 02:21 AM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: OSINT workflows
 - 02:21 AM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: Data Wiping Tool: a public data privacy utility published as a live project.
 - 02:21 AM IST: Good investigation notes are part of the product.
+- 02:21 AM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: secure-by-design engineering
