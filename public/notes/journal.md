@@ -2860,3 +2860,4 @@
 - 02:21 AM IST: BCA student at GM University, Davanagere. The current learning thread is investigation workflow design, and AI tooling is most useful when it reduces noise instead of adding it.
 - 02:21 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. and the way I think about digital forensics
 - 02:21 AM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about Advent of Cyber. The build side matters as much as the investigation side. A good reference point is Keep the scope practical and focus on real-world use..
+- 02:21 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is investigation workflow design, and Developer tools become credible when the defaults are safe.
