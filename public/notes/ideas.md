@@ -1200,3 +1200,6 @@
 - 03:05 AM IST: Working line: Build practical tools that make the web harder to break. Project anchor: MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack.
 - 03:05 AM IST: Secure by design beats secure by patch.
 - 03:05 AM IST: Idea to revisit: Map one lesson from cybersecurity mentoring into a product UX decision. Related thread: AI-assisted developer tooling
+
+## 2026-10-18
+- 02:21 AM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: OSINT workflows
