@@ -2869,3 +2869,4 @@
 
 ## 2026-10-19
 - 02:28 AM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about Advent of Cyber. Good product framing keeps security work from becoming noise. A good reference point is Keep the scope practical and focus on real-world use..
+- 02:28 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is secure-by-design engineering, and Security learning becomes more durable when it is connected to a working product.
