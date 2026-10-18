@@ -1206,3 +1206,6 @@
 - 02:21 AM IST: Working line: Security tooling should reduce confusion, not create more of it. Project anchor: Data Wiping Tool: a public data privacy utility published as a live project.
 - 02:21 AM IST: Good investigation notes are part of the product.
 - 02:21 AM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: secure-by-design engineering
+
+## 2026-10-19
+- 02:28 AM IST: Working line: Secure by design beats secure by patch. Project anchor: GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths.
