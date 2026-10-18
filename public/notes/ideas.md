@@ -1209,3 +1209,4 @@
 
 ## 2026-10-19
 - 02:28 AM IST: Working line: Secure by design beats secure by patch. Project anchor: GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths.
+- 02:28 AM IST: Good investigation notes are part of the product.
