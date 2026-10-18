@@ -2866,3 +2866,6 @@
 - 02:21 AM IST: Founder at CYBER DRAVIDA. The current learning thread is digital forensics, and OSINT and forensics work get stronger when the workflow is repeatable.
 - 02:21 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT. and the way I think about privacy-focused product design
 - 02:21 AM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about MongoDB AI and Innovation. The most useful tools are the ones people can adopt without friction. A good reference point is Tighten the flow and keep the implementation honest..
+
+## 2026-10-19
+- 02:28 AM IST: Revisited india-cyber-guard: an active TypeScript security-oriented repository. after thinking about Advent of Cyber. Good product framing keeps security work from becoming noise. A good reference point is Keep the scope practical and focus on real-world use..
