@@ -1213,3 +1213,4 @@
 
 ## 2026-10-20
 - 04:04 AM IST: Secure by design beats secure by patch.
+- 04:04 AM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: OSINT workflows
