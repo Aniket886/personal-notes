@@ -1216,3 +1216,4 @@
 - 04:04 AM IST: Idea to revisit: Turn one investigation habit into a developer-facing checklist. Related thread: OSINT workflows
 - 04:04 AM IST: Working line: Good investigation notes are part of the product. Project anchor: MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack.
 - 04:04 AM IST: Secure by design beats secure by patch.
+- 04:04 AM IST: Idea to revisit: Keep translating security knowledge into tools that are easier to use. Related thread: secure-by-design engineering
