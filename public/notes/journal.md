@@ -2880,3 +2880,4 @@
 - 04:04 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is ethical hacking, and Developer tools become credible when the defaults are safe.
 - 04:04 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with terralens: an active TypeScript product iteration from April 2026. and the way I think about digital forensics
 - 04:04 AM IST: Revisited Data Wiping Tool: a public data privacy utility published as a live project. after thinking about OSINT Cyber Crime Investigation (CCI). The build side matters as much as the investigation side. A good reference point is Tighten the flow and keep the implementation honest..
+- 04:04 AM IST: Founder at CYBER DRAVIDA. The current learning thread is OSINT workflows, and OSINT and forensics work get stronger when the workflow is repeatable.
