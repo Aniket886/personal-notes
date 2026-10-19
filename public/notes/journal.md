@@ -2873,3 +2873,6 @@
 - 02:28 AM IST: GitHub PRO with achievements including Pair Extraordinaire, Pull Shark, YOLO, and Quickdraw. keeps standing out. It connects well with GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. and the way I think about privacy-focused product design
 - 02:28 AM IST: Revisited GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. after thinking about MongoDB AI and Innovation. Good product framing keeps security work from becoming noise. A good reference point is Keep the scope practical and focus on real-world use..
 - 02:28 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is OSINT workflows, and OSINT and forensics work get stronger when the workflow is repeatable.
+
+## 2026-10-20
+- 04:04 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with terralens: an active TypeScript product iteration from April 2026. and the way I think about OSINT workflows
