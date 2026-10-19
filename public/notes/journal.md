@@ -2878,3 +2878,4 @@
 - 04:04 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with terralens: an active TypeScript product iteration from April 2026. and the way I think about OSINT workflows
 - 04:04 AM IST: Revisited hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. after thinking about MongoDB AI and Innovation. I keep coming back to simplicity, speed, and trust. A good reference point is Stay close to the actual user problem..
 - 04:04 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is ethical hacking, and Developer tools become credible when the defaults are safe.
+- 04:04 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with terralens: an active TypeScript product iteration from April 2026. and the way I think about digital forensics
