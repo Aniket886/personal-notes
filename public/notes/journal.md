@@ -2890,3 +2890,6 @@
 - 04:04 AM IST: TryHackMe Top 1% with a 500-day learning streak. keeps standing out. It connects well with GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. and the way I think about OSINT workflows
 - 04:04 AM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about MongoDB AI and Innovation. Good product framing keeps security work from becoming noise. A good reference point is Turn the rough idea into something testable..
 - 04:04 AM IST: Founder at CYBER DRAVIDA. The current learning thread is privacy-focused product design, and A clean notes habit makes project decisions easier to revisit.
+
+## 2026-10-21
+- 03:18 AM IST: Founder at CYBER DRAVIDA. The current learning thread is secure-by-design engineering, and Security learning becomes more durable when it is connected to a working product.
