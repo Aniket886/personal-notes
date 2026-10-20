@@ -2893,3 +2893,4 @@
 
 ## 2026-10-21
 - 03:18 AM IST: Founder at CYBER DRAVIDA. The current learning thread is secure-by-design engineering, and Security learning becomes more durable when it is connected to a working product.
+- 03:18 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. and the way I think about investigation workflow design
