@@ -2897,3 +2897,6 @@
 - 03:18 AM IST: Revisited GitReverse: a repo intelligence tool that turns a GitHub link into architecture notes, key files, prompts, security observations, and scaling paths. after thinking about Google AI Essentials. The most useful tools are the ones people can adopt without friction. A good reference point is Turn the rough idea into something testable..
 - 03:18 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is AI-assisted developer tooling, and AI tooling is most useful when it reduces noise instead of adding it.
 - 03:18 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. and the way I think about investigation workflow design
+
+## 2026-10-22
+- 03:25 AM IST: Founder at CYBER DRAVIDA. The current learning thread is web security fundamentals, and Security learning becomes more durable when it is connected to a working product.
