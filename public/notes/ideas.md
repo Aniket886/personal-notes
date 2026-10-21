@@ -1220,3 +1220,6 @@
 
 ## 2026-10-21
 - 03:18 AM IST: Idea to revisit: Keep translating security knowledge into tools that are easier to use. Related thread: OSINT workflows
+
+## 2026-10-22
+- 03:25 AM IST: Idea to revisit: Capture the build logic before the implementation gets noisy. Related thread: web security fundamentals
