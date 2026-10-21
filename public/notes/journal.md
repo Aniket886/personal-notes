@@ -2900,3 +2900,4 @@
 
 ## 2026-10-22
 - 03:25 AM IST: Founder at CYBER DRAVIDA. The current learning thread is web security fundamentals, and Security learning becomes more durable when it is connected to a working product.
+- 03:25 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about privacy-focused product design
