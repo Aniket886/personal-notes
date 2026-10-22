@@ -2912,3 +2912,4 @@
 ## 2026-10-23
 - 03:21 AM IST: Revisited MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. after thinking about Innovating with Google Cloud Artificial Intelligence. The strongest thread is still making security tooling practical for real users. A good reference point is Document the thinking clearly enough that it can be reused..
 - 03:21 AM IST: Former Technical Secretary (FCIT) at GM University. The current learning thread is web security fundamentals, and OSINT and forensics work get stronger when the workflow is repeatable.
+- 03:21 AM IST: Tech Carnival 2K26 core organizer at GM University. keeps standing out. It connects well with FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. and the way I think about ethical hacking
