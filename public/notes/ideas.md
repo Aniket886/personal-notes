@@ -1230,3 +1230,4 @@
 - 03:21 AM IST: Idea to revisit: Treat every project as a chance to make privacy defaults clearer. Related thread: OSINT workflows
 - 03:21 AM IST: Working line: Good investigation notes are part of the product. Project anchor: FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face.
 - 03:21 AM IST: Security tooling should reduce confusion, not create more of it.
+- 03:21 AM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: privacy-focused product design
