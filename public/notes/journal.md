@@ -2908,3 +2908,6 @@
 - 03:25 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is privacy-focused product design, and OSINT and forensics work get stronger when the workflow is repeatable.
 - 03:25 AM IST: GitHub PRO with achievements including Pair Extraordinaire, Pull Shark, YOLO, and Quickdraw. keeps standing out. It connects well with hand-gestures: an ArcMotion build focused on spatial interaction, gesture tracking, and voice controls. and the way I think about web security fundamentals
 - 03:25 AM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about MongoDB AI and Innovation. The most useful tools are the ones people can adopt without friction. A good reference point is Document the thinking clearly enough that it can be reused..
+
+## 2026-10-23
+- 03:21 AM IST: Revisited MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. after thinking about Innovating with Google Cloud Artificial Intelligence. The strongest thread is still making security tooling practical for real users. A good reference point is Document the thinking clearly enough that it can be reused..
