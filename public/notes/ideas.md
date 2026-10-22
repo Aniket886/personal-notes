@@ -1231,3 +1231,4 @@
 - 03:21 AM IST: Working line: Good investigation notes are part of the product. Project anchor: FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face.
 - 03:21 AM IST: Security tooling should reduce confusion, not create more of it.
 - 03:21 AM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: privacy-focused product design
+- 03:21 AM IST: Working line: Privacy features should feel normal, not optional. Project anchor: MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack.
