@@ -2917,3 +2917,4 @@
 - 03:21 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is secure-by-design engineering, and Frontend polish still matters even in security-heavy products.
 - 03:21 AM IST: Trained 500+ students in cybersecurity fundamentals. keeps standing out. It connects well with india-cyber-guard: an active TypeScript security-oriented repository. and the way I think about privacy-focused product design
 - 03:21 AM IST: Revisited Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT. after thinking about Advent of Cyber. I keep coming back to simplicity, speed, and trust. A good reference point is Stay close to the actual user problem..
+- 03:21 AM IST: Founder at CYBER DRAVIDA. The current learning thread is digital forensics, and Security learning becomes more durable when it is connected to a working product.
