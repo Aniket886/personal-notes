@@ -1236,3 +1236,4 @@
 ## 2026-10-24
 - 03:04 AM IST: The best workflow is the one I can explain clearly and repeat.
 - 03:04 AM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: investigation workflow design
+- 03:04 AM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: Data Wiping Tool: a public data privacy utility published as a live project.
