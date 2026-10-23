@@ -1238,3 +1238,4 @@
 - 03:04 AM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: investigation workflow design
 - 03:04 AM IST: Working line: The best workflow is the one I can explain clearly and repeat. Project anchor: Data Wiping Tool: a public data privacy utility published as a live project.
 - 03:04 AM IST: Good investigation notes are part of the product.
+- 03:05 AM IST: Idea to revisit: Keep translating security knowledge into tools that are easier to use. Related thread: ethical hacking
