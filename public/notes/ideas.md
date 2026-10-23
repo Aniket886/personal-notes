@@ -1235,3 +1235,4 @@
 
 ## 2026-10-24
 - 03:04 AM IST: The best workflow is the one I can explain clearly and repeat.
+- 03:04 AM IST: Idea to revisit: Write notes that connect learning, shipping, and trust. Related thread: investigation workflow design
