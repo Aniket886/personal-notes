@@ -2926,3 +2926,4 @@
 
 ## 2026-10-24
 - 03:04 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is web security fundamentals, and OSINT and forensics work get stronger when the workflow is repeatable.
+- 03:04 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about digital forensics
