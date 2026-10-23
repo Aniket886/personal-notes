@@ -2927,3 +2927,4 @@
 ## 2026-10-24
 - 03:04 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is web security fundamentals, and OSINT and forensics work get stronger when the workflow is repeatable.
 - 03:04 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with Data Wiping Tool: a public data privacy utility published as a live project. and the way I think about digital forensics
+- 03:04 AM IST: Revisited MetaClean: privacy-first metadata removal tool with support for 15+ file types, batch processing, ZIP support, audit PDF reports, and a React + TypeScript + Supabase + Vercel stack. after thinking about Google AI Essentials. Good product framing keeps security work from becoming noise. A good reference point is Write the next small improvement before adding new surface area..
