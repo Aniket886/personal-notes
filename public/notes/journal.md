@@ -2934,3 +2934,4 @@
 - 03:04 AM IST: Founder at CYBER DRAVIDA. The current learning thread is ethical hacking, and A clean notes habit makes project decisions easier to revisit.
 - 03:04 AM IST: Participant in HACKANOVA 2026. keeps standing out. It connects well with Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT. and the way I think about ethical hacking
 - 03:04 AM IST: Revisited terralens: an active TypeScript product iteration from April 2026. after thinking about Innovating with Google Cloud Artificial Intelligence. The strongest thread is still making security tooling practical for real users. A good reference point is Stay close to the actual user problem..
+- 03:04 AM IST: Founder at CYBER DRAVIDA. The current learning thread is digital forensics, and A clean notes habit makes project decisions easier to revisit.
