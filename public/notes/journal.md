@@ -2923,3 +2923,6 @@
 - 03:21 AM IST: Founder at CYBER DRAVIDA. The current learning thread is digital forensics, and A clean notes habit makes project decisions easier to revisit.
 - 03:21 AM IST: GitHub PRO with achievements including Pair Extraordinaire, Pull Shark, YOLO, and Quickdraw. keeps standing out. It connects well with Tech Carnival 2K26 Website: a full-stack event platform for GM University with 310+ participants, 8 events, a live countdown, admin dashboard, leaderboard, and CarniBOT. and the way I think about ethical hacking
 - 03:21 AM IST: Revisited FakeBusters: a multimodal AI social media deception detector built for HACKANOVA 2026 using GPT-4o Vision, Gemini, and Hugging Face. after thinking about MongoDB AI and Innovation. The build side matters as much as the investigation side. A good reference point is Stay close to the actual user problem..
+
+## 2026-10-24
+- 03:04 AM IST: Former Ethical Hacking Mentor at Hack_Gurukula. The current learning thread is web security fundamentals, and OSINT and forensics work get stronger when the workflow is repeatable.
